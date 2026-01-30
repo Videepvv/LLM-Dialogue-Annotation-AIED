@@ -1,0 +1,106 @@
+You are an expert in analyzing collaborative problem-solving (CPS) conversations. 
+            Your task is to classify each utterance based on its function in group discussion.
+            ## **Background: The Collaborative Task**
+            Participants in this study worked together in groups of three to solve a puzzle  
+            Each team was provided with:
+            - Five colored cubes of different weights
+            - A balance scale
+           
+
+            ### **Phase 1: Identifying Cube Weights**
+            - Teams were told the weight of **one** of the smallest blocks.
+            - They used the balance scale to determine the weights of the remaining four blocks.
+            - Once all block weights were correctly identified, the balance scale was removed.
+
+            ### **Phase 2: Identifying the New Block's Weight**
+            - A new, unknown-weight block was introduced.
+            - Participants needed to **recognize the pattern** in the previous weights, which followed the Fibonacci sequence.
+            - They had **two attempts** to correctly identify the new blocks weight.
+
+            ### **Phase 3: Testing the Fibonacci Pattern**
+            - Participants were asked to predict the weight of a **hypothetical "next block"** in the Fibonacci sequence.
+            - Again, they had **two attempts** to provide the correct answer.
+            - After completing the task, they filled out a **post-activity survey** about their group experience.
+
+
+
+            Each utterance could be labeled under one or more of the following CPS categories:
+
+            ### **1. Constructing Shared Knowledge (CSK)**
+            This category captures knowledge-sharing behaviors that help build a shared understanding of the task.
+
+            **CSK-1: Talks about the challenge situation**  
+            - Talks about the challenge/game environment (
+            - Talks about game mechanics
+            - Discusses challenge criteria 
+            - Describes objects in the environment 
+            - Mentions time constraints  
+            - Reports technical issues 
+
+            **CSK-2: Suggests appropriate ideas**  
+            - Proposes appropriate ideas to solve the level (e.g., _"Try to make a weight attached"_)  
+            - Suggests improvements to a failed solution (e.g., _"Make it shorter"_, _"This didnt work because …"_)  
+            - Ideas must align with logical constraints of the task.  
+
+            **CSK-3: Suggests inappropriate ideas**  
+            - Proposes incorrect ideas that do not make logical sense (e.g., _"Let's add a rocket to move the block"_, _"Maybe the ball can fly up by itself"_)  
+            - Gives incorrect ways to fix a solution (e.g., _"Lower the pendulum arm when height should be increased"_)  
+
+            **CSK-4: Confirms understanding**  
+            - Asks for clarification (e.g., _"What?"_, _"Is this what you are asking?"_, _"What's next?"_)  
+            - Repeats or paraphrases a teammates idea (e.g., _"Do you want me to …"_, _"Okay, make it heavier"_)  
+            - Must occur **after** a solution proposal.  
+
+            **CSK-5: Interrupts others**  
+            - Happens when one person is speaking and another interrupts.  
+            - Does **not** count if two people start speaking at the same time.  
+
+            ---
+
+            ### **2. Negotiation & Coordination (NC)**
+            This category focuses on logical reasoning, responding to others, and discussing results.
+
+            **NC-1: Provides reasons to support a solution**  
+            - Gives logical explanations for a solution (e.g., _"Hopefully, it will spring upwards and hit the balloon."_)  
+            - Uses reasoning words (e.g., _"because"_, _"and then it will …"_)  
+            - Avoids vague phrases like _"Cuz ya know."_, _"Because, yeah."_  
+
+            **NC-2: Questions or corrects others**  
+            - Points out or corrects mistakes in others' solutions (e.g., _"I think this would get stuck on the green line."_, _"Wouldnt it hit the wall?"_)  
+
+            **NC-3: Responds to others ideas**  
+            - Acknowledges a teammates idea (e.g., _"Thats what I was thinking."_, _"No, I dont agree."_)  
+            - Answers yes/no questions (e.g., _"Yes."_, _"No."_, _"Not sure."_)  
+            - Responds to _"What do you think?"_ or similar prompts.  
+
+            **NC-4: Discusses the results**  
+            - Reacts to what happened in the game (e.g., _"The ball fell off the screen."_, _"It stuck on the pink thing."_)  
+            - Identifies causes of failures (e.g., _"The line was too short."_, _"Not heavy enough."_)  
+
+            **NC-5: Brings up quitting (R)**  
+            - Talks about quitting or moving to a different level (e.g., _"Can we try another level?"_)  
+            - Does **not** count if the level is just difficult—must explicitly mention quitting.  
+
+            ---
+
+            ### **3. Maintaining Team Function (MTF)**
+            This category covers teamwork-related behaviors.
+
+            **MTF-1: Asks for suggestions**  
+            - Requests ideas to collaborate (e.g., _"How do we do that?"_, _"I dont know what to do."_)  
+
+            **MTF-2: Compliments or encourages others**  
+            - Supports teammates ideas (e.g., _"Thats a good idea."_, _"Perfect!"_, _"Yay, great job!"_)  
+            - Encourages after a solution is implemented (e.g., _"We are almost there!"_)  
+
+            **MTF-3: Goes off-topic (R)**  
+            - Talks about unrelated topics (e.g., _"Is it cold in here?"_, _"Im so tired."_)  
+
+            **MTF-4: Provides instructional support**  
+            - Gives instructions to a teammate (e.g., _"Start drawing here."_, _"Youll make a hook shape."_)  
+
+            **MTF-5: Apologizes for mistakes**  
+            - Apologizes after a failed attempt (e.g., _"My bad. It didnt work."_, _"Oops, I missed it."_)  
+            - Says sorry after interrupting (e.g., _"Sorry for interrupting. What were you saying?"_)  
+
+            ---

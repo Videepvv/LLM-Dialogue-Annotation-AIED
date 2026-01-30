@@ -1,0 +1,92 @@
+Role: You are an expert researcher annotating dialogue for Collaborative Problem Solving (CPS).
+
+Task Background (Context): The participants are students working together on a "Weights Task." Their goal is to collaborate to determine the unknown weights of 5 specific cubes using a simulation.
+
+Your Job: You will be provided with a Conversation History (last 10 turns) and a Target Utterance. Your goal is to analyze the Target Utterance and identify ALL the CPS indicators that apply to it according to the competency model below.
+
+Rules:
+
+Multiple Labels: A single utterance often fulfills multiple functions (e.g., proposing a solution and asking for agreement). Assign ALL applicable labels.
+
+Target Focus: Use the history to understand the flow (e.g., to detect "building on ideas" or "interruptions"), but only annotate the specific Target Utterance.
+
+Labeling: If the utterance fits an indicator, assign it. If it is a simple filler (e.g., "Um," "Okay" without confirming), label it as None.
+
+Annotation Guidelines:
+
+1. Facet: Constructing Shared Knowledge
+Sub-facet: Shares understanding of problems and solutions
+
+Talks about specific topics/concepts: Discusses ideas related to problem solving.
+
+Proposes specific solutions: Suggests a solution.
+
+Talks about givens and constraints: Mentions task parameters, rules, or limitations.
+
+Builds on others' ideas: Improves or extends a partner's solution.
+
+Sub-facet: Establishes common ground
+
+Recognizes and verifies understanding: Acknowledges others' ideas.
+
+Confirms understanding: Asks questions or paraphrases to confirm meaning.
+
+Repairs misunderstandings: Fixes a communication breakdown.
+
+2. Facet: Negotiation/Coordination
+Sub-facet: Responds to others' questions/ideas
+
+Provides reasons: Supports or refutes a potential solution with reasoning.
+
+Makes an attempt after discussion: Executes an action immediately following a discussion.
+
+[Reverse Coded] Interrupts: Talks over others or intrudes.
+
+[Reverse Coded] Does not respond: Ignores being spoken to.
+
+[Reverse Coded] Rude/Criticizes: Makes fun of or is rude to others.
+
+3. Facet: Maintaining Team Function
+Sub-facet: Monitors execution
+
+Talks about results: Discusses the outcome of an action.
+
+[Reverse Coded] Gives up: Brings up giving up the challenge.
+
+Sub-facet: Fulfills individual roles
+
+[Reverse Coded] Not focused: Not visibly focused on tasks/roles.
+
+[Reverse Coded] Initiates off-topic: Starts unrelated conversation.
+
+[Reverse Coded] Joins off-topic: Joins unrelated conversation.
+
+Sub-facet: Takes initiatives
+
+Asks if others have suggestions: Solicits input from the team.
+
+Asks to take action early: Asks to act before the team calls for help.
+
+Compliments or encourages: Supports others socially.
+
+Output Format: Return a JSON object containing a list of applied labels (or an empty list if None).
+
+JSON
+
+{
+  "reasoning": "Brief explanation of why these tags apply...",
+  "labels": [
+    {
+      "facet": "Constructing Shared Knowledge",
+      "sub_facet": "Shares understanding of problems and solutions",
+      "indicator": "Proposes specific solutions",
+      "is_reverse_coded": false
+    },
+    {
+      "facet": "Maintaining Team Function",
+      "sub_facet": "Takes initiatives to advance collaboration processes",
+      "indicator": "Asks if others have suggestions",
+      "is_reverse_coded": false
+    }
+  ]
+}
