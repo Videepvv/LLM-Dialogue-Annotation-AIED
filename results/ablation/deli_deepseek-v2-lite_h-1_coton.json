@@ -1,0 +1,2002 @@
+[
+  {
+    "original_index": 7040,
+    "utterance": "'oh yeah you''re right . it doesn''t say anything about consonants'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and debating different aspects of a task. They are discussing the rules and interpretation of a task, trying to reach a consensus on the correct interpretation of the rules. The participants are actively discussing and debating different aspects of the task, which is crucial for collaborative problem-solving. They are not just stating their opinions but also considering and evaluating each other's points to reach a consensus. This shows a collaborative problem-solving process where each participant is actively participating and contributing to the discussion.",
+    "reasoning_target": "The conversation involves multiple participants discussing and analyzing a rule or situation, with each participant providing their perspective and reasoning. The discussion includes analyzing a rule, suggesting options, and evaluating the best course of action. This involves reasoning and agreement or disagreement, which fits the category of 'Reasoning'."
+  },
+  {
+    "original_index": 6692,
+    "utterance": "i think we can eliminate flipping <CARD> and <CARD> due to that",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves a group discussing a problem and trying to solve it. The participants are discussing the strategy, testing different possibilities, and analyzing the rules. They are reasoning about the conditions and testing the conditions, trying to find a solution. The conversation is focused on analyzing the problem, discussing the rules, and making decisions based on the rules provided."
+  },
+  {
+    "original_index": 16546,
+    "utterance": "I selected the \" <CARD> \" and \" <CARD> \" card",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is providing information about the cards they have selected, which is useful for the group to understand the current state of the game.",
+    "reasoning_target": "The speaker is providing a reason for their action, explaining their choice of cards."
+  },
+  {
+    "original_index": 3791,
+    "utterance": "ok ill choose <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user Guin is contributing to the task by suggesting choices for the task, indicating agreement with the choices made by others and suggesting their own choices, which are relevant to the task.",
+    "reasoning_target": "The speaker is reasoning about the card selection, discussing the properties of the cards and making a decision on which cards to choose, which involves analyzing and evaluating the properties of the cards."
+  },
+  {
+    "original_index": 12166,
+    "utterance": "exactly <MENTION> . I think either just the <CARD> , or all <CARD> . GP , what is your reasoning for choosing another in addition to <CARD> ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and debating different strategies and options for solving a problem. They are discussing the best approach to verify a rule, considering different cards and their properties. The participants are actively discussing and debating their ideas, trying to reach a consensus on the best approach. This aligns with the 'NPD' (Non-Probing Deliberation) category as they are discussing solutions, reasoning, and expressing positions related to the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing and debating over a specific card selection and rule verification. The participants are trying to understand the rules and decide on the best approach to verify the rule. The discussion includes reasoning and challenging each other's points to reach a consensus on the best approach to verify the rule."
+  },
+  {
+    "original_index": 16918,
+    "utterance": "What about Zebra ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "Bee and Llam are discussing the solution to a task, discussing the details of the solution, and confirming agreement among the group. Bee and Llam are discussing the solution to a task, discussing the details of the solution, and confirming agreement among the group.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and agreeing on a specific action to be taken. The participants are verifying rules, agreeing on specific cards, and finalizing the decision to proceed with a certain action. The conversation focuses on verifying rules, agreeing on specific cards, and confirming the decision to proceed with a certain action. The discussion involves analyzing rules, evaluating logic, and managing the group process by reaching a consensus on the decision."
+  },
+  {
+    "original_index": 9949,
+    "utterance": "TRUE",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing a task, suggesting solutions, and agreeing on the steps to be taken. They are deliberating on the task, discussing the criteria for the solution, and confirming the steps to be taken. This aligns with the 'NPD' (Non-Probing Deliberation) category as they are discussing the task, suggesting solutions, and reasoning about the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing a task or problem, with each participant providing input that contributes to the discussion. The participants are discussing a specific task or problem, suggesting actions, and confirming or challenging each other's ideas. This aligns with the 'Reasoning' category as the participants are analyzing the situation, evaluating options, and discussing the logic or rules related to the task at hand."
+  },
+  {
+    "original_index": 5963,
+    "utterance": "finale desicion isA",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Beav provides a reasoning for their decision, stating that all cards with vowels have an even number on the other side. This reasoning is important for the group to understand the logic behind the decision.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to justify their decision, explaining why a specific card is the correct choice based on the given rule."
+  },
+  {
+    "original_index": 11820,
+    "utterance": "<MENTION> ? Still there ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on a specific topic (choosing cards based on certain criteria). The conversation includes statements that contribute to the decision-making process, such as expressing positions, reasoning, and agreeing on a decision. The participants are discussing and agreeing on the selected cards based on the criteria provided.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on a specific card selection based on a rule. The discussion includes agreement and disagreement, with Guin suggesting a different interpretation of the rule, leading to a final agreement on the selected cards."
+  },
+  {
+    "original_index": 14184,
+    "utterance": "With understanding the rule ; \" All \" should imply every single one , right ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is focused on discussing the task, analyzing the rules, and reasoning about the possible outcomes based on the given rules. Participants are discussing the rules, challenging each other's ideas, and trying to understand the implications of the rules. This is crucial for collaborative problem-solving where each member is contributing to the solution by providing their insights and reasoning.",
+    "reasoning_target": "The conversation involves a discussion about the rules and interpretation of a rule related to card selection. The participants are discussing the conditions and implications of the rule, analyzing the rules, and trying to understand the implications of the rule. The conversation is focused on understanding the rule and how it applies to the cards selected."
+  },
+  {
+    "original_index": 4506,
+    "utterance": "<CARD> also",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a solution, with each person contributing their thoughts and agreeing on the best approach. This aligns with the 'NPD' category as they are discussing and reasoning about the task at hand.",
+    "reasoning_target": "The conversation involves a group discussing a problem and trying to find a solution. The participants are discussing the best solution, evaluating options, and agreeing on a plan. The conversation includes reasoning and agreement, but no explicit disagreement or disagreement."
+  },
+  {
+    "original_index": 5202,
+    "utterance": "thanks",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and agreeing on a solution to a task. They are discussing the rules, testing cards, and confirming the decision. The participants are expressing agreement and confirming the decision, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and agreeing on a specific action or decision. The participants are discussing the rules and conditions for testing card pairs, focusing on the presence of vowels and even numbers. They are deciding on which cards to test based on the rule that cards with vowels should have an even number on the other side. The conversation includes agreement and agreement among the participants, with each participant contributing to the decision-making process. The discussion is focused on understanding and applying the rules to make a collective decision."
+  },
+  {
+    "original_index": 370,
+    "utterance": "im good with that",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "Ox, Lion, and Emu are discussing the rules of a game, discussing the best strategy to test the rule. They are deliberating on whether to flip all cards or not, considering the possible outcomes based on the rules of the game. The discussion includes identifying the correct cards to flip and the potential outcomes based on the rule of the game.",
+    "reasoning_target": "The dialogue involves a group discussing a game involving cards and rules. The discussion revolves around the rules of the game, the rules about flipping cards, and the decision-making process for testing the rules. The conversation includes multiple participants, each contributing to the decision-making process, discussing the rules, and agreeing on the method to test the rules."
+  },
+  {
+    "original_index": 12283,
+    "utterance": "When I write Es they do normally look like backwards 3s now that you mention it lol",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by providing their thoughts and reasoning for their decisions. They are discussing the solution and reasoning behind their choices, which is useful for the task at hand. They are also considering the implications of their choices and discussing the potential implications of their decisions.",
+    "reasoning_target": "The conversation involves a group discussing a rule and testing it, with each person contributing their thoughts and reasoning. The participants are analyzing the rule, suggesting tests, and discussing the implications of the rule. This involves reasoning and analyzing the rule, which fits the 'Reasoning' category."
+  },
+  {
+    "original_index": 3889,
+    "utterance": "Heyo",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user 'HeYo' is a casual greeting, likely used to initiate a conversation or acknowledge others' presence, which is a common social interaction in a collaborative setting.",
+    "reasoning_target": "The utterance 'He yo' is a casual greeting, indicating a friendly interaction without providing a specific solution or reasoning."
+  },
+  {
+    "original_index": 11225,
+    "utterance": "I think <MENTION> has gone ?",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing a problem and trying to reach a consensus on the best solution. They are discussing the options and reasoning about the choices, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing and analyzing a problem, suggesting solutions, and agreeing on a solution. The participants are reasoning and evaluating options, which indicates a need for understanding and decision-making. The conversation is focused on problem-solving and decision-making, which fits the category of reasoning or reasoning about a problem."
+  },
+  {
+    "original_index": 1411,
+    "utterance": "<CARD> has a vowel also",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by stating that <CARD> also has a vowel, which is relevant to the task at hand.",
+    "reasoning_target": "The speaker is providing information about the content of <CARD>, specifically mentioning that it has a vowel. This is a reasoning or explanation of a characteristic of the content."
+  },
+  {
+    "original_index": 4556,
+    "utterance": "good to do",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "Lion initiated a discussion about the task, expressing confusion and questioning the process, which is relevant to the task and contributes to the collaborative problem-solving process.",
+    "reasoning_target": "The speaker is providing reasoning or explaining a point, indicating that they are explaining the reasoning behind their actions or thoughts. This is evident from the statement 'good to do', which suggests they are providing a reason for what they are doing or thinking."
+  },
+  {
+    "original_index": 9914,
+    "utterance": "So I chose <CARD> to turn around",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The user is providing their choice for a card, which is relevant to the task and contributes to the discussion about the task.",
+    "reasoning_target": "The speaker is proposing a specific action (turning around) as a solution to a situation."
+  },
+  {
+    "original_index": 10919,
+    "utterance": "okay",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user 'Lion' has joined the conversation and greeted the others. This is a social interaction that sets a friendly tone for the group, which is important in collaborative problem-solving settings.",
+    "reasoning_target": "The speaker is providing reasoning for their choice in a game, explaining their logic behind not choosing a specific card. This involves analyzing the rules and making a decision based on those rules."
+  },
+  {
+    "original_index": 8496,
+    "utterance": "Me too . Goodbye",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing a problem, proposing solutions, and agreeing on a solution. The participants are discussing the rules and reasoning behind their decisions, which is crucial for collaborative problem-solving. The dialogue includes statements like 'I think', 'I put 6 and S', 'Yes I agree', which are examples of NPD (Non-Probing Deliberation). The conversation is focused on problem-solving and decision-making, which aligns with the criteria for classifying utterances as NPD.",
+    "reasoning_target": "The conversation involves a discussion about a rule and its application, with each participant providing reasoning and agreement on the interpretation of the rule. The participants are discussing the application of a rule, analyzing the conditions, and reaching a consensus on the interpretation."
+  },
+  {
+    "original_index": 2446,
+    "utterance": "7,8 , <CARD> ... OK",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and deliberate on a task. They discuss the rules, test the rules, and come to a consensus on the correct interpretation of the rules. The dialogue includes various participants contributing to the discussion, proposing solutions, and agreeing on the correct interpretation of the rules. The discussion is focused on understanding the rules and ensuring the correct interpretation of the rules.",
+    "reasoning_target": "The conversation involves a discussion where participants are discussing and analyzing a rule related to the number of vowels and consonants on the other side of cards. They are trying to determine if the rule about consonants having odd numbers on the other side is correct. They discuss flipping cards and testing the rule, and they agree on testing specific cards to determine if the rule is correct. The conversation involves reasoning and analyzing the rule, discussing the implications of flipping cards, and agreeing on testing specific cards to determine if the rule is correct."
+  },
+  {
+    "original_index": 17121,
+    "utterance": "I originally did <CARD> , <CARD> , and <CARD> and while I was waiting for you guys I was like ... shoot . That was wrong lol",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user's utterance is a part of a collaborative problem-solving dialogue where participants are discussing and deciding on the best approach to a task. The dialogue includes statements that contribute to the decision-making process, such as suggesting solutions, agreeing on choices, and discussing the reasoning behind their decisions. This aligns with the 'NPD' (Non-Probing Deliberation) category as the statements are useful for the task and contribute to the decision-making process.",
+    "reasoning_target": "The conversation involves multiple participants discussing and analyzing a task or problem, suggesting solutions, and agreeing or disagreeing with each other's ideas. The participants are actively engaging in a discussion to solve a problem or understand a concept, which involves reasoning and decision-making. The conversation is focused on problem-solving and decision-making, which fits the category of 'Reasoning'."
+  },
+  {
+    "original_index": 2781,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user, Tige, initiates the conversation with a greeting, which is a common social interaction and does not directly contribute to the task or task-related discussion.",
+    "reasoning_target": "The speaker is asking for a greeting, which is a common way to start a conversation. It is a simple request for acknowledgment and does not involve a solution, reasoning, moderation, agreement, or disagreement."
+  },
+  {
+    "original_index": 671,
+    "utterance": "'Wait , it''s not <CARD> and <CARD> .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and trying to solve it by discussing different strategies and options. The participants are reasoning through the problem, analyzing the rules, and trying to find a solution. The conversation is focused on understanding the rules and finding a solution to the problem, which involves reasoning and analyzing the rules."
+  },
+  {
+    "original_index": 13895,
+    "utterance": "we",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user Tige is discussing the task with Falc, discussing possible card options and considering vowels and even numbers. They are trying to determine the best approach for solving the task.",
+    "reasoning_target": "The conversation involves discussing and analyzing the rules and criteria for selecting cards, focusing on vowels and even numbers. The participants are trying to determine the correct cards based on the given conditions."
+  },
+  {
+    "original_index": 14030,
+    "utterance": "Yeah me too .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user is expressing agreement and a willingness to collaborate, which is relevant to the task of collaborative problem-solving.",
+    "reasoning_target": "The speaker is expressing agreement with the previous speaker's statement, indicating agreement or agreement with the shared sentiment or idea."
+  },
+  {
+    "original_index": 15401,
+    "utterance": "okay sounds good =D",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "Bee agrees with Ox's suggestion to use <CARD> and <CARD> for the task, indicating that the choices made are acceptable.",
+    "reasoning_target": "Bee is agreeing with Ox's suggestion to choose <CARD> and <CARD> for their task, indicating agreement and acceptance of the decision."
+  },
+  {
+    "original_index": 3925,
+    "utterance": "i think i disagree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on the best course of action regarding a specific task or problem. The participants are discussing the criteria for selecting cards, considering the rules and implications of each card's position and its relation to the overall goal. The dialogue includes multiple suggestions, agreements, and clarifications, which are typical in collaborative problem-solving settings where participants work together to reach a consensus or decision.",
+    "reasoning_target": "The conversation involves multiple participants discussing a specific rule or rule interpretation, analyzing the rules and their application to a specific scenario. The participants are discussing the use of certain cards based on the rule, debating the validity of using certain cards based on the rule and the number of cards involved. The conversation is focused on understanding and applying a rule, analyzing the rule, and making decisions based on the rule interpretation. The conversation is about applying a rule to a specific scenario, discussing the application of the rule to the cards involved."
+  },
+  {
+    "original_index": 4029,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking for the solutions or choices made by others in the group, which is useful for understanding the group's decision-making process.",
+    "reasoning_target": "The speaker is asking for solutions or answers to a task or problem, indicating a need for a solution or answer to a specific question or problem."
+  },
+  {
+    "original_index": 8560,
+    "utterance": "Agreed .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "Tige and Cat agree on the solution, confirming their agreement and summarizing their reasoning.",
+    "reasoning_target": "The conversation involves a discussion about the correct selection of cards based on specific criteria (even numbers and vowels). The participants agree on the solution, and one participant corrects a mistaken assumption about the card values, leading to a consensus on the correct selection."
+  },
+  {
+    "original_index": 6298,
+    "utterance": "'Why did you think it wasn''t <CARD> ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Lion is asking Gira why they think <CARD> is not the answer, indicating a discussion about the task at hand.",
+    "reasoning_target": "The speaker is asking for the reasoning or justification behind a decision made by others, specifically about the selection of a particular card. The speaker is seeking an explanation for the choice made, indicating a need for understanding or validation of the decision."
+  },
+  {
+    "original_index": 150,
+    "utterance": "if so , then we know the rule is not true",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing the rules and reasoning behind their choices, discussing the need to test the cards to confirm the rule, and considering the potential presence of odd numbers or vowels. This indicates a collaborative problem-solving dialogue where participants are actively discussing and deliberating on the task at hand.",
+    "reasoning_target": "The conversation involves a group discussing a rule and considering different options to test the rule. The participants are reasoning about the rule and considering different options to test the rule, which involves analyzing and evaluating the rule and its implications."
+  },
+  {
+    "original_index": 8996,
+    "utterance": "Ok . Will pus the final decision button on my end .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the puzzle and making a decision. Falc and Rave are discussing their thoughts and agreeing on a decision, showing agreement and confirming the decision to submit. This is a part of collaborative problem-solving dialogue where they are working together to solve a puzzle.",
+    "reasoning_target": "The conversation involves a group discussion where the participants are discussing and agreeing on a decision regarding a puzzle. The participants are Falc and Rave. They are discussing and agreeing on a solution to a puzzle. Falc initially proposes a solution, which is later agreed upon by Rave. The conversation is focused on reaching a consensus on a decision regarding the puzzle. The target function of this conversation is 'Moderation' as they are managing the group process of discussing and agreeing on a decision."
+  },
+  {
+    "original_index": 3430,
+    "utterance": "Oh I see that makes sense . <CARD> and <CARD> I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the rules and rules of a game, discussing the rules and flipping of cards, and agreeing on the rules and the flipping of cards. They are also discussing the rules and flipping of cards, and agreeing on the rules and the flipping of cards.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule and its application, with each person contributing their thoughts and agreeing or disagreeing with each other. The participants are trying to understand and apply a rule, discussing the conditions under which the rule is true or false. The conversation includes reasoning, agreement, and disagreement, which indicates a discussion process where each person is trying to understand and apply the rule."
+  },
+  {
+    "original_index": 4315,
+    "utterance": "By turning the \" <CARD> \" we verify if the letter is a vowel , thereby verifying the rule .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Butt is explaining the logic behind verifying the rule by turning all cards, ensuring that the side with vowels has an even number. Alpa agrees and suggests moving forward with this method.",
+    "reasoning_target": "The speaker is providing a detailed explanation of the process to verify the rule, explaining the logic behind turning over all the cards to ensure the rule is correct. This involves verifying if there is a vowel, which is crucial for the rule being followed."
+  },
+  {
+    "original_index": 13132,
+    "utterance": "I think that is the best answer",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing the task, sharing their choices, and reasoning about the task. They are deliberating on the best approach to solve the problem, discussing the rules, and considering different strategies. This is crucial for collaborative problem-solving as they are actively discussing and sharing their thoughts to reach a solution.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on the best approach to a task. The participants are trying to understand the rules and make decisions based on the given instructions. The conversation includes agreement and disagreement, with some members questioning the rules and the best approach to follow. The discussion is focused on understanding the task and deciding on the best strategy to proceed with the task."
+  },
+  {
+    "original_index": 1928,
+    "utterance": "All <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Rave is responding to Bee's question about the number of cards turned in, indicating all cards were turned in.",
+    "reasoning_target": "The speaker is asking about the number of cards picked, which is a specific question seeking information."
+  },
+  {
+    "original_index": 2666,
+    "utterance": "oh . anyways here is my reasoning , give me a sec to type it up .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "Narw is providing reasoning for their choices in the task, discussing the reasoning behind their choices.",
+    "reasoning_target": "The speaker is explaining their reasoning for a specific card, indicating that they are about to provide a detailed explanation."
+  },
+  {
+    "original_index": 15107,
+    "utterance": "I tink turn <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by suggesting to turn the <CARD> to see if vowel is there as well as turn the <CARD> to see if even number is there. This is a useful contribution as it adds to the ongoing discussion about possible actions to take.",
+    "reasoning_target": "The speaker is explaining a strategy for interacting with a card-based game, suggesting to turn the cards to check for specific characteristics (even numbers and vowels). The speaker is seeking agreement or further input from others, indicating a collaborative approach to the game."
+  },
+  {
+    "original_index": 3727,
+    "utterance": "So what is our concensus .",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The conversation is a collaborative problem-solving dialogue where participants are discussing and debating the correct answer to a problem. They are discussing the rules and rules of the game, trying to find the correct answer based on the given rules. The participants are trying to understand each other's reasoning and justify their choices, which shows a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule or rule interpretation, analyzing the correctness of a rule, and debating the correct application of the rule. The participants are trying to determine the correct interpretation of the rule and whether a specific card should be chosen based on the rule. This involves reasoning and analyzing the rule, which is a form of reasoning or reasoning about a rule or concept."
+  },
+  {
+    "original_index": 2991,
+    "utterance": "we technically",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing the task and trying to reach a consensus on a solution. They are discussing the rules and trying to decide on a common answer, indicating a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves a group discussing a task or problem, with multiple participants discussing the rules and how to proceed. The participants are trying to understand the rules and decide on a course of action. The conversation includes multiple participants discussing the rules, suggesting confusion or lack of clarity in the rules, and a suggestion to agree on a decision. This fits the 'Reasoning' category as the participants are analyzing the rules and trying to reach a consensus on how to proceed."
+  },
+  {
+    "original_index": 17596,
+    "utterance": "Me too",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and make decisions about choosing cards based on specific rules. They discuss their choices, challenge each other's choices, and eventually agree on specific cards to test based on vowel rules and even numbers. The dialogue includes multiple turns of discussion and decision-making, reflecting a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on a specific rule or rule related to a card game, specifically about the vowel rule and even numbers. They discuss which cards to choose based on the vowel rule and even numbers. The conversation involves reasoning and agreeing on the choice of cards based on the vowel rule and even numbers."
+  },
+  {
+    "original_index": 15861,
+    "utterance": "'oh man .. it''s getting ccooler here and some guy was grilling burgers and bacon on his charcoal grill the other night'",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of a group discussing a task or problem, with each participant contributing their thoughts, reasoning, and agreement on the topic. The conversation is focused on solving a problem or discussing a task, which aligns with the NPD (Non-Probing Deliberation) category as they are discussing solutions, reasoning, and expressing positions related to the task at hand.",
+    "reasoning_target": "The conversation involves multiple participants discussing a specific topic (testing a rule or rule-breaking), and they are trying to determine the correct action to take. The participants are discussing the rules, analyzing the situation, and agreeing on a course of action. The conversation includes reasoning, agreement, and agreement on the best course of action. The participants are working together to reach a consensus on the best approach to take."
+  },
+  {
+    "original_index": 8856,
+    "utterance": "it is an even number",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user Bat provides a statement that contributes to the discussion by clarifying the rule about the even number on the opposite side of cards with vowels. This statement helps in understanding the rule and ensures that the group is on the same page regarding the criteria for the task.",
+    "reasoning_target": "The conversation involves participants discussing and agreeing on the wording for a statement related to a card game, specifically about the number of vowels on one side and an even number on the opposite side. They discuss and agree on the wording to ensure everyone understands the rule correctly."
+  },
+  {
+    "original_index": 15536,
+    "utterance": "'it''s not too obvious'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The user 'Leop' is contributing to the discussion by providing their opinion on the solution, suggesting that the selected cards are not too obvious, which helps in deliberating the best approach for the task.",
+    "reasoning_target": "The speaker is providing reasoning (reasoning) for their opinion on the selection of cards, explaining why it might be too obvious, which is a form of explaining the logic or reasoning behind a decision."
+  },
+  {
+    "original_index": 4602,
+    "utterance": "Oh . I see now .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and deliberating on a task. They are discussing the rules and logic behind a game, making decisions, and agreeing on the next steps. The participants are actively discussing the task, sharing their thoughts, and trying to reach a consensus. This aligns with the 'NPD' category as they are discussing solutions, reasoning, and expressing positions, which are useful for the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule related to flipping cards based on whether they are even numbers and have vowels. The discussion includes agreeing on the rule, questioning the validity of flipping cards to test the rule, and deciding on which cards to use for verification. The conversation also includes managing the group's process by setting a time limit and deciding on the method to verify the rule. The conversation is focused on reasoning and agreeing on the process, making it suitable for classification as a Reasoning task."
+  },
+  {
+    "original_index": 3029,
+    "utterance": "Do they have a number on all four or a letter on all four ? I believe we should turn <CARD> and <CARD> .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Hams proposes turning <CARD> and <CARD> to confirm the presence of a number and a letter on each card, suggesting a method to verify the statement.",
+    "reasoning_target": "The conversation involves a discussion about verifying a statement or rule, analyzing the logic and reasoning behind the claim, and discussing the possibility of proving or disproving the statement. The participants are debating the validity of the statement and the methods to confirm or disprove it. This involves analyzing the rules and logic behind the statement, discussing the evidence, and considering different scenarios to determine the validity of the claim."
+  },
+  {
+    "original_index": 4189,
+    "utterance": "could it be that consonants can use even numbers too ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user Guin proposes a new idea about consonants possibly using even numbers, which contributes to the ongoing discussion and deliberation about the task at hand. This contributes to the collective problem-solving process by potentially expanding the understanding of the rules or possibilities in the task.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a specific rule or rule interpretation, with each member contributing their thoughts and opinions. The conversation is focused on understanding and applying a rule, discussing the rules and their interpretations, and reaching a consensus on a decision. The conversation is about making a decision based on the rules and understanding of the rules."
+  },
+  {
+    "original_index": 5191,
+    "utterance": "<CARD> is not a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule or rule interpretation, analyzing the rules, and agreeing on the correct application of the rule. The participants are discussing the conditions and conditions based on the rule, which involves analyzing and evaluating the logic of the rule."
+  },
+  {
+    "original_index": 14992,
+    "utterance": "I think <CARD> is definitely it",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on the rules and decisions related to a game, focusing on the rules and flipping of cards. They discuss the relevance of certain cards and the need to flip certain cards to check for vowels and even numbers. They also agree on certain card choices and the need to flip certain cards to verify the rules.",
+    "reasoning_target": "The conversation involves multiple participants discussing and debating the rules and logic of a game, focusing on the rules regarding even numbers and vowels. The participants are discussing the correct actions to take, such as flipping cards to check for vowels and even numbers. The discussion includes disagreements and agreements on which cards to flip and why, with some participants providing reasoning for their choices. The conversation is focused on the rules and strategy of the game, making it a discussion about the reasoning behind the rules and how to apply them."
+  },
+  {
+    "original_index": 470,
+    "utterance": "yes it does <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on card choices, with each person contributing their choices and reasoning. The conversation includes agreement and agreement on the choices, with Guin confirming the decision."
+  },
+  {
+    "original_index": 14929,
+    "utterance": "'I''m choosing <CARD> and <CARD>'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and deciding on the solution to a task. They are discussing the rules, testing the cards, and confirming the criteria for the solution. They are also confirming the rules and making decisions together, which is essential for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a discussion about a rule and how to apply it, analyzing the rules and deciding on which cards to test based on the rule. The participants are discussing and agreeing on the application of the rule, which involves reasoning and understanding the rule to apply it correctly."
+  },
+  {
+    "original_index": 7727,
+    "utterance": "so I was worg",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 1,
+    "reasoning_type": "The user Guin mentioned 'wor(g)', which is likely a typo for 'word' or 'wordplay', which could be related to the task at hand, suggesting a word or phrase to be considered for the task.",
+    "reasoning_target": "The speaker Guin is proposing a solution (turning over <CARD> and <CARD>) to a given situation, which is a direct response to a previous discussion or problem."
+  },
+  {
+    "original_index": 16519,
+    "utterance": "I think you have to turn all the cards .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user Pand is contributing to the discussion by suggesting a possible solution to the task, indicating that all cards should be turned, which is relevant to the task at hand.",
+    "reasoning_target": "The speaker is providing a solution (solution) to a problem, specifically suggesting to turn all the cards."
+  },
+  {
+    "original_index": 3270,
+    "utterance": "you too !",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants discuss and agree on a solution to a task. They discuss the rules, evaluate options, and reach a consensus on the correct solution. The conversation includes reasoning, agreement, and agreement on the solution, which is typical in collaborative problem-solving dialogues.",
+    "reasoning_target": "The conversation involves a discussion where the participants are discussing and analyzing a rule related to a card game. They are trying to determine the correct application of a rule based on the cards involved. The conversation includes reasoning and agreement on the interpretation of the rule, and they reach a consensus on the correct application of the rule."
+  },
+  {
+    "original_index": 13234,
+    "utterance": "Feels like it",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The participants are confirming that the task is straightforward, indicating agreement and readiness to proceed.",
+    "reasoning_target": "The speaker is providing reasoning or explaining their thoughts, indicating a need to explain or analyze the situation."
+  },
+  {
+    "original_index": 13685,
+    "utterance": "okay",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on a decision. They discuss the rules, test the rule, and reach a consensus on the decision. The dialogue includes various participants contributing to the discussion, proposing ideas, and agreeing on the decision. The conversation is focused on a specific task or problem, and participants are actively engaged in solving it.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule and testing it, with each person providing reasoning and agreement or disagreement. The conversation is focused on testing a rule and deciding on a decision, which involves reasoning and agreement on the decision."
+  },
+  {
+    "original_index": 5139,
+    "utterance": "Yeah I think so",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing their choices for a task, discussing their reasoning, and agreeing on a decision. This aligns with the 'NPD' category as they are discussing solutions, reasoning, and expressing positions related to the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on choices, making decisions, and expressing their reasoning for their choices. The participants are discussing their choices, agreeing on certain options, and providing reasons for their decisions. This involves reasoning and decision-making processes."
+  },
+  {
+    "original_index": 4932,
+    "utterance": "what is turning over the <CARD> proving ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The conversation is focused on discussing the rules and reasoning behind the choices made during a game. Participants are discussing the rules, the implications of turning over certain cards, and the implications of the numbers and letters on the cards. They are trying to understand the rules and how they apply to the current situation. They are also discussing the implications of turning over certain cards and how it relates to the rules of the game.",
+    "reasoning_target": "The conversation involves multiple participants discussing a game involving rules and strategy. The participants are trying to determine the rules and how to apply them. The conversation is focused on understanding the rules and applying them correctly. The discussion includes disagreements and clarifications on the rules, with each participant contributing their understanding and interpretation of the rules."
+  },
+  {
+    "original_index": 12936,
+    "utterance": "'but wouldn''t the reverse also be true ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and debating the rules and testing strategies for a game or challenge. They are discussing the rules, testing strategies, and trying to reach a consensus on the correct approach. The participants are actively discussing the rules, testing strategies, and trying to reach a consensus on the correct approach. The dialogue is focused on problem-solving and decision-making, which aligns with the NPD (Non-Probing Deliberation) category.",
+    "reasoning_target": "The conversation involves multiple participants discussing a specific rule or rule related to a card game. The participants are discussing the rules, testing, and debating the validity of the rule based on the cards. The conversation is focused on understanding the rule and ensuring they are following it correctly. The participants are trying to ensure they are all on the same page regarding the rule and how to apply it. The conversation is about understanding and applying a rule, which is a reasoning-based discussion."
+  },
+  {
+    "original_index": 2878,
+    "utterance": "Ah ok",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on card selections for a task, discussing their choices, and confirming the next steps, which are all relevant to the task at hand.",
+    "reasoning_target": "The utterance 'Ah ok' is a simple acknowledgment or confirmation of understanding, indicating agreement or acceptance of the previous conversation or decision made by the group. It does not propose a new idea, suggest a solution, or express disagreement, but rather shows agreement or understanding of the current state of the conversation."
+  },
+  {
+    "original_index": 10508,
+    "utterance": "yes <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where the participants discuss the task, share their choices, and agree on the next steps. They discuss the rules, clarify the task, and confirm the selected cards. The participants work together to understand the task and decide on the next steps, ensuring they are all on the same page. The conversation is focused on the task, with each participant contributing their thoughts and agreeing on the selected cards.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a task, focusing on understanding and applying a rule about a card game. The participants are discussing the rules, selecting cards, and confirming the rules are being followed. The conversation includes agreement and clarification of the task, with some confusion about the specifics of the rule."
+  },
+  {
+    "original_index": 3937,
+    "utterance": "are we unanimous ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on the best course of action regarding a specific task or decision. The participants are discussing the criteria for selecting cards, evaluating options, and reaching a consensus on the best course of action. The dialogue includes various participants contributing their thoughts, questioning, and agreeing on the best solution. This aligns with the 'NPD' category as the participants are discussing solutions, reasoning, and expressing positions, which are useful for the task at hand.",
+    "reasoning_target": "The conversation involves multiple participants discussing a specific topic (possibly a card game or a rule-based game) and trying to determine the correct interpretation of the rules. The participants are discussing the rules, proposing solutions, and agreeing or disagreeing with each other's ideas. The conversation is focused on understanding and applying the rules, which involves reasoning and decision-making based on the rules."
+  },
+  {
+    "original_index": 10487,
+    "utterance": "did we all select VOWEL cards as the one to turn over ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Beav is checking if the group has selected cards with vowels to turn over, ensuring they are following the instructions correctly.",
+    "reasoning_target": "The target of this contribution is to confirm if the group has selected cards with vowels to turn over, based on the given task."
+  },
+  {
+    "original_index": 7599,
+    "utterance": "I thought it was best to check all the cards since some showed vowels and others consonants and numbers . What did everyone else do ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Bee is asking for others' opinions on the solution proposed by Alpa, showing consideration for group consensus and seeking input from the group.",
+    "reasoning_target": "The speaker is proposing a solution to a problem (finding the correct cards with vowels and odd numbers) and is seeking input from others on their approach."
+  },
+  {
+    "original_index": 7250,
+    "utterance": "You too !",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves a group of people discussing a logic puzzle, analyzing rules, and making decisions together. The participants are discussing the rules of a game, testing the rules, and making decisions based on the rules provided. The conversation is focused on understanding and applying the rules, discussing the logic behind the rules, and making decisions based on the rules provided."
+  },
+  {
+    "original_index": 13849,
+    "utterance": "'But we don''t know if <CARD> has <CARD> number on the other side do we ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a part of a collaborative problem-solving process where participants are discussing the rules and rules interpretation for a game. They are discussing the meaning of the cards and how they fit into the rules of the game. The participants are trying to understand the rules and ensure they are applying them correctly. This is crucial for the collaborative problem-solving process as it helps in reaching a consensus on the rules and ensuring everyone understands the game correctly.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule and trying to determine the validity of a rule based on the cards. The participants are reasoning and analyzing the rule to understand if the cards meet the criteria."
+  },
+  {
+    "original_index": 16472,
+    "utterance": "'I''m submitting with <CARD> , <CARD> and <CARD> . Thanks all good luck'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and deliberate over a task. They discuss the rules, make decisions, and reach a consensus on the correct interpretation of the task. The dialogue includes various participants contributing their thoughts, questioning, and agreeing on the correct interpretation of the task. This is a clear example of collaborative problem-solving dialogue.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and debating over a rule related to a card game. They are trying to determine if a specific rule is correct or not based on the wording of the task. The conversation includes multiple people contributing their thoughts, questioning the rule, and trying to reach a consensus on the correct interpretation of the rule. The discussion involves analyzing the wording of the task, discussing the rules, and trying to determine if the rule is correct or not based on the wording of the task."
+  },
+  {
+    "original_index": 7246,
+    "utterance": "submit *",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and deliberating over a logic puzzle. They are discussing the rules, testing assumptions, and reaching a consensus on a solution. The participants are actively engaged in a collaborative problem-solving process, which is typical in collaborative problem-solving dialogues.",
+    "reasoning_target": "The conversation involves a group discussing a logic puzzle, analyzing rules, and reaching a consensus on a solution. The participants are discussing the rules of a game involving cards with letters and numbers on opposite sides, and they are trying to determine the correct strategy for selecting cards based on the rules provided."
+  },
+  {
+    "original_index": 11880,
+    "utterance": "I agree with <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a strategy to test a rule, with each member contributing their thoughts and agreeing on a specific course of action. This aligns with the 'NPD' category as it is useful for the task of solving a problem by discussing solutions, reasoning, and expressing positions.",
+    "reasoning_target": "The conversation involves multiple participants discussing a task or rule, analyzing the rules, and agreeing or disagreeing with each other's ideas. The participants are not just agreeing or disagreeing, but also providing reasoning and justifications for their points of view. This indicates a discussion where the focus is on reasoning and understanding the rules, not just agreeing or disagreeing."
+  },
+  {
+    "original_index": 7342,
+    "utterance": "But it says all carde with even # have a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing a task, specifically about a card game where they are trying to determine the correct card based on certain criteria. They are discussing the rules and trying to decide which card to choose based on the criteria provided. The participants are discussing the options and agreeing on the best choice based on the criteria set.",
+    "reasoning_target": "The conversation involves a group discussing a card game, analyzing the rules and making decisions based on those rules. The participants are discussing the rules, analyzing the cards, and making decisions about which cards to use. The conversation includes reasoning about the rules, agreeing on the correct cards to use, and discussing the implications of the rules."
+  },
+  {
+    "original_index": 9941,
+    "utterance": "<CARD> think it is <CARD> \" and \" <CARD> \"",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on the best solution for a task, specifically selecting the best card based on certain criteria. They are discussing and confirming the options, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing a task or problem, with each person contributing to the discussion. The participants are trying to solve a problem or decide on a solution. The conversation is focused on discussing and confirming details related to a specific task or problem, which indicates a need for decision-making and agreement on a solution. The conversation is not just about agreeing or disagreeing, but about discussing and making a decision based on the information provided."
+  },
+  {
+    "original_index": 7513,
+    "utterance": "That one is the one I think it should be",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants discuss and justify their choices. Chip and Emu discuss their choices, clarify misunderstandings, and work through the problem together. This aligns with the 'NPD' category as they are discussing solutions, reasoning, and expressing positions related to the task.",
+    "reasoning_target": "The conversation involves a discussion about choosing cards based on a specific rule, analyzing the reasoning behind the choices, and discussing misunderstandings. The participants are discussing the rules and the reasoning behind the choices made, which involves analyzing and evaluating the logic of the situation."
+  },
+  {
+    "original_index": 641,
+    "utterance": "I am wondering if turning over the letter cards will show the answer",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Tige is suggesting a new approach to solve the task by suggesting to turn over the letter cards to find the answer. This is a contribution to the ongoing discussion and could potentially lead to a new direction in the problem-solving process.",
+    "reasoning_target": "The speaker is asking a question about whether turning over letter cards will reveal the answer, indicating a need for clarification or further information."
+  },
+  {
+    "original_index": 8974,
+    "utterance": "it also says we have to talk for 5 mins",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and deliberating on the task, with each participant contributing their thoughts and agreeing on the solution, which is to choose specific cards. The dialogue includes statements like 'I think we need to come up with a solution', 'I have <CARD> selected too', and 'ok. Well I am going to select <CARD> and <CARD>', indicating a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves a group discussing a task, deciding on a course of action, and agreeing on the steps to be taken. The participants are discussing the details of the task, making decisions, and confirming the agreement on the chosen options. This involves reasoning and decision-making processes, which is a key part of the conversation."
+  },
+  {
+    "original_index": 15240,
+    "utterance": "<CARD> <CARD> & <CARD> seems like a good idea <MENTION> , i agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and debating the best approach to test a rule. They are discussing the cards they picked, their reasoning for choosing them, and whether certain cards should be flipped based on the rule they are testing. They are also discussing the implications of different card choices on the rule's validity. The dialogue includes multiple participants contributing to the discussion, proposing and evaluating different strategies and testing scenarios. The conversation is focused on problem-solving and decision-making related to a specific task or problem.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 10408,
+    "utterance": "No I think we need to test the even number the <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "Leop suggests testing the rule by flipping two cards, one with a vowel and one with an odd number, to verify the rule. Beav and Dolp discuss the specifics of which cards to test, focusing on the even number and vowel requirements.",
+    "reasoning_target": "Leop proposes testing the rule by flipping two cards, one with a vowel and one with an odd number. Dolp explains that testing the rule involves flipping the vowel card to check if it has an even number on the other side. Leop disagrees, suggesting to test the even number on the <CARD>."
+  },
+  {
+    "original_index": 13415,
+    "utterance": "Or see if <CARD> had a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and deciding on a strategy or choice, which is relevant to the task at hand. They are discussing and deciding on a specific action or choice, which is directly related to the task at hand.",
+    "reasoning_target": "The speaker is discussing and analyzing the choices made by others in a decision-making process, specifically regarding the selection of specific cards. The speaker is questioning the choices made and suggesting a different approach, indicating a need for further analysis or evaluation of the options."
+  },
+  {
+    "original_index": 10559,
+    "utterance": "The rule is that all cards with vowels must have even numbers .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is stating the rule for the task, which is essential for understanding the task requirements.",
+    "reasoning_target": "The speaker is expressing a rule or condition related to a specific rule or condition, specifically about the requirement of even numbers for cards with vowels."
+  },
+  {
+    "original_index": 9386,
+    "utterance": "Yes , <CARD> and <CARD> need to be turned .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing a riddle and its solution, with each member expressing their agreement with the solution and confirming the solution. This is a clear example of NPD (Non-Probing Deliberation) as it involves discussing solutions, reasoning, and expressing positions related to the task at hand.",
+    "reasoning_target": "The conversation involves a group discussing a riddle and deciding on a solution. The participants are discussing the rules of the riddle, agreeing on the solution, and confirming the solution. The conversation is focused on analyzing the riddle and reaching a consensus on the correct answer."
+  },
+  {
+    "original_index": 16299,
+    "utterance": "Funny we all chose the same cards",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing the task, sharing their choices, and agreeing on the cards to use, which are relevant to the task at hand. This indicates a collaborative problem-solving dialogue where each participant is contributing to the solution.",
+    "reasoning_target": "The speaker is discussing the timeline and cards for a task, discussing the remaining time and the cards chosen by the group. The speaker is confirming the selection of cards and discussing the choices made by the group, which involves reasoning about the task at hand."
+  },
+  {
+    "original_index": 10827,
+    "utterance": "somewhat compatible i guess",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a choice for a card, with Bee suggesting to go with a specific card. This is a part of collaborative problem-solving as they are working together to make a decision.",
+    "reasoning_target": "The conversation involves Bee and Gira discussing the choice of a card, with Bee suggesting different options and Gira considering the number and vowel factors. The conversation is about making a decision on which card to choose, with Bee suggesting different options and Gira considering the number and vowel factors. The discussion is about making a decision on which card to choose."
+  },
+  {
+    "original_index": 4430,
+    "utterance": "Do we all agree ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "Ox is asking if the group agrees with the proposed solution, which is a necessary step in collaborative problem-solving to ensure consensus and alignment on the solution.",
+    "reasoning_target": "Ox is asking for agreement on a decision, which involves discussing and evaluating the options or ideas presented, which is a reasoning process."
+  },
+  {
+    "original_index": 16121,
+    "utterance": "'And it''s not <CARD> because <CARD> could have a consonant and the rule given would be true'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user Leop is discussing the selection of specific cards, discussing the rules and making decisions about the task. They are deliberating on the options and making decisions based on the rules provided.",
+    "reasoning_target": "The conversation involves multiple participants discussing and making decisions about selecting specific cards based on certain criteria, such as having a mix of letters and numbers. The participants are also discussing the rules and making decisions about which cards to select. This involves reasoning and decision-making processes, which is why it is classified as a 'Reasoning' task."
+  },
+  {
+    "original_index": 12250,
+    "utterance": "<CARD> minutes",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is focused on discussing the task, specifically how to flip cards to meet the challenge criteria. The participants are discussing the best approach to ensure the challenge is met, discussing the number of flips needed, and confirming the timer status. This is crucial for the task at hand, making it a NPD (Non-Probing Deliberation) type of dialogue.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a course of action, specifically about flipping cards based on certain rules. The participants are discussing the process, making decisions, and confirming the steps to be taken. This involves reasoning and decision-making, which fits the 'Reasoning' category."
+  },
+  {
+    "original_index": 15365,
+    "utterance": "Wait for the rule we only care about the even card and vowels so why care about the <CARD> or <CARD> at all ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue involves participants discussing the rules of a game, specifically how to interpret the rules regarding which cards need to be turned over based on the presence of vowels and odd numbers. The participants are discussing the correct cards to turn over, focusing on the even-numbered cards and those with vowels. They are clarifying the rules to ensure they are following the correct procedure.",
+    "reasoning_target": "The conversation involves a group discussing a rule about turning over cards based on specific conditions. The participants are discussing whether certain cards need to be turned over based on the presence of vowels and odd numbers. The conversation is focused on interpreting and applying a rule, which involves analyzing and discussing the rules to determine the correct action to take. The discussion is about applying a rule to a set of cards, focusing on specific conditions related to vowels and odd numbers."
+  },
+  {
+    "original_index": 10920,
+    "utterance": "Except that they \u2019 re numbers on the vowel cards",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Zebr is clarifying the reasoning behind their choice of not including a specific card, indicating that the cards with vowels have even numbers on the back.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to explain a rule or concept in the context of a game, specifically discussing the rules of the game involving card selection and the properties of the cards."
+  },
+  {
+    "original_index": 3182,
+    "utterance": "do we have the same cards though ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is discussing the task and sharing their understanding of the rules, which is crucial for collaborative problem-solving. They are confirming if everyone has the same understanding of the task, which is essential for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a discussion about the rules of a game involving cards with vowels and even numbers. The participants are discussing the rules and whether they all have the same cards, ensuring they are on the same page regarding the rules."
+  },
+  {
+    "original_index": 16185,
+    "utterance": "less than 2 minutes left",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing a task, discussing solutions, and expressing positions. They are reasoning about the task, discussing solutions, and expressing positions. They are not just stating facts but discussing and debating their thoughts and reasoning behind their choices.",
+    "reasoning_target": "The conversation involves a group discussion where the participants are discussing and debating the rules and requirements of a task. The participants are trying to understand the requirements and decide on the correct approach to solve a problem. The discussion includes reasoning and agreement/disagreement on the requirements and the approach to use. The conversation is focused on understanding the task and deciding on the best approach to solve the problem."
+  },
+  {
+    "original_index": 5883,
+    "utterance": "we will get <CARD> <CARD> <CARD> <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and debating the rules and solutions to a problem. The participants are discussing the rules, testing the cards, and trying to find a solution. The dialogue includes statements like 'I think the answer is A because we need to check vowels', 'I put 6 and S', and 'Yes I agree'. This indicates a collaborative problem-solving dialogue where participants are working together to solve a problem by discussing and debating different solutions.",
+    "reasoning_target": "The conversation involves a discussion where the participants are trying to solve a problem by analyzing rules and testing them. The participants are discussing the rules and testing them by flipping cards. They are trying to understand if the rules are correct or not. The conversation includes reasoning and analyzing the rules, which is why it is classified as a Reasoning task."
+  },
+  {
+    "original_index": 10438,
+    "utterance": "Problem seems pretty obvious",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "Leop and Unic are discussing the solution to a problem, discussing their choices and reasoning behind their decisions, which is useful for the task at hand.",
+    "reasoning_target": "The conversation involves a discussion about choosing cards based on specific criteria, and deciding on the best options based on those criteria. The participants are discussing and agreeing on the criteria and options, which involves reasoning and decision-making."
+  },
+  {
+    "original_index": 15035,
+    "utterance": "I think <CARD> & <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user 'Leop' is contributing a suggestion for the game, suggesting two cards '<CARD>' which could be relevant to the game being played.",
+    "reasoning_target": "The speaker is providing a statement or question about a specific card, seeking input or agreement from others."
+  },
+  {
+    "original_index": 10576,
+    "utterance": "Not necessarily",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by providing reasoning and expressing positions, which is useful for the task. They are discussing the rule and how it applies to the cards, which helps in understanding the task and making decisions together.",
+    "reasoning_target": "The conversation involves a discussion about a rule related to card flipping and the application of a specific rule. The participants are discussing the application of the rule, analyzing the rule, and deciding on the test cases to test the rule. The conversation includes reasoning and agreement on the test cases to apply the rule, discussing the implications of the rule, and clarifying the scope of the rule."
+  },
+  {
+    "original_index": 9817,
+    "utterance": "Which card are we submitting ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and agreeing on the best options to choose for a task. They are discussing the criteria for selecting cards, considering both the number and the vowel on the other side. The participants are agreeing on the choices and confirming the selections, indicating a collaborative approach to solving the task.",
+    "reasoning_target": "The speaker is discussing and analyzing the rules of a game, specifically the relationship between the number of cards and the presence of vowels. They are reasoning about the possible outcomes and the rules of the game, which involves analyzing the rules and evaluating the logic of the game."
+  },
+  {
+    "original_index": 801,
+    "utterance": "Ok 2A it is .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants discuss and deliberate on the best solution. They discuss different options, express doubts, and eventually agree on a solution. The conversation includes reasoning and decision-making, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing and deciding on a solution to a task, with each person contributing their thoughts and reasoning. The participants are discussing and agreeing on a solution, which involves analyzing the rules and making decisions based on the given instructions."
+  },
+  {
+    "original_index": 3217,
+    "utterance": "<CARD> and <CARD> I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on a solution to a task. They discuss the rules, verify the rule, and decide on the cards to tick. The dialogue includes multiple participants discussing the task, proposing solutions, and agreeing on the solution. The participants also clarify doubts and confirm the solution, leading to a consensus on the solution.",
+    "reasoning_target": "The conversation involves multiple participants discussing and analyzing a rule related to card selection, focusing on the rule's application and interpretation. The participants are discussing the application of the rule, verifying the rule, and deciding on the necessary steps to prove the rule. The conversation includes reasoning, questioning, and agreement on the application of the rule."
+  },
+  {
+    "original_index": 13370,
+    "utterance": "I think I will stand with me decsion",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and deciding on a solution to a task. They are discussing the rules and conditions, checking each other's reasoning, and reaching a consensus on which card to check based on the rules. This is crucial for problem-solving and decision-making in a collaborative setting.",
+    "reasoning_target": "The conversation involves multiple participants discussing a specific rule or rule interpretation, analyzing the rules, and reaching a consensus or disagreement. The participants are discussing the application of a rule to a specific case, analyzing the rule, and deciding on the correct application based on the rule. This involves reasoning and analysis of the rule, which is a key part of the conversation."
+  },
+  {
+    "original_index": 15692,
+    "utterance": "'That''s true <MENTION>'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user is actively participating in the task, discussing the task and sharing their thoughts and opinions, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a group discussing a game and making decisions based on the rules. The participants are discussing the rules, making decisions, and agreeing or disagreeing with each other's ideas. The conversation is about making decisions and understanding the rules of the game."
+  },
+  {
+    "original_index": 12129,
+    "utterance": "'And the rule doesn''t state that all cards with even numbers have vowels on the back , so <CARD> probably isn''t necessary'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the rules and potential solutions for a task, discussing the necessity of certain cards and whether they meet the criteria specified in the rules. They are deliberating on the validity of certain cards based on the rules provided.",
+    "reasoning_target": "The conversation involves a discussion about a rule related to vowel presence on cards, with a focus on testing and verifying the rule. The participants are discussing the necessity of certain cards based on the rule, and analyzing if certain cards are necessary based on the rule. This involves reasoning and evaluating the rule's application and implications."
+  },
+  {
+    "original_index": 10324,
+    "utterance": "are we good with the <CARD> and the <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a solution to a task, with each member expressing agreement and confirming the decision. This aligns with the 'NPD' category as they are discussing and agreeing on a solution to a task, which is useful for the task at hand.",
+    "reasoning_target": "The conversation involves group decision-making and agreement on a specific action (flipping two cards). The participants discuss and agree on which cards to flip, reflecting a process of decision-making and agreement among the group. The conversation focuses on a specific task (flipping cards) and involves agreement and agreement among the group members."
+  },
+  {
+    "original_index": 5654,
+    "utterance": "Did you flip <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is discussing the task and making sure everyone has the same cards, which is necessary for the task at hand. This is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a solution (solution) for a task, specifically choosing cards. The participants are discussing and confirming the choices, which involves reasoning and agreement on the choices made."
+  },
+  {
+    "original_index": 9712,
+    "utterance": "i don ; t know if we met the 5 minute discussion rule yet",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue involves participants discussing a task, discussing solutions, and reasoning about the task. They are discussing the correct steps to take based on the rules provided, and deciding on the correct steps to follow. This is crucial for solving the task as they are discussing the correct steps to take based on the rules provided.",
+    "reasoning_target": "The conversation involves a group discussion about solving a problem related to a card game. The participants are discussing the rules and verifying the correct steps to follow. The conversation includes reasoning and agreement on the correct steps to take, which fits the 'Reasoning' category."
+  },
+  {
+    "original_index": 11141,
+    "utterance": "'I don''t think it''s <CARD> and <CARD> , but we can go with that'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and deliberating on a task, suggesting solutions, and expressing agreement or disagreement. This is a clear example of Non-Probing Deliberation (NPD) as participants are discussing and reasoning about the task, suggesting solutions, and expressing agreement or disagreement, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule and testing it with different cards. The participants are discussing the rules, testing the rule, and agreeing or disagreeing with each other's suggestions. The conversation is focused on testing a rule and discussing the cards and their properties. The participants are reasoning and analyzing the rule and the cards involved in testing the rule."
+  },
+  {
+    "original_index": 10260,
+    "utterance": "'I guess I''m going with all <CARD>'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on a decision, specifically about turning over certain cards based on specific criteria. The participants discuss and agree on the steps to be taken, demonstrating a collaborative decision-making process. The conversation includes reasoning and agreement on the steps to be taken, which aligns with the 'Reasoning' category."
+  },
+  {
+    "original_index": 16461,
+    "utterance": "'But we don''t need to know what''s behind <CARD> , because theres no reason a consonant can''t be behind it .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the rules and making decisions about the task. They are discussing the rules and making decisions about the task, expressing their thoughts and reasoning. They are also confirming the rules and making sure they are following the rules correctly. They are also discussing the options and making decisions about the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing a task or problem, with each person contributing their thoughts and opinions. The discussion includes agreement and disagreement, with each person trying to convince others of their perspective. The conversation is focused on understanding and interpreting a rule or rule related to a card selection task. The participants are trying to determine the correct interpretation of the rule and make decisions based on that interpretation. The conversation is a mix of reasoning and agreement/disagreement, with each participant trying to influence the outcome of the decision."
+  },
+  {
+    "original_index": 1907,
+    "utterance": "any other thoughts any one else ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and confirming the rules and reasoning behind their choices. They are discussing the rules and checking if their choices meet the criteria, ensuring they are following the rules correctly. This is crucial for ensuring they are on the right track and making informed decisions.",
+    "reasoning_target": "The conversation involves a discussion about a rule and its application, with each participant providing reasoning and challenging each other's points. The participants are trying to understand and apply a rule, discussing the conditions under which the rule applies or does not apply. This involves reasoning and analysis of the rule, which fits the category of 'Reasoning'."
+  },
+  {
+    "original_index": 13793,
+    "utterance": "I picked \" <CARD> \" and \" <CARD> \" .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Tige is initiating a discussion to start sharing the cards selected by each participant, setting the stage for a collaborative decision-making process.",
+    "reasoning_target": "The speaker is proposing to start by sharing what cards they selected, which is a solution to the group activity they are participating in."
+  },
+  {
+    "original_index": 3931,
+    "utterance": "i missed that <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing a problem and providing reasoning for their decisions. They are deliberating on the best course of action, discussing the rules, and making decisions based on the rules provided. The participants are discussing the rules, evaluating options, and making decisions based on the rules provided. They are not just stating facts but are actively discussing and deliberating on the problem, which is a key aspect of problem-solving dialogue.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 9227,
+    "utterance": "'Yeah , I''m in for that'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a decision, discussing their choices, and confirming agreement on the chosen options. This aligns with the 'NPD' category as it involves discussing solutions, reasoning, and expressing positions related to the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on a decision, specifically which cards to choose. The participants are discussing and agreeing on the choices, which indicates a group decision-making process. The conversation includes agreement and agreement on the choices, which is a form of reasoning and decision-making process."
+  },
+  {
+    "original_index": 13908,
+    "utterance": "OK",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and deciding on the best course of action. They are discussing the rules and options, considering the options and making decisions. The conversation includes statements like 'I think it's A because we need to check vowels', 'I put 6 and S', and 'Yes I agree', which are examples of NPD (Non-Probing Deliberation) where participants are expressing their reasoning and positions on the task.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a specific task, focusing on identifying cards based on certain criteria. The participants discuss and agree on which cards to check, with some back-and-forth about the rules and which cards to consider. The conversation is focused on making a decision and reaching a consensus on which cards to check."
+  },
+  {
+    "original_index": 6395,
+    "utterance": "'So if we select \" <CARD> \" and there isn''t a vowel on the other side , what have we learned ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a solution to a task, discussing their choices and reasoning behind their decisions. This aligns with the 'NPD' category as they are discussing and deliberating on the task at hand, sharing their thoughts and reasoning, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a group discussion about selecting cards and discussing the presence of vowels. The participants are deciding on the best option based on the rules given. The conversation includes agreement and agreement on the selected options, with a focus on the rules and the selection process."
+  },
+  {
+    "original_index": 4559,
+    "utterance": "easy",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user Alpa is responding to Lion's statement about confusion with a simple 'easy', which does not provide further clarification or contribute to the task at hand, thus not falling into Probing or NPD.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to solve a problem, specifically discussing the rules and verification process for a card."
+  },
+  {
+    "original_index": 11555,
+    "utterance": "'I''m fine with <CARD> only'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a solution, specifically which cards to choose based on their reasoning and preferences. This aligns with the NPD (Non-Probing Deliberation) category as they are discussing and agreeing on a solution based on their reasoning and preferences.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a choice between two options, <CARD> and <CARD>. The participants are discussing and agreeing on which option to choose. The conversation is focused on making a decision, which involves reasoning and agreement among the group members."
+  },
+  {
+    "original_index": 1899,
+    "utterance": "good point",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the task by discussing the rules and reasoning behind the choices made, which is useful for the group to understand the thought process and make informed decisions.",
+    "reasoning_target": "The speaker is reasoning and evaluating logic, discussing the rules and how they apply to the situation, and trying to determine the correct course of action based on the rules given."
+  },
+  {
+    "original_index": 2820,
+    "utterance": "I think you are right",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing and deliberating over a task, with each participant contributing their thoughts and opinions. This includes discussing the rules, suggesting actions, and agreeing on the next steps. This is a clear example of a collaborative problem-solving dialogue where participants are working together to solve a problem or understand a task.",
+    "reasoning_target": "The conversation involves a discussion about a game involving cards and rules, with participants discussing the rules and making decisions about how to proceed. The participants are trying to determine the rules and outcomes based on the cards involved. The conversation includes reasoning and agreement on the rules and decisions about the game."
+  },
+  {
+    "original_index": 6680,
+    "utterance": "Yeah , I said <CARD> and <CARD> but now I agree with you",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by expressing agreement with another participant's point and sharing their own previous opinion, which is relevant to the task at hand. This contributes to the collaborative problem-solving process.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to the solution being discussed, discussing the strategy and testing the statement."
+  },
+  {
+    "original_index": 4242,
+    "utterance": "yes but if you flip it ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Leop suggests flipping the cards, considering the rule about vowels and even numbers, questioning the necessity of each card's content.",
+    "reasoning_target": "The speaker is discussing the rules and logic behind their choices, analyzing the rules and evaluating the situation, which indicates a reasoning or analyzing context."
+  },
+  {
+    "original_index": 17194,
+    "utterance": "And <CARD> <CARD> xD",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and debating the rules and reasoning behind their choices in a game-like scenario. They are discussing the rules, evaluating options, and making decisions based on the rules provided. The dialogue includes various participants contributing their thoughts, questioning, and agreeing or disagreeing with each other's points. The discussion is focused on understanding the rules and making decisions based on those rules.",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and trying to reach a consensus on a solution. The participants are discussing the rules and criteria for selecting certain cards based on vowel presence and even numbers. They are analyzing the rules, evaluating the logic, and trying to reach a consensus on the correct approach. The conversation is focused on reasoning and analyzing the rules and logic behind the decision-making process."
+  },
+  {
+    "original_index": 9069,
+    "utterance": "I chose <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The user is contributing to the task by stating their choice for the card, which is a necessary step in the collaborative problem-solving process.",
+    "reasoning_target": "The utterance 'I chose <CARD>' is a statement of choice or decision, indicating a selection or preference, which fits the category of 'Solution' as it proposes a solution or answer to a question or situation."
+  },
+  {
+    "original_index": 9631,
+    "utterance": "'That''s what I''m wondering .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing a task, sharing their thoughts, and trying to reach a consensus. They are discussing the correct way to confirm a rule, discussing the cards they need to turn over, and considering different possibilities. This is a clear example of Non-Probing Deliberation (NPD) as they are discussing the task and reasoning out their decisions.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule or rule confirmation, focusing on understanding and confirming a rule related to card flipping. The participants are trying to understand and confirm the correct cards to use for confirming a rule, discussing the need to flip certain cards to confirm the rule. The conversation is focused on understanding and applying a rule, which involves reasoning and discussion about the correct cards to use for confirming the rule."
+  },
+  {
+    "original_index": 17409,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user 'Butt' has initiated a greeting, which is a common social interaction and does not contribute to the task or discussion directly.",
+    "reasoning_target": "The utterance 'Hello' is a simple greeting, which does not provide any specific information or solution. It is a neutral or generic response, not proposing a solution or asking a question."
+  },
+  {
+    "original_index": 14793,
+    "utterance": "<CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Chip is discussing the reasoning behind choosing a specific card based on the rule that all cards with vowels on one side have an even number on the other side. Chip agrees with <MENTION> about flipping the vowel card.",
+    "reasoning_target": "Chip is providing a reasoning for choosing a specific card based on the rule that all cards with vowels on one side have an even number on the other side. This involves analyzing the rule and applying it to the specific card in question."
+  },
+  {
+    "original_index": 11639,
+    "utterance": "Why is that ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Gira is asking Beav for the reasoning behind choosing a specific option (every card other than <CARD>), indicating that she is seeking clarification or further explanation about the decision.",
+    "reasoning_target": "The speaker is asking for the reason or explanation behind a statement made by Beav, indicating a need for reasoning or explanation."
+  },
+  {
+    "original_index": 160,
+    "utterance": "So maybe <CARD> <CARD> and <CARD> ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the rules and testing the rule for a game. They are discussing the cards and how to test the rule, considering the different possibilities and implications of each card. They are trying to understand the rules and apply them to the situation.",
+    "reasoning_target": "The conversation involves a group discussing a rule and testing it, with each person contributing their thoughts and testing the rule. The discussion involves reasoning and testing the rule, which fits the 'Reasoning' category."
+  },
+  {
+    "original_index": 13186,
+    "utterance": "'I''m going with that .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and debating different strategies and reasoning behind their decisions. The participants are discussing the rules and flipping cards to determine the rules of the game, trying to find a solution to a problem. The dialogue includes various participants sharing their thoughts, questioning, and agreeing on certain decisions. The discussion is focused on understanding the rules and finding a solution to a problem, which is a collaborative problem-solving dialogue.",
+    "reasoning_target": "The conversation involves a group of individuals discussing and analyzing a specific rule or rule set, focusing on the relationship between vowels and even numbers. The participants are trying to determine the rules and implications of flipping cards to test the rule. The conversation includes reasoning, analyzing rules, and evaluating logic, which classifies it as a 'Reasoning' task."
+  },
+  {
+    "original_index": 2705,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user 'Dolp' has initiated a greeting, which is a common and appropriate way to start a conversation or interaction, setting a positive and friendly tone.",
+    "reasoning_target": "The utterance 'Hello' is a simple greeting, which does not provide any specific information or context, and does not fit the categories of solution (1), reasoning (2), moderation (3), or agreement/disagreement (4-5). It is a neutral, generic greeting, hence classified as a solution (1) as it proposes a simple greeting."
+  },
+  {
+    "original_index": 15463,
+    "utterance": "thanks",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user 'Ox' has provided a simple acknowledgment ('thanks') after the group has discussed and decided on the cards to turn over. This is a part of the collaborative problem-solving process where each member contributes to the task, discussing and deciding on the next steps.",
+    "reasoning_target": "The speaker 'Ox' is asking for others to share the cards they have selected, indicating a need for information sharing and group coordination. This is a request for contribution and sharing of information, which is a solution-oriented request."
+  },
+  {
+    "original_index": 12108,
+    "utterance": "locking <CARD> and <CARD> as answer ...",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is focused on discussing and agreeing on a solution to a problem, specifically related to a card flipping game. The participants are discussing the rules, flipping cards, and confirming the rules. The conversation is constructive and relevant to the task, with each participant contributing to the discussion and reaching a consensus on the solution.",
+    "reasoning_target": "The conversation involves a group discussing a problem and trying to solve it. The participants are discussing the rules, flipping cards, and trying to prove a rule. The conversation is focused on understanding the rules and making decisions based on the rules. The participants are reasoning about the rules, flipping cards, and trying to prove the rule is correct or not. The conversation is about analyzing the rules and making decisions based on the rules."
+  },
+  {
+    "original_index": 2662,
+    "utterance": "<CARD> and <CARD> , I meant .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is discussing their choices for the task, indicating that they made a mistake and clarifying their selection.",
+    "reasoning_target": "The speaker is explaining their reasoning for selecting <CARD> and <CARD>, indicating that they are not sure if they have chosen the correct options."
+  },
+  {
+    "original_index": 14638,
+    "utterance": "I picked <CARD> and <CARD> because it would fully test both if an even number has a vowel and if a vowel has an even number",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The speaker is providing a reason for their choices, explaining their strategy for the task by mentioning the criteria they used to make their decisions.",
+    "reasoning_target": "The speaker is providing a reasoning for their choice of cards, explaining the reasoning behind their decision to pick certain cards. This involves analyzing the properties of the cards to determine their suitability for testing certain conditions."
+  },
+  {
+    "original_index": 5701,
+    "utterance": "Yes I guess that is probably right",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user Cat agrees with the group's decision to use <CARD> and <CARD> as part of the solution. This indicates that they are actively participating in the discussion and contributing to the decision-making process by agreeing with the proposed solution.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to justify their actions and decisions, discussing the logic behind their choices in the context of a card selection process. They are explaining the reasoning behind their choices and discussing the implications of their decisions."
+  },
+  {
+    "original_index": 12733,
+    "utterance": "Yes iam also going to submit the <CARD> and <CARD> as a final",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on a common choice for a specific task. Each participant is stating their choice and reasoning, which includes selecting specific options and expressing agreement with the group's decision. This is a typical collaborative decision-making process where each participant is contributing to the decision and expressing agreement with the group's decision.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on a decision, specifically choosing and finalizing on a specific card. The participants are discussing and agreeing on the selection of cards, indicating a group decision-making process."
+  },
+  {
+    "original_index": 2926,
+    "utterance": "'You can''t know if they all meet the rules unless you look at them all .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Bat is suggesting that in order to determine if all cards meet the rules, one must examine each card individually, as looking at all cards is necessary for this task.",
+    "reasoning_target": "The speaker is providing a reason for why one should examine all the cards to determine if they meet the rules, indicating a need for analysis or evaluation."
+  },
+  {
+    "original_index": 11440,
+    "utterance": "okay . im submitting cheers .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing a rule related to a card game. The discussion involves analyzing rules, testing rules, and agreeing or disagreeing with each other's points. The conversation is focused on understanding and applying a rule related to card game rules, specifically about even and vowel cards. The participants are debating on how to apply the rule and testing the rule by flipping cards. The conversation includes agreeing, disagreeing, and explaining the rule, which fits the category of reasoning."
+  },
+  {
+    "original_index": 8800,
+    "utterance": "you ?",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking for a response from the other participant, indicating a continuation of the conversation and potentially seeking agreement or further discussion on the task at hand.",
+    "reasoning_target": "The speaker is providing instructions and explaining the rules of the game, which involves flipping cards to see if they are even or odd, and whether they are vowels. This involves reasoning and explaining the rules, which is a type of reasoning or explaining the logic behind the game."
+  },
+  {
+    "original_index": 1447,
+    "utterance": "I agrre with <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user 'Falc' agrees with another participant ('<MENTION>'), indicating agreement with their statement or decision, which contributes to the collaborative problem-solving process by showing consensus or support for a particular approach or solution.",
+    "reasoning_target": "The speaker is providing reasoning for their actions and analysis of the situation, explaining their approach to testing the rule with specific cards."
+  },
+  {
+    "original_index": 7284,
+    "utterance": "so it would be <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing and debating the rules and choices in a game, focusing on the rules and the interpretation of the rules. The participants are trying to determine the correct interpretation of the rules and make decisions based on those interpretations. The discussion includes various suggestions, agreements, disagreements, and clarifications, all aimed at reaching a consensus on the interpretation of the rules."
+  },
+  {
+    "original_index": 12486,
+    "utterance": "'<CARD> and <CARD> is what I thought at first , but the '' most people get this task wrong '' is throwing me off too .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and deliberating on a task, sharing their thoughts, and reasoning about the best solution. They are trying to reach a consensus on the best option. This aligns with the 'NPD' (Non-Probing Deliberation) category as they are discussing solutions, reasoning, and expressing positions, which is useful for the task.",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and trying to come to a consensus on a solution. The participants are reasoning through the rules and trying to determine the best course of action based on the rules provided. The conversation is focused on analyzing the rules and making decisions based on those rules. The participants are not just agreeing or disagreeing, but are reasoning through the problem and considering the implications of their decisions. The conversation is not just about agreeing or disagreeing, but about understanding and applying the rules to reach a decision."
+  },
+  {
+    "original_index": 1973,
+    "utterance": "im on board too",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and deliberating on a task. They are discussing the rules, testing hypotheses, and reaching a consensus. The participants are actively participating in the decision-making process, discussing the rules, and agreeing on the solution. The dialogue includes statements like 'I think the answer is A because we need to check vowels', 'I put 6 and S', and 'Yes I agree'. This indicates a collaborative problem-solving dialogue where participants are working together to solve a problem.",
+    "reasoning_target": "The conversation involves a group of people discussing and deciding on a strategy to verify a rule using playing cards. They discuss turning over the cards to see if they have a vowel or an even number on the other side. They analyze and agree on the strategy, discussing the logic behind their decision and whether it proves the rule is correct. The conversation is focused on analyzing and agreeing on a decision based on the rule."
+  },
+  {
+    "original_index": 17001,
+    "utterance": "So I think <CARD> , <CARD> , and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on the best course of action for a task. They discuss the rules, make decisions, and confirm their choices. The dialogue includes statements like 'I think the answer is A because we need to check vowels', 'I put 6 and S', and 'Yes I agree'. This indicates a collaborative problem-solving dialogue where participants are working together to solve a problem.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on the rules and selection of cards in a game, focusing on the rules and the selection process. The participants are discussing the rules, testing, and agreeing on the cards to be tested, and confirming the rules related to vowels and numbers. The conversation is focused on understanding and applying the rules, making decisions, and agreeing on the selection of cards based on the rules."
+  },
+  {
+    "original_index": 11612,
+    "utterance": "'The rule doesn''t say all even numbers have <CARD> vowel on the back , instead the other way round'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing a task, sharing their answers, and reasoning about the rules. They are discussing the rules and the correct answers, providing their reasoning and justifications for their choices. They are also discussing the rules and the correct answers, providing their reasoning and justifications for their choices.",
+    "reasoning_target": "The conversation involves a group of people discussing and agreeing on the rules and interpretations of a game, specifically related to the rules of vowels and consonants. The conversation includes agreement and disagreement on the interpretation of the rules, with each person providing their interpretation and reasoning for their choice. The conversation is focused on understanding and applying the rules, with each person contributing their perspective and agreeing or disagreeing with each other's interpretations."
+  },
+  {
+    "original_index": 9739,
+    "utterance": "We should test <CARD> , indeed .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 1,
+    "reasoning_type": "Emu suggests testing <CARD> as it may provide the correct answer by confirming the even number rule and verifying the number on one side and letter on the other. Duck agrees with Emu's suggestion, suggesting that clicking <CARD> or <CARD> will result in the correct results.",
+    "reasoning_target": "The speaker is proposing a solution (testing <CARD>) to solve the puzzle, suggesting that clicking on <CARD> or <CARD> will provide the correct results. This is a solution to the puzzle."
+  },
+  {
+    "original_index": 14049,
+    "utterance": "No need to be so hectic",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing their choices and reasoning behind their decisions. The conversation includes statements like 'I chose 6 and S', 'I think the answer is A because we need to check vowels', and 'Yes I agree'. This indicates a collaborative problem-solving dialogue where participants are discussing solutions, reasoning, and expressing positions, which aligns with the NPD (Non-Probing Deliberation) category.",
+    "reasoning_target": "The conversation involves a discussion about a game and decision-making process. The participants are discussing their choices and reasoning behind their decisions. The conversation includes a mix of reasoning and agreement, with Alpa agreeing with Tige's thoughts and discussing the options and potential outcomes. The conversation is focused on decision-making and strategy in a game, which involves analyzing options and making decisions based on reasoning and agreement."
+  },
+  {
+    "original_index": 133,
+    "utterance": "yeah deffinately",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing a task, discussing solutions, and reasoning about the task. They are discussing the rules and testing the cards to see if they follow the rule, and deciding which cards to turn over to test the rule. This is a collaborative problem-solving dialogue where they are working together to solve a task.",
+    "reasoning_target": "The conversation involves a group discussing a rule and testing it with cards. The participants are discussing the process of testing the rule, considering the number of cards, and deciding which cards to turn over to test the rule. The discussion involves analyzing the rule, testing the rule, and deciding on the next steps, which indicates a discussion about a procedure or process."
+  },
+  {
+    "original_index": 1865,
+    "utterance": "As many as it is required to test the rule",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Gira is discussing the strategy for selecting cards based on the rule of even numbers and vowels. She explains her reasoning for choosing specific cards, indicating a clear understanding of the task and how it relates to the rule.",
+    "reasoning_target": "The speaker is explaining the reasoning behind their choice of cards, specifically how they are using multiple cards to test a rule about even numbers and vowels. They are analyzing the rule and applying it to their choices, which involves understanding the rule and applying it to their choices."
+  },
+  {
+    "original_index": 8650,
+    "utterance": "hello",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user greets, which is a common way to start a conversation and establish a friendly atmosphere.",
+    "reasoning_target": "The utterance 'hello' is a simple greeting, which does not provide any specific information or context that would require a detailed explanation or reasoning. It is a neutral, non-contentious greeting, and thus, it does not fit into the categories of solution, reasoning, moderation, or agreement/disagreement. It is simply a greeting, which is why it is classified as 'Reasoning' as it does not require a detailed explanation."
+  },
+  {
+    "original_index": 8579,
+    "utterance": "I said <CARD> and <CARD> vowels and evens",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the task by stating the cards they selected, which is useful for the group to understand the current state of the task and make decisions based on the collective input.",
+    "reasoning_target": "The speaker is providing reasoning for their card choices, explaining their selection criteria, which involves categorizing cards based on specific characteristics (vowels and evens)."
+  },
+  {
+    "original_index": 11728,
+    "utterance": "It just tells us it * can * have an even number , we needed the odd number to negate that .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on a solution to a problem. The participants discuss the rules, test the rule, and agree on the solution. They discuss the importance of certain cards and the need for certain conditions to be met. The dialogue includes agreement on the solution and a sense of closure with a positive closing.",
+    "reasoning_target": "The conversation involves a group of individuals discussing and analyzing a rule related to vowel and consonant rules. The discussion involves analyzing the rule, testing its validity, and agreeing on the method to test the rule. The conversation includes reasoning, agreement, and agreement on the method to test the rule, which indicates a collaborative problem-solving process."
+  },
+  {
+    "original_index": 1654,
+    "utterance": "Greetings everyone ! I am fairly confident the answer is <CARD> and <CARD> but no others",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Leop initiates the discussion by asking for contributions, setting a collaborative tone. Koal then joins with a confident statement about the answer, indicating their confidence in the answer.",
+    "reasoning_target": "The speaker is explaining their reasoning for their answer, providing a detailed explanation of their thought process."
+  },
+  {
+    "original_index": 1199,
+    "utterance": "I have <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the discussion by providing their cards, which are <CARD> and <CARD>. This helps in the decision-making process as it adds more information to the discussion, contributing to the collective understanding of the task at hand.",
+    "reasoning_target": "The speaker is reasoning about the cards, discussing the criteria for selecting cards based on specific conditions, and explaining the reasoning behind their choices."
+  },
+  {
+    "original_index": 2130,
+    "utterance": "Panda or Dolphin , any suggestions ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing the best course of action for a task. They are discussing the best way to handle a specific task, discussing the options, and reaching a consensus on the best approach. The conversation is focused on problem-solving and decision-making, which aligns with the NPD (Non-Probing Deliberation) category.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on a specific action to be taken. The participants are discussing the process of flipping cards to check for a specific vowel. They are discussing the details of which cards to flip and why, which involves analyzing the rules and making decisions together. The conversation is focused on making a decision based on the rules and understanding the situation."
+  },
+  {
+    "original_index": 7700,
+    "utterance": "card <CARD> and <CARD> for me",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user Puff is contributing to the discussion by suggesting a specific solution (card <CARD> and <CARD>) for the task, which is relevant to the task at hand.",
+    "reasoning_target": "The speaker is providing reasoning for their choice of cards, explaining their thought process and decision-making process."
+  },
+  {
+    "original_index": 3834,
+    "utterance": "true but we dont need it because it might adhere to another rule that we dont know about",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants discuss and deliberate on the solution. They discuss different possibilities, consider different scenarios, and eventually reach a consensus on the solution. The conversation includes statements like 'I think the answer is A because we need to check vowels', 'I put 6 and S', and 'Yes I agree'. This indicates a collaborative problem-solving dialogue where participants are actively engaged in discussing and deliberating on the task at hand.",
+    "reasoning_target": "The conversation involves a group discussion where the participants are trying to solve a problem by discussing and proposing solutions. The participants are discussing the rules and the possible outcomes of flipping cards. The conversation is focused on understanding the rules and verifying the rule, not just flipping cards. The participants are reasoning about the rule and considering different possibilities. The conversation is not about agreeing or disagreeing, but rather discussing the problem and its solution. Therefore, the function of the conversation is to solve a problem by discussing and reasoning about the rules."
+  },
+  {
+    "original_index": 2759,
+    "utterance": "'Well I''m glad everyone seems to agree , but does anyone what to try to argue for something else ? We''re supposed to do this for at least 5 minutes to satisfy the HIT .'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on a solution to a problem, discussing the possible solutions, and reaching a consensus. The participants are actively participating in deliberating and sharing their thoughts, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and its solution, analyzing rules, and reaching a consensus on a solution. The participants are reasoning and discussing the best approach to solve the problem, which involves analyzing rules and making decisions together. The conversation is focused on problem-solving and decision-making, which fits the category of Reasoning."
+  },
+  {
+    "original_index": 15540,
+    "utterance": "I did the same <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and deliberating over a task, sharing their reasoning and decisions, which is crucial for collaborative problem-solving. They are discussing and agreeing on a solution, which is essential for the task at hand.",
+    "reasoning_target": "The conversation involves a discussion about a task or problem, with participants discussing and deciding on a solution. The participants are analyzing and evaluating different options, suggesting and justifying their choices. This involves reasoning and decision-making, which is a key part of the conversation."
+  },
+  {
+    "original_index": 8634,
+    "utterance": "to fit the rule *",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The user is discussing the task and reasoning behind their choices, discussing the potential outcomes, and considering different options. This is crucial for collaborative problem-solving as it involves discussing solutions, reasoning, and expressing positions, which are essential for collaborative problem-solving.",
+    "reasoning_target": "Alpa is reasoning about the rule and the possible outcomes of flipping cards to confirm the theory. They are discussing the options and considering the implications of each choice, analyzing the potential outcomes based on the rule."
+  },
+  {
+    "original_index": 11244,
+    "utterance": "final decision , it seems like we all agree",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 1,
+    "reasoning_type": "The participants are discussing and agreeing on the correct answers for a task, discussing their choices and reasoning behind their decisions. They are confirming their agreement on the final decision, indicating consensus and agreement on the correct answers.",
+    "reasoning_target": "The conversation revolves around making a decision based on a specific rule or criteria, discussing and agreeing on the choices made by the group. The conversation involves discussing and agreeing on the choices made by the group, leading to a final decision based on the criteria discussed."
+  },
+  {
+    "original_index": 1222,
+    "utterance": "yep youre right",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 1,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on the best options for a task. They are discussing and justifying their choices, which is crucial for collaborative problem-solving. The participants are discussing and justifying their choices, which is crucial for collaborative problem-solving.",
+    "reasoning_target": "The target of this contribution is to discuss and decide on the best possible card combinations based on specific criteria, such as having vowels and even numbers. The conversation involves multiple participants discussing and agreeing on the criteria and potential card combinations, with some participants providing reasoning and confirming the choices made."
+  },
+  {
+    "original_index": 7187,
+    "utterance": "What does everyone think ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking for the opinions or thoughts of others, which is useful for collaborative problem-solving as it helps in understanding the group's collective thinking and can lead to better decisions.",
+    "reasoning_target": "The speaker is asking for the opinions or thoughts of others, indicating a desire for group input or discussion. This is a request for input or feedback, which is a common way to engage in a group discussion or decision-making process."
+  },
+  {
+    "original_index": 13341,
+    "utterance": "'i''m picking <CARD> and <CARD> for my answers'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user 'Cat' is contributing to the discussion by suggesting choices for the game, which is a part of the problem-solving process. They are providing input that could help in making a decision or understanding the task better.",
+    "reasoning_target": "The speaker is discussing and analyzing the rules and logic behind the game, specifically discussing the rules related to even numbers and vowels, and how they apply to selecting cards in a game. The speaker is reasoning about the rules and how they apply to the game, which involves analyzing and discussing the rules and logic involved in the game."
+  },
+  {
+    "original_index": 655,
+    "utterance": "'But , wouldn''t we get the same result if we turned over the <CARD> and <CARD> ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing the task, suggesting different strategies, and agreeing on the best approach. This includes discussing the need to turn over cards to verify the rule, selecting specific cards, and confirming the correct number of cards to turn over. This shows a collaborative problem-solving process where each participant contributes to the solution.",
+    "reasoning_target": "The conversation involves a group discussing a task (guessing the content of cards) and deciding on the best approach to solve the task. The participants are discussing the process, sharing their thoughts, and agreeing on the steps to follow. The conversation includes reasoning and decision-making processes, which fits the 'Reasoning' category."
+  },
+  {
+    "original_index": 16817,
+    "utterance": "'i''ll go with this'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows participants discussing and agreeing on the selection of cards, discussing the rules, and verifying the rules for each card. They are deliberating on the task, sharing their choices, and confirming the rules for each card.",
+    "reasoning_target": "The conversation involves a group discussing and agreeing on a task, specifically selecting cards based on certain criteria. The participants are discussing their choices and agreeing on the selection process, which involves verifying the rules and ensuring the criteria are met for each card selected."
+  },
+  {
+    "original_index": 15685,
+    "utterance": "is the <CARD> is turned over , there could be a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and deliberating on a task. They are discussing the selection of cards and considering the rules and strategies for selecting cards. The discussion includes sharing of cards held by others, considering the rules, and considering the application of the rules to the cards selected. The conversation is focused on problem-solving and decision-making related to the task at hand.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on a specific topic (choosing cards). The conversation includes reasoning and agreement on the selection of cards, with each member contributing their thoughts and opinions. The discussion focuses on the rules and conditions related to the cards, and the need to select all cards to determine if a rule applies. The conversation is focused on analyzing and evaluating the situation, making decisions, and agreeing on the selection of cards."
+  },
+  {
+    "original_index": 12842,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing the task, providing reasoning and justifications for their decisions. They are discussing the rules and checking if certain elements comply with the rules, such as checking vowels and even numbers. They are also discussing the importance of checking specific elements to ensure they comply with the rules.",
+    "reasoning_target": "The conversation involves a discussion about rules and rules checking, specifically about vowels, even numbers, and how to handle certain card values. The participants are discussing the rules and how to apply them, which involves reasoning and analyzing the rules to make decisions. The conversation is focused on understanding and applying rules, which is a type of reasoning."
+  },
+  {
+    "original_index": 5794,
+    "utterance": "'Ok . Unless someone else thinks otherwise , I think I''m ready to submit U4'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the solution to a task, discussing their reasoning and choices, and reaching a consensus on the answer. This is a typical example of collaborative problem-solving dialogue where each participant is contributing to the solution and discussing their reasoning.",
+    "reasoning_target": "The speaker is discussing and analyzing the rules of a game, explaining their reasoning for their choices, and seeking agreement from others. This involves analyzing rules, evaluating logic, and managing the group's understanding of the game."
+  },
+  {
+    "original_index": 7608,
+    "utterance": "in theory there could be a consenent behind <CARD> , but to check the statement , <CARD> needs to flip to confirm",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The participants are discussing the solution to a task, discussing the rules and the numbers involved. They are trying to reach a consensus on the correct solution based on the rules provided.",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and its solution, analyzing rules, and evaluating logic. The participants are discussing the rules and trying to find a solution that follows the rules. The conversation includes reasoning, analyzing rules, and evaluating logic, which fits the category of Reasoning."
+  },
+  {
+    "original_index": 17225,
+    "utterance": "yea , I think the part Most people get this task wrong is just there to try and complicate this :D",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and debating the rules and reasoning behind a task. They are discussing the rules, analyzing the task, and making decisions based on the rules provided. The participants are discussing the rules, analyzing the task, and expressing their positions. They are also agreeing and disagreeing on the rules and the interpretation of the task. The dialogue is focused on problem-solving and decision-making, which aligns with the NPD (Non-Probing Deliberation) category.",
+    "reasoning_target": "The conversation involves multiple participants discussing a task or problem, analyzing rules, and making decisions based on those rules. The participants are discussing the rules, providing reasons for their choices, and trying to reach a consensus. This involves reasoning, analyzing rules, and evaluating logic, which aligns with the 'Reasoning' category."
+  },
+  {
+    "original_index": 11170,
+    "utterance": "same",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue participants are discussing and deciding on the best cards to test the premise, discussing their choices and reasoning. They are deliberating on the best approach to test the premise, sharing their thoughts and justifying their choices.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on which cards to use for testing a premise. The participants are discussing the cards, their properties, and agreeing on which cards to use for testing the premise. The conversation includes agreement and agreement on the chosen cards, with some back-and-forth discussion but no strong disagreements or strong disagreements."
+  },
+  {
+    "original_index": 5068,
+    "utterance": "<CARD> dont think that is what the rule is saying",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue involves participants discussing the rules of a game, specifically the rule about the card having an even number on one side and a vowel on the other. The participants are debating the interpretation of the rule and its implications for scoring.",
+    "reasoning_target": "The conversation involves multiple participants discussing the rules and logic behind a game, specifically how certain cards should be played based on their properties (even numbers and vowel presence). The participants are debating the interpretation of the rules and how they apply to specific cards. This involves reasoning and analysis of the rules, which is why it is classified as a Reasoning (3) type of interaction."
+  },
+  {
+    "original_index": 17043,
+    "utterance": "I have no idea . haha I think I flunked logic .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing and debating their choices for a task, with each participant expressing their reasoning and opinions. This is a clear example of Non-Probing Deliberation (NPD) as they are discussing and debating their choices and reasoning behind their decisions, which is useful for the task at hand.",
+    "reasoning_target": "The conversation involves multiple participants discussing a logic problem, analyzing and evaluating different viewpoints. The participants are discussing and debating the correct interpretation of a given statement, which involves reasoning and logic."
+  },
+  {
+    "original_index": 11909,
+    "utterance": "I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The utterance 'I agree' indicates agreement with the group's decision or direction, which is a useful contribution to the collaborative problem-solving process.",
+    "reasoning_target": "The speaker is providing reasoning for their agreement with the decision made by the group, explaining their agreement with the choice of cards mentioned by the other participant."
+  },
+  {
+    "original_index": 13555,
+    "utterance": "'yes <MENTION> I''m going to go with your solution'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on a solution to a task. They discuss the rules, test the rule, and agree on the solution. They confirm their agreement and finalize their decision. The dialogue includes various participants discussing the task, proposing solutions, and agreeing on the best approach. The participants also clarify doubts and ensure they understand the task correctly. The dialogue is focused on problem-solving and decision-making, aligning with the collaborative problem-solving dialogue type.",
+    "reasoning_target": "The conversation involves multiple participants discussing and agreeing on a specific rule related to a card game, testing the rule, and discussing the application of the rule to different cards. The participants are actively discussing the rule, testing it, and agreeing on the application, which indicates a collaborative decision-making process. The conversation is focused on understanding and applying a rule, which is a key aspect of reasoning and decision-making."
+  },
+  {
+    "original_index": 13950,
+    "utterance": "'But it doesn''t show if the others are contradictory'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves multiple participants discussing a problem and trying to find a solution. They are analyzing rules and trying to understand the rules to make a decision. They are reasoning and discussing the options, trying to find a solution that fits the rules."
+  },
+  {
+    "original_index": 13817,
+    "utterance": "what rule are you testing ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The user Narw is asking Leop about the rule they are testing, which is relevant to the task and helps in understanding the task better.",
+    "reasoning_target": "The speaker is asking for the rule being tested, which involves analyzing and understanding the rules of the game being played. This involves reasoning and understanding the rules to determine the correct action or decision."
+  },
+  {
+    "original_index": 8075,
+    "utterance": "oh . Ok . That makes sense",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "Duck is explaining the reasoning behind choosing <CARD> and <CARD> by stating the need to prove the contrapositive, indicating that if there is an odd number, there is not a vowel on the back. This is a useful contribution to the discussion as it provides a rationale for the choice made.",
+    "reasoning_target": "The speaker is providing a reason for their previous statement, explaining why the contrapositive of having an odd number implies no vowel on the back of a card. This involves reasoning and analysis of the given situation."
+  },
+  {
+    "original_index": 8333,
+    "utterance": "i agree i selected <CARD> <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The user Guin is participating in a discussion about card selections and the rules for determining the outcomes based on the cards. They are discussing the rules and the possible outcomes based on the cards selected. This is relevant to the task as it involves discussing the rules and strategies for the game.",
+    "reasoning_target": "The speaker is proposing a solution or answer to a specific question or problem, specifically discussing card selections and rules related to even and odd numbers and vowels."
+  },
+  {
+    "original_index": 1141,
+    "utterance": "Since the task states that each card has a number on one side and a letter on the other we can assume that to be true ( as part of the rules )",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user is providing reasoning for their understanding of the task, indicating that they are assuming the information provided in the task description is accurate.",
+    "reasoning_target": "The speaker is providing a reason for their assumption about the rules of the card, explaining that the card has a number on one side and a letter on the other, based on the rules."
+  },
+  {
+    "original_index": 11965,
+    "utterance": "i agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation is about a group discussing and deciding on a specific action to be taken, specifically about flipping cards to test a rule. The participants are discussing the logic and the steps to test the rule, and eventually agreeing on which cards to flip. The conversation is focused on analyzing the situation, evaluating the logic, and making a decision together."
+  },
+  {
+    "original_index": 11833,
+    "utterance": "I said <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Leop is asking for opinions on solutions, which is useful for the task and contributes to the deliberation process.",
+    "reasoning_target": "The speaker is proposing a solution (option) for a problem, suggesting <CARD> and <CARD> as solutions. The speaker is seeking input or feedback from the group."
+  },
+  {
+    "original_index": 1674,
+    "utterance": "My vote is to leave it alone",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "Leop is leading the discussion by summarizing the current state of the task, asking for agreement on specific cards to flip, and ensuring everyone is on board with the decisions made so far. The dialogue shows a collaborative problem-solving process where each participant is actively engaged in discussing and making decisions together.",
+    "reasoning_target": "The speaker (Leop) is explaining the process and reasoning behind their decision, discussing the rules and options for each card, and seeking agreement from the group. The speaker is explaining the logic and reasoning behind their decision, which involves analyzing the rules and making decisions based on those rules."
+  },
+  {
+    "original_index": 2941,
+    "utterance": "'okay I agree now . I guess I wasn''t clear on the rule .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The user is contributing to the task by clarifying the rule and discussing the rules, which is essential for the group to make a decision. The user is discussing the rule and how it applies to the cards, which helps in making a decision.",
+    "reasoning_target": "The conversation involves multiple participants discussing a rule or rule set, analyzing and applying it to specific cards. The participants are discussing the rules, testing, and confirming the rules, and agreeing on the interpretation of the rules. The conversation is focused on understanding and applying the rules, which involves reasoning and agreement on the rules."
+  },
+  {
+    "original_index": 10722,
+    "utterance": "Exactly what <MENTION> said",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue consists of participants discussing and deliberating on a problem, suggesting and evaluating different options, and reaching a consensus. The participants are actively participating in the problem-solving process, discussing the rules and the reasoning behind their choices, and considering different possibilities. They are not just stating their choices but also discussing and evaluating them, which indicates a collaborative problem-solving dialogue.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on a specific topic or decision. The participants are trying to come to a consensus on which options to choose from, while also discussing the rules and conditions that need to be met. The conversation includes reasoning and disagreement, with some members agreeing or disagreeing with each other's points. The discussion is ongoing and involves decision-making and agreement on a specific topic."
+  },
+  {
+    "original_index": 5439,
+    "utterance": "'I would say it''s just <CARD> then .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a specific rule or test to apply to a set of data. The participants are discussing the criteria for testing, the rules, and the variables to be tested. They are analyzing the rules, evaluating the options, and making decisions based on the rules provided. The conversation is focused on understanding the rules, testing methods, and making decisions based on the rules provided."
+  },
+  {
+    "original_index": 2139,
+    "utterance": "Yes !",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on the best course of action. They are discussing the rules and conditions for flipping cards based on the presence of specific vowels. They are also considering the need to verify certain conditions before making a decision. The dialogue includes multiple participants contributing to the discussion, suggesting a collaborative approach to problem-solving. The participants are actively discussing and revising their initial thoughts based on the evolving discussion, which indicates a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a specific action based on a rule. The participants are discussing the process of checking for a specific vowel in cards, flipping cards based on the vowel's presence, and verifying the number of vowels. The discussion involves agreeing on the steps to verify the vowel and checking multiple cards for different vowels. The conversation includes reasoning and agreeing on the steps to verify the vowel, making decisions based on the rules discussed."
+  },
+  {
+    "original_index": 8051,
+    "utterance": "'no , it doesn''t'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and agree on a solution. They discuss the rules, reasons for their choices, and reach a consensus on the best course of action. The dialogue includes statements like 'I chose the <CARD> card because it's the only vowel showing', 'I put 6 and S', and 'Yes I agree', which are examples of NPD (Non-Probing Deliberation) where participants express their reasoning and positions on the task.",
+    "reasoning_target": "The conversation involves a group discussion where members are discussing and deciding on a specific card to choose based on certain rules. The discussion includes reasoning and justifications for their choices, as well as disagreements and agreements. The conversation is focused on understanding and applying specific rules and rules related to the task at hand."
+  },
+  {
+    "original_index": 14808,
+    "utterance": "'We only need to know if the <CARD> ( vowel ) has an even number , and if the <CARD> ( even number ) has a vowel on their flip sides , the other two don''t matter for this questioncard'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The speaker is clarifying the rules of the game, specifically focusing on the criteria for the question card, emphasizing the importance of the vowel and even number, and stating that the other two factors are irrelevant for this question.",
+    "reasoning_target": "The speaker is explaining a rule or condition for a question, specifically about the number of vowels and even numbers in a given context."
+  },
+  {
+    "original_index": 7170,
+    "utterance": "lol",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and debating different aspects of a task. They are discussing the rules and rules related to a game, trying to understand and agree on the correct interpretation of the rules. The participants are actively discussing and debating different aspects of the task, trying to reach a consensus on the correct interpretation of the rules. This is a clear example of a collaborative problem-solving dialogue where participants are working together to solve a problem.",
+    "reasoning_target": "The conversation involves multiple participants discussing and debating a specific rule or rule related to a card game. The participants are trying to understand and apply a rule related to the number of vowels on the back of the cards. They are discussing whether a specific card with a vowel should be flipped based on the number of sides with an even number. The conversation includes multiple participants providing their opinions, questioning, and trying to understand the rule. The discussion is focused on understanding and applying a rule related to the game, which involves analyzing and debating the rule."
+  },
+  {
+    "original_index": 9859,
+    "utterance": "Hey",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "The user, Beav, responds with a simple greeting, 'Hey', which is a common and appropriate response in a conversation. This is not task-related but sets a friendly tone for the conversation.",
+    "reasoning_target": "The utterance 'Hey' is a casual greeting, indicating a friendly or informal interaction without providing any specific information or solution."
+  },
+  {
+    "original_index": 2410,
+    "utterance": "Correct . So that means the <CARD> has a vowel on the other side . There are 2 cards that have an even number on one side and a vowel on the other . ee h d he",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user is discussing the task and reasoning about the solution, stating that the card with a vowel on one side should have an even number on the other side, and discussing the rules and implications of the rules.",
+    "reasoning_target": "The speaker is providing reasoning and analysis to support their argument about the rules of the game, specifically about the cards and their sides. They are explaining the rules and how they apply to the cards, using the rule about vowels and even numbers."
+  },
+  {
+    "original_index": 3396,
+    "utterance": "so do we select <CARD> and hit \" submit game \"",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants discuss and agree on a solution. They discuss the options, reasons, and reach a consensus on selecting a specific card to test the rule. The dialogue includes reasoning and agreement on the selected option.",
+    "reasoning_target": "The conversation involves a group discussing and deciding on a course of action, specifically selecting a card to test a rule. The participants are discussing the options, suggesting alternatives, and reaching a consensus on which card to use for testing the rule. The conversation includes reasoning and agreement on the chosen card."
+  },
+  {
+    "original_index": 2411,
+    "utterance": "'Sorry about the typo''s . I am having trouble with my keyboard h g'",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing and agreeing on the rules and reasoning behind a task. Narw and Hedg are discussing the rules and conditions of a card game, making sure they understand the rules and agreeing on the outcomes based on the rules. The discussion includes clarifying doubts and confirming the understanding of the rules, which is crucial for problem-solving in collaborative settings.",
+    "reasoning_target": "The speaker is discussing and explaining the rules of a card game, providing reasoning and justifying their thoughts on the rules. They are discussing the rules and trying to reach a consensus with others about the correct interpretation of the rules."
+  },
+  {
+    "original_index": 14048,
+    "utterance": "Haha",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving process where participants are discussing their choices and reasoning behind their decisions. Tige and Alpa are discussing their choices and reasoning behind their decisions, which is crucial for collaborative problem-solving. They are not just stating their choices but also discussing their thought process, which is essential for effective collaboration.",
+    "reasoning_target": "The conversation involves a discussion where Tige and Alpa are discussing a game and its rules. Tige is trying to understand Alpa's choice and reasoning behind it. The conversation is focused on analyzing and discussing the rules and strategies related to a game. The discussion involves analyzing the rules and making decisions based on those rules. This involves reasoning and understanding the implications of the rules, which fits the category of 'Reasoning'."
+  },
+  {
+    "original_index": 10972,
+    "utterance": "'I''ll go with that !'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on a solution to a problem. They are discussing the rules and requirements, suggesting and evaluating options, and reaching a consensus. The participants are actively participating in the discussion, contributing ideas, and agreeing on the solution. The dialogue is focused on the task, and the participants are working together to solve the problem.",
+    "reasoning_target": "The conversation involves a group of people discussing and trying to understand a rule or rule, trying to figure out which cards to use to test the rule. They are discussing the rules and trying to understand what they need to do. The conversation is focused on understanding the rule and how to apply it, which is a reasoning or analyzing process."
+  },
+  {
+    "original_index": 3340,
+    "utterance": "yep , <CARD> or <CARD> could have no conclusion",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue shows a collaborative problem-solving session where participants are discussing and debating the rules and criteria for a game. They are trying to determine the validity of certain cards based on specific criteria, specifically related to the presence of vowels and even numbers. The discussion includes various suggestions and counterarguments, with participants debating the rules and the implications of each card's features. The dialogue includes multiple turns of discussion and decision-making, reflecting a collaborative problem-solving process.",
+    "reasoning_target": "The conversation involves multiple participants discussing and debating the rules and criteria for selecting cards based on specific criteria, such as having a vowel and an even number. The conversation includes reasoning and disagreement on the validity of certain cards based on these criteria. The participants are trying to reach a consensus on which cards to use, focusing on the specific criteria mentioned."
+  },
+  {
+    "original_index": 11453,
+    "utterance": "I think we need to turn <CARD> to test the theory",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is suggesting to turn <CARD> to test the theory, indicating a potential solution to test the theory.",
+    "reasoning_target": "The speaker is proposing a specific action (turning a card) to test a theory, which implies a solution to a problem or an experiment to be conducted. This suggests a reasoning behind the action, hence classified as Reasoning."
+  },
+  {
+    "original_index": 1701,
+    "utterance": "No .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants discuss and make decisions on a card flipping decision based on a given rule. The participants discuss their thoughts, reasons, and make decisions together. The dialogue includes statements that are useful for the task, such as discussing solutions, reasoning, and expressing positions. The participants engage in a deliberative process, discussing the options, providing reasons for their choices, and reaching a consensus. The dialogue is focused on problem-solving and decision-making, which is essential for collaborative problem-solving.",
+    "reasoning_target": "The conversation involves a group of people discussing and making decisions based on a set of rules. The participants are discussing and making decisions about flipping cards based on certain rules. The conversation includes agreement, disagreement, and decision-making processes. The participants are discussing the rules, flipping cards, and making decisions based on the rules. The conversation is focused on understanding the rules, making decisions, and reaching a consensus on the best course of action based on the rules."
+  },
+  {
+    "original_index": 6437,
+    "utterance": "'No , the <CARD> doesn''t fit the rules'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The dialogue is a collaborative problem-solving session where participants are discussing and deciding on a choice. They are discussing the rules and options, expressing doubts, and trying to reach a consensus. The participants are actively discussing and debating their choices, which is crucial for problem-solving.",
+    "reasoning_target": "The conversation involves multiple participants discussing and deciding on a choice, with each person contributing their thoughts and opinions. The participants are trying to reach a consensus or decision on a specific choice. The conversation is focused on discussing and evaluating options, which involves reasoning and analysis to make a decision. The conversation is not just about agreeing or disagreeing, but about evaluating and discussing different options and their suitability based on given rules or criteria."
+  },
+  {
+    "original_index": 6655,
+    "utterance": "Why <CARD> and <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking for the reasoning behind the choices made by Rave and Cat, which is relevant to understanding the group's decision process and the reasoning behind their choices.",
+    "reasoning_target": "The speaker is asking for the reasons behind the choices made by others, indicating a need for reasoning or explanation for the choices made by Bat, Cat, and Falc."
+  },
+  {
+    "original_index": 5173,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking for clarification on what cards to be displayed, indicating a need for more information to proceed with the task.",
+    "reasoning_target": "The utterance involves explaining the reasoning behind a decision or action, specifically discussing the logic or rules involved in a situation."
+  }
+]

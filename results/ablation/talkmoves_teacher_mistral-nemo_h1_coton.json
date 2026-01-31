@@ -1,0 +1,1802 @@
+[
+  {
+    "original_index": 137001,
+    "text": "All right",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, used to signal transition or agreement."
+  },
+  {
+    "original_index": 13136,
+    "text": "Because you only have 210 yen in cash",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, teacher is reminding students about their cash limit, not directly related to mathematical instruction."
+  },
+  {
+    "original_index": 72428,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 135058,
+    "text": "Whats that fraction called",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a definition of a mathematical concept ('fraction'), which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 36408,
+    "text": "She said the mean is three because if you make a bar graph you can split the data and see the mean by putting a mean line where you split the data",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to connect a numerical concept (mean) with a visual representation (bar graph) and to understand the underlying reasoning behind the mean calculation."
+  },
+  {
+    "original_index": 122130,
+    "text": "Right now if Hadley and I were really playing I would be up one to zero but then wed go to the second round",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, personal anecdote about a game."
+  },
+  {
+    "original_index": 84352,
+    "text": "Step 2 multiply step 3 subtract",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "This utterance requests a mathematical operation (multiplication and subtraction) and expects a procedural response from the students."
+  },
+  {
+    "original_index": 7150,
+    "text": "Perimeter of a square youll be able to remember that yes",
+    "gt_label": 1,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 110281,
+    "text": "You could do two",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically requesting a calculation ('two times two')."
+  },
+  {
+    "original_index": 42307,
+    "text": "Is this yours now",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure ('Is this yours now' implies a calculation or problem-solving step)."
+  },
+  {
+    "original_index": 142078,
+    "text": "Okay so Im going to read to you the answer that they gave in the book",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher is not asking for mathematical input or fostering rigorous thinking, but rather managing the class and preparing to read an answer from the book."
+  },
+  {
+    "original_index": 65115,
+    "text": "Kailey",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 6 and 6."
+  },
+  {
+    "original_index": 33718,
+    "text": "Can you do this",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically requesting the student to perform a task."
+  },
+  {
+    "original_index": 65564,
+    "text": "Georgia do you have a question or are you done",
+    "gt_label": 1,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing participation and checking if the student has any further questions or is finished with the task."
+  },
+  {
+    "original_index": 79550,
+    "text": "Still on this one if Im trying to find theta I know that this is the adjacent and this is the hypotenuse so that means I would go cosine of theta is equal to 58",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a specific mathematical answer (the value of theta) using a given formula (cosine of theta) and known side lengths (adjacent and hypotenuse)."
+  },
+  {
+    "original_index": 53757,
+    "text": "Brielle got right to  I like that",
+    "gt_label": 0,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is acknowledging and encouraging Brielle's correct response, fostering a supportive learning environment."
+  },
+  {
+    "original_index": 85895,
+    "text": "If you can try and eliminate some of your background noise that would be great",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance is non-instructional and related to classroom management, asking students to reduce background noise."
+  },
+  {
+    "original_index": 150593,
+    "text": "Lets look at it",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to examine a specific mathematical concept or problem, indicating a request for mathematical answers or procedures."
+  },
+  {
+    "original_index": 67535,
+    "text": "Three two one show",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 3 and 2."
+  },
+  {
+    "original_index": 7161,
+    "text": "Perimeter which we mark as O",
+    "gt_label": 4,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the perimeter of a shape."
+  },
+  {
+    "original_index": 1460,
+    "text": "That doesnt help Jeff understand",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance is a simple affirmation and does not directly relate to mathematical instruction or fostering learning."
+  },
+  {
+    "original_index": 56049,
+    "text": "Its absolutely going to work guys but why",
+    "gt_label": 2,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and explain their reasoning, using the phrase 'but why' to encourage them to justify their statement."
+  },
+  {
+    "original_index": 31215,
+    "text": "Why did you do 22 2",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing the student to explain their reasoning behind their calculation, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 118861,
+    "text": "Why",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and explain their reasoning."
+  },
+  {
+    "original_index": 33577,
+    "text": "Awesome thank you so much Seth",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, expressing appreciation for Seth's contribution."
+  },
+  {
+    "original_index": 3035,
+    "text": "Its increasing",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the result of the operation 'increasing by one'."
+  },
+  {
+    "original_index": 34038,
+    "text": "I cant add 34 and 16 because they dont have the same denominator",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically requesting an explanation for why the numbers 34 and 16 cannot be added directly."
+  },
+  {
+    "original_index": 40507,
+    "text": "Sometimes the first five will be plus three and then the next one will be plus two and that messes it up",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about the pattern and its disruption, encouraging them to explain why it 'messes it up'."
+  },
+  {
+    "original_index": 119936,
+    "text": "Its up to you",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 1,
+    "pred_move": 0,
+    "reasoning": "The teacher is managing participation and giving the student the turn to speak."
+  },
+  {
+    "original_index": 35679,
+    "text": "There you go huge",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 97031,
+    "text": "Okay cuz this just goes right through the middle of that box this is going to be 55",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is providing a mathematical answer (55) based on a given situation (going through the middle of a box), so it falls under 'Content Knowledge'."
+  },
+  {
+    "original_index": 80022,
+    "text": "No",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 6 and 6."
+  },
+  {
+    "original_index": 143622,
+    "text": "Thats",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 12228,
+    "text": "Now the fact is they continued things like this every day okay",
+    "gt_label": 1,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, the teacher is simply stating a fact about the students' routine."
+  },
+  {
+    "original_index": 121543,
+    "text": "So I dont wanna get too far into that answer",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance is a non-instructional statement that does not directly relate to mathematical content or learning processes. It is a simple affirmation that does not request student participation or push for deeper thinking."
+  },
+  {
+    "original_index": 96518,
+    "text": "seeing some great graphs make sure that youre specific on your graphs I see a couple people who are just drawing a line thats close but its not exact",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to be precise in their graphing, which requires mathematical knowledge and understanding of the concept."
+  },
+  {
+    "original_index": 22236,
+    "text": "Would you put it in the same place",
+    "gt_label": 2,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "This utterance pushes students to think deeply about the placement of an element, encouraging them to explain their reasoning or connect it to other parts of the problem."
+  },
+  {
+    "original_index": 149311,
+    "text": "Yeah you know I see",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 77634,
+    "text": "I want a reason why",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to explain their reasoning or thought process behind their answer or solution."
+  },
+  {
+    "original_index": 106751,
+    "text": "Adjacent",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically requesting the definition or explanation of 'adjacent' in a mathematical context."
+  },
+  {
+    "original_index": 35550,
+    "text": "Give me a thumbs up when youre done writing this so that I know that youre ready to move on to the next step",
+    "gt_label": 1,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing participation and indicating readiness to move on to the next step, which is a characteristic of the 'Learning Community' category."
+  },
+  {
+    "original_index": 24002,
+    "text": "Anybody else what do you think",
+    "gt_label": 2,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing participation and fostering a supportive learning environment by asking 'Anybody else what do you think', encouraging other students to share their thoughts."
+  },
+  {
+    "original_index": 19739,
+    "text": "How do I take the words a number plus negative three and make it a variable expression",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical procedure to convert a phrase involving a number and an operation into a variable expression, which is a content knowledge request."
+  },
+  {
+    "original_index": 36080,
+    "text": "Youre going to have to create your own value ordered or ordered value bar charts tomorrow",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is requesting a mathematical task ('create your own value ordered or ordered value bar charts') from the students, which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 127699,
+    "text": "While you guys were working I did the horns and I did this part",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, teacher sharing their own work process rather than engaging students in learning or asking for their input."
+  },
+  {
+    "original_index": 27644,
+    "text": "Sort of a little dishonest is she",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think critically about the story's fairness, encouraging them to connect the mathematical operations to the real-world scenario and consider the outcome."
+  },
+  {
+    "original_index": 22793,
+    "text": "By square inches",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a definition or explanation of the unit being used ('square inches'), which falls under the Content Knowledge category."
+  },
+  {
+    "original_index": 51007,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 29983,
+    "text": "Why dont you go through and when youre all done Ill ask my question",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking the students to think through a problem independently before asking a question, pushing them to engage in rigorous thinking."
+  },
+  {
+    "original_index": 144238,
+    "text": "So  Oh you need me to check   Good job girl",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation ('Good job girl') and offering help ('Oh you need me to check')"
+  },
+  {
+    "original_index": 48627,
+    "text": "47 hundreds",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 47 and 100."
+  },
+  {
+    "original_index": 90731,
+    "text": "So 10 what number would be 100",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the number that, when multiplied by 10, gives 100."
+  },
+  {
+    "original_index": 144457,
+    "text": "Blake did his by",
+    "gt_label": 2,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, incomplete sentence."
+  },
+  {
+    "original_index": 98211,
+    "text": "Okay so those are all our test topics",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, summarizing the topics for a test."
+  },
+  {
+    "original_index": 87870,
+    "text": "The two mixtures are the same",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, stating a fact rather than asking a question or promoting mathematical thinking."
+  },
+  {
+    "original_index": 39512,
+    "text": "Before I give you the ones that Im thinking about can you tell me what needs to happen in order for your team to be incredibly successful",
+    "gt_label": 5,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is fostering a supportive learning environment and managing participation by asking students to reflect on what they need to do to be successful, encouraging teamwork and engagement."
+  },
+  {
+    "original_index": 33345,
+    "text": "Reuben are you saying that it shows numbers in order",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical definition or explanation, specifically requesting Reuben to clarify what he means by 'it shows numbers in order'."
+  },
+  {
+    "original_index": 100543,
+    "text": "Yeah its gonna be two",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 77793,
+    "text": "How do we get to six hours",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical procedure or answer, specifically how to calculate or reach the number six hours."
+  },
+  {
+    "original_index": 129182,
+    "text": "Seven",
+    "gt_label": 3,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance is a simple affirmation, repeating the student's response without adding any instructional or questioning value."
+  },
+  {
+    "original_index": 144574,
+    "text": "So go ahead and do the math",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is requesting mathematical action ('do the math') from the students."
+  },
+  {
+    "original_index": 132626,
+    "text": "That place value thing again",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher's utterance 'That place value thing again' is asking for a mathematical concept or procedure, specifically about place value, which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 42304,
+    "text": "Then  do you have a Khan Academy account",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, asking about student's account status"
+  },
+  {
+    "original_index": 115351,
+    "text": "So what do I subtract from 16",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the number that, when subtracted from 16, results in a certain value."
+  },
+  {
+    "original_index": 79717,
+    "text": "Can we do this by volunteering",
+    "gt_label": 1,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is managing participation and fostering a supportive learning environment by asking for volunteers."
+  },
+  {
+    "original_index": 123786,
+    "text": "Riley what do you think",
+    "gt_label": 6,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure from Riley, specifically seeking their input on a problem or concept."
+  },
+  {
+    "original_index": 17776,
+    "text": "Well no",
+    "gt_label": 0,
+    "pred_label": 3,
+    "pred_cat": 1,
+    "pred_move": 3,
+    "reasoning": "The teacher is asking the student to agree or disagree with the statement 'Er 12 X is equal to seven', managing participation in the learning community."
+  },
+  {
+    "original_index": 34488,
+    "text": "Yes okay",
+    "gt_label": 4,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 105738,
+    "text": "So its the same kind of directions",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and connect ideas by asking them to compare and contrast two methods or concepts."
+  },
+  {
+    "original_index": 148395,
+    "text": "Compared to nine hundreds is how many pennies",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "This utterance requests a mathematical answer, specifically asking students to compare 900 with an unknown number of pennies."
+  },
+  {
+    "original_index": 121695,
+    "text": "Why not",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and explain their reasoning by asking 'Why not?'"
+  },
+  {
+    "original_index": 118880,
+    "text": "Craig Briella",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to connect their understanding of the area of a rectangle to the area of a triangle, encouraging them to think deeply and make a connection between two different shapes."
+  },
+  {
+    "original_index": 81459,
+    "text": "Tangent of theta which of those six things are equivalent to it",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for mathematical answers or procedures, specifically requesting which of the six things are equivalent to tangent of theta."
+  },
+  {
+    "original_index": 50282,
+    "text": "No",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, as 'No' is a simple affirmation."
+  },
+  {
+    "original_index": 31830,
+    "text": "Lets see Hudson what did you and your partner talk about in terms of when you just saw it what did you know you had to do",
+    "gt_label": 5,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing a student to explain their thought process and what they understood from a previous discussion, encouraging rigorous thinking and deep understanding."
+  },
+  {
+    "original_index": 96888,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 60637,
+    "text": "Someone new these guys have all shared yay Franc",
+    "gt_label": 1,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is managing participation and fostering a supportive learning environment by asking students to share their ideas and encouraging them with 'yay'."
+  },
+  {
+    "original_index": 148226,
+    "text": "thank you Emelia",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, expressing gratitude to a student."
+  },
+  {
+    "original_index": 86867,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 130702,
+    "text": "Okay and then whats my answer Diego",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the result of the operation 'Either add it three times or multiply it'."
+  },
+  {
+    "original_index": 76580,
+    "text": "he said was they had different what",
+    "gt_label": 2,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a description of the difference between two things, which is a request for mathematical content knowledge."
+  },
+  {
+    "original_index": 96139,
+    "text": "zero is just flat",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a definition or explanation of the concept 'zero'."
+  },
+  {
+    "original_index": 99020,
+    "text": "So if its a perfectly flat line slope of zero",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "This utterance pushes students to think deeply about the concept of slope, specifically in the context of a perfectly flat line, encouraging them to connect this representation to the mathematical concept of zero slope."
+  },
+  {
+    "original_index": 98416,
+    "text": "Lets make a graph",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to perform a mathematical task, specifically creating a graph, which requires content knowledge."
+  },
+  {
+    "original_index": 140604,
+    "text": "I brought my candy jar and",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, the teacher is introducing a non-academic item (candy jar) into the classroom."
+  },
+  {
+    "original_index": 68815,
+    "text": "Call a friend to help you out",
+    "gt_label": 2,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is managing participation and fostering a supportive learning environment by encouraging students to help each other."
+  },
+  {
+    "original_index": 50572,
+    "text": "Does everyone have this",
+    "gt_label": 2,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, checking if students have a specific item (in this case, likely a worksheet or book)."
+  },
+  {
+    "original_index": 63569,
+    "text": "310",
+    "gt_label": 3,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking students to connect their understanding of two different methods, pushing them to think deeply and make a connection."
+  },
+  {
+    "original_index": 47948,
+    "text": "To start with you are going to see if the value of the expression is greater or less than",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "This utterance pushes students to think deeply and compare values, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 22405,
+    "text": "Andrew",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking Andrew to explain his reasoning behind his solution, pushing him to think deeply about the mathematics involved."
+  },
+  {
+    "original_index": 94180,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 16386,
+    "text": "If we pose this question in connection with factorizing maybe factorizing could help us along the track",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is encouraging students to think deeply and connect ideas by suggesting a different mathematical approach (factorizing) to solve a problem, pushing them to consider a new perspective."
+  },
+  {
+    "original_index": 40964,
+    "text": "Predict if its linear or not make a graph and then write an equation",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is requesting a mathematical action (predicting if a function is linear, making a graph, and writing an equation) from the students, which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 59087,
+    "text": "Now if it was marbles youre absolutely right",
+    "gt_label": 0,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is acknowledging the student's contribution and fostering a supportive learning environment by agreeing with the student's statement."
+  },
+  {
+    "original_index": 122496,
+    "text": "But guys this is not going to be staying with you so dont get used to it",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, as the teacher is providing a reminder about the temporary nature of the topic, not directly related to mathematical learning or discourse."
+  },
+  {
+    "original_index": 103257,
+    "text": "And just really pay attention to these three different names As youre doing these",
+    "gt_label": 0,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing attention and participation by asking students to focus on specific aspects of the task."
+  },
+  {
+    "original_index": 114962,
+    "text": "Do you agree with Cooper",
+    "gt_label": 2,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "Asking students to agree/disagree, managing participation"
+  },
+  {
+    "original_index": 75495,
+    "text": "Try in two to three see what you can come up with",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to perform a mathematical operation ('try in two to three') and come up with a result ('see what you can come up with'), thus requesting mathematical answers or procedures."
+  },
+  {
+    "original_index": 81119,
+    "text": "50 what",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 5 and 0."
+  },
+  {
+    "original_index": 100175,
+    "text": "We are trying to find the slope of the line that goes through these two points",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical procedure (finding the slope of a line) using specific given points."
+  },
+  {
+    "original_index": 39164,
+    "text": "Yes",
+    "gt_label": 0,
+    "pred_label": 3,
+    "pred_cat": 1,
+    "pred_move": 3,
+    "reasoning": "Managing participation by asking students to agree or disagree."
+  },
+  {
+    "original_index": 33899,
+    "text": "Table two do you want to be completely done with this",
+    "gt_label": 0,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing participation and attention by asking a yes/no question, 'Do you want to be completely done with this?'"
+  },
+  {
+    "original_index": 19751,
+    "text": "I dont Thats why I do it that way",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and connect ideas by asking them to explain why they do something a certain way, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 75425,
+    "text": "What would be the formula for perimeter",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical concept (formula for perimeter), which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 62537,
+    "text": "34 of the roses are red",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is providing a mathematical answer to the question asked."
+  },
+  {
+    "original_index": 3912,
+    "text": "Ok so does that mean we have a different answer",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about the implications of the new information ('It was bigger by one one sixth') and connect it to the problem at hand, asking them to explain why the answer might be different."
+  },
+  {
+    "original_index": 82708,
+    "text": "Okay sorry",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 65635,
+    "text": "There were a lot of you that made the same mistake",
+    "gt_label": 0,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is managing participation and acknowledging students' responses, but not directly asking for mathematical answers or pushing for deeper thinking."
+  },
+  {
+    "original_index": 16941,
+    "text": "Aha",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, expressing realization or understanding"
+  },
+  {
+    "original_index": 3061,
+    "text": "So if you want to use the student work to help find the solution you will have a little bit more time in class to kind of answer these questions",
+    "gt_label": 0,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing time and expectations, encouraging students to use the student work to find solutions, which fosters a supportive learning environment."
+  },
+  {
+    "original_index": 21920,
+    "text": "But I still had a question",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The utterance 'But I still had a question' is a non-instructional statement and does not directly relate to mathematical content or learning processes."
+  },
+  {
+    "original_index": 79380,
+    "text": "Try to put it into words",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically a definition."
+  },
+  {
+    "original_index": 98899,
+    "text": "So lets talk about this one a little bit",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher's utterance 'So let's talk about this one a little bit' encourages students to think deeply and discuss the topic further, pushing them to engage in rigorous thinking."
+  },
+  {
+    "original_index": 125245,
+    "text": "And we had spoken about where do we see negative numbers right",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking a question that requires a mathematical answer or understanding, specifically about the context of negative numbers."
+  },
+  {
+    "original_index": 7153,
+    "text": "Paul",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking students to connect two different methods, pushing them to think deeply and make a connection, which falls under the 'Rigorous Thinking' category."
+  },
+  {
+    "original_index": 107996,
+    "text": "You guys are better at that than me",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, self-deprecating remark, not directly related to teaching or learning mathematics."
+  },
+  {
+    "original_index": 28173,
+    "text": "Well thats an interesting argument one half plus one half  equals a whole and two fourths plus two fourths equals a  whole",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about the relationship between halves and fourths, challenging them to connect these two representations and understand why they both equal a whole."
+  },
+  {
+    "original_index": 124514,
+    "text": "Pints good",
+    "gt_label": 4,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the number of pints in the given scenario."
+  },
+  {
+    "original_index": 132890,
+    "text": "So you are looking at page 48",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, asking students to turn to a specific page in their book."
+  },
+  {
+    "original_index": 140139,
+    "text": "Im like if I thought it was something funny",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, personal comment not related to math learning."
+  },
+  {
+    "original_index": 37671,
+    "text": "What can we do so that maybe our hamster could get a whole number of treats",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically a whole number of treats for the hamster, which requires counting or calculating."
+  },
+  {
+    "original_index": 94570,
+    "text": "It is kind of",
+    "gt_label": 0,
+    "pred_label": 5,
+    "pred_cat": 1,
+    "pred_move": 5,
+    "reasoning": "The teacher is managing participation and encouraging a student to speak, asking them to elaborate on their thought."
+  },
+  {
+    "original_index": 76048,
+    "text": "Charlotte",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "Charlotte is asking for a mathematical answer, specifically a definition."
+  },
+  {
+    "original_index": 115746,
+    "text": "What do you mean by that",
+    "gt_label": 5,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing the student to explain their reasoning behind their statement, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 77988,
+    "text": "You guys can take turns and explain what you did what was your strategy show and explain how you solved the problem",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to explain their problem-solving strategies, which is a request for mathematical answers or procedures."
+  },
+  {
+    "original_index": 2928,
+    "text": "So you can test it using all of these values",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to apply the mathematical concept they've been discussing by 'testing it using all of these values'."
+  },
+  {
+    "original_index": 15299,
+    "text": "With",
+    "gt_label": 5,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing the student to connect their current understanding to a new situation, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 49555,
+    "text": "Explain to me what you chose for your top number at the top of your subtraction problem",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a specific mathematical action (choosing a top number for a subtraction problem), which falls under the 'Content Knowledge' category."
+  },
+  {
+    "original_index": 14121,
+    "text": "Just four X",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is requesting a mathematical answer, specifically the result of multiplying X by itself."
+  },
+  {
+    "original_index": 82900,
+    "text": "If you wrote this down and you are good to go with prime and composite",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, checking if students are ready to proceed."
+  },
+  {
+    "original_index": 37236,
+    "text": "2 times 3 times 1 is 6",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "This utterance is requesting a mathematical answer, specifically the product of 2 and 3."
+  },
+  {
+    "original_index": 21182,
+    "text": "No",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 6 and 6."
+  },
+  {
+    "original_index": 26493,
+    "text": "Orange and red",
+    "gt_label": 3,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance is a simple affirmation, repeating the students' words 'Orange and red' without adding any instructional or questioning content."
+  },
+  {
+    "original_index": 25257,
+    "text": "Right",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 67708,
+    "text": "You know how to do this",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher's utterance 'You know how to do this' is asking for a mathematical action or answer, indicating a request for content knowledge."
+  },
+  {
+    "original_index": 120646,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 54895,
+    "text": "As long as I give you a fraction that is cut into tenths or hundredths or thousandths its easy",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically a fraction that is cut into tenths, hundredths, or thousandths."
+  },
+  {
+    "original_index": 62242,
+    "text": "xaxis",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a definition or explanation of the term 'x-axis'."
+  },
+  {
+    "original_index": 87113,
+    "text": "Well could you scale it to something else even",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing the student to think more deeply by suggesting they try a different scale, encouraging them to explore the problem in a new way and potentially make a connection or discovery."
+  },
+  {
+    "original_index": 11120,
+    "text": "If you were to make a triangle somewhere if you draw a line where would you get a triangle",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical action (drawing a line) and is requesting a response that demonstrates understanding of geometric properties (forming a triangle)."
+  },
+  {
+    "original_index": 19309,
+    "text": "What about the answer here",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the solution to a problem."
+  },
+  {
+    "original_index": 143065,
+    "text": "Why did you not completely finish it and youre standing",
+    "gt_label": 0,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing student participation and attention by asking a yes/no question ('Why did you not completely finish it and you're standing?') to encourage the student to explain their behavior."
+  },
+  {
+    "original_index": 30828,
+    "text": "I mean why do  you think that that works",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply and explain their reasoning, using the phrase 'why do you think that works'."
+  },
+  {
+    "original_index": 112546,
+    "text": "This should be connected to that",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The utterance 'This should be connected to that' pushes students to think deeply and connect ideas, which is characteristic of the 'Rigorous Thinking' category."
+  },
+  {
+    "original_index": 59014,
+    "text": "Zeros",
+    "gt_label": 4,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the product of 6 and 6."
+  },
+  {
+    "original_index": 93935,
+    "text": "I like your strategy to think about it like an array",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about their problem-solving strategy by asking them to explain it in terms of an array, encouraging them to connect different representations of the same mathematical concept."
+  },
+  {
+    "original_index": 99197,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 146040,
+    "text": "Any questions",
+    "gt_label": 1,
+    "pred_label": 0,
+    "pred_cat": 1,
+    "pred_move": 0,
+    "reasoning": "Asking for student participation or questions, managing turns."
+  },
+  {
+    "original_index": 61771,
+    "text": "Stand up if youve used this strategy before multiplying two denominators together",
+    "gt_label": 1,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "This utterance is managing participation by asking students to physically respond if they have used a specific strategy before, fostering engagement and checking prior knowledge."
+  },
+  {
+    "original_index": 8535,
+    "text": "First of all you must figure out the estimate",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to perform a mathematical procedure (estimating) and understand the initial step."
+  },
+  {
+    "original_index": 51718,
+    "text": "Asher",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking students to connect two different methods, pushing them to think deeply and compare the representations."
+  },
+  {
+    "original_index": 147203,
+    "text": "So if I want it to get bigger I have to move it one step to the",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about the relationship between the position of the step and the size of the result, encouraging them to explain their reasoning."
+  },
+  {
+    "original_index": 35472,
+    "text": "Is that true",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The utterance 'Is that true' pushes students to think deeply about their statements and encourages them to provide a reason or explanation for their claims, aligning with the 'Rigorous Thinking' category."
+  },
+  {
+    "original_index": 109876,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 144854,
+    "text": "Then what did you do",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical procedure or answer, specifically the next step in a problem-solving process."
+  },
+  {
+    "original_index": 9088,
+    "text": "Yep",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 30689,
+    "text": "I I really appreciate your generosity",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, expressing appreciation"
+  },
+  {
+    "original_index": 66188,
+    "text": "They both used the information that was given and interpreted it differently didnt they",
+    "gt_label": 2,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply about how two different interpretations of given information can lead to different outcomes, encouraging them to connect and compare ideas."
+  },
+  {
+    "original_index": 23767,
+    "text": "It s making more sense",
+    "gt_label": 0,
+    "pred_label": 3,
+    "pred_cat": 1,
+    "pred_move": 3,
+    "reasoning": "The teacher is checking for understanding and fostering a supportive learning environment by asking students if the concept is making more sense to them."
+  },
+  {
+    "original_index": 136292,
+    "text": "And if the partial quotients is the easiest for you to use I am going to allow you to use that for me personally that is very difficult",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher is expressing a personal preference and difficulty, not directly engaging students in mathematical learning or discourse."
+  },
+  {
+    "original_index": 116252,
+    "text": "Who has an idea",
+    "gt_label": 5,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "The teacher is managing participation and fostering a supportive learning environment by asking 'Who has an idea?', encouraging students to share their thoughts."
+  },
+  {
+    "original_index": 6920,
+    "text": "Yes",
+    "gt_label": 0,
+    "pred_label": 3,
+    "pred_cat": 1,
+    "pred_move": 3,
+    "reasoning": "Managing participation by asking students to agree or disagree."
+  },
+  {
+    "original_index": 8937,
+    "text": "Okay wait a min wait a minute for you to think about this",
+    "gt_label": 0,
+    "pred_label": 1,
+    "pred_cat": 1,
+    "pred_move": 1,
+    "reasoning": "The teacher is managing time and encouraging students to think about the problem, but not directly asking for a mathematical answer or pushing for deep thinking."
+  },
+  {
+    "original_index": 109277,
+    "text": "Im gonna have you share with your partners",
+    "gt_label": 0,
+    "pred_label": 2,
+    "pred_cat": 1,
+    "pred_move": 2,
+    "reasoning": "This utterance is managing participation and fostering a supportive learning environment by encouraging students to share with their partners."
+  },
+  {
+    "original_index": 110019,
+    "text": "So what is the strategy for solving this if you didnt know your twelves",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical strategy to solve a problem, specifically for a situation where students might not know their multiplication tables."
+  },
+  {
+    "original_index": 67543,
+    "text": "Tenths",
+    "gt_label": 3,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a definition or explanation of 'tenths'."
+  },
+  {
+    "original_index": 43236,
+    "text": "How far across",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically a numerical value."
+  },
+  {
+    "original_index": 71197,
+    "text": "So what is this box worth",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the value of the box."
+  },
+  {
+    "original_index": 35894,
+    "text": "That would totally work",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 92829,
+    "text": "Yeah Sterling",
+    "gt_label": 1,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 135668,
+    "text": "Okay so Im gonna do the everyday math deck to as my example",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, the teacher is simply announcing their intention to use a specific example."
+  },
+  {
+    "original_index": 98093,
+    "text": "And then I got 10",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simply stating a result."
+  },
+  {
+    "original_index": 56891,
+    "text": "Why do you think its 14",
+    "gt_label": 2,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing the student to explain their reasoning behind their answer, encouraging rigorous thinking."
+  },
+  {
+    "original_index": 143731,
+    "text": "Nope I got one in fivesixth",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, the teacher is correcting a student's mistake in their counting."
+  },
+  {
+    "original_index": 51395,
+    "text": "First and foremost Kingslyers down erase your boards clean lids on your Kingslyers erasers down",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, giving a classroom management instruction."
+  },
+  {
+    "original_index": 96704,
+    "text": "All right",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, used to signal transition or agreement."
+  },
+  {
+    "original_index": 20281,
+    "text": "Did you come up with a rule",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer or procedure, specifically a rule that the students have derived."
+  },
+  {
+    "original_index": 86424,
+    "text": "As long as I can see your work on  you may",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "The teacher's utterance 'As long as I can see your work on you may' is a simple affirmation, allowing students to proceed with their work once their work is visible. It is not instructional or pushing for mathematical understanding, so it falls into the 'Other' category."
+  },
+  {
+    "original_index": 9190,
+    "text": "Four minus four plus negative four is equal to zero right",
+    "gt_label": 1,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer to the expression 'four minus four plus negative four'."
+  },
+  {
+    "original_index": 98980,
+    "text": "And then even though the table doesnt go down by one week every time or go up by one week sorry theyre still spending 5 per week were just going to different amounts of weeks",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to understand and explain the pattern in the table, specifically how the amount of weeks changes while the weekly spending remains constant."
+  },
+  {
+    "original_index": 102033,
+    "text": "So lets see here",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, the teacher is not asking a question or providing instruction, just indicating they are about to do something."
+  },
+  {
+    "original_index": 131836,
+    "text": "Tell me why 10 to the power of seven",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking for an explanation of the result of 10 raised to the power of 7, pushing students to think deeply about the operation and its result."
+  },
+  {
+    "original_index": 102541,
+    "text": "So if all sides are congruent and if all the angles are congruent",
+    "gt_label": 0,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to connect ideas and understand the properties of congruent triangles, which requires rigorous thinking."
+  },
+  {
+    "original_index": 62341,
+    "text": "I see Grant has drawn 612  1224 so he is drawing some equivalent fractions",
+    "gt_label": 4,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is pushing students to think deeply by connecting Grant's drawing of equivalent fractions to the mathematical concept of equivalent fractions, encouraging them to understand the relationship between the two."
+  },
+  {
+    "original_index": 106489,
+    "text": "SOHCAHTOA",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is providing a mnemonic (SOHCAHTOA) for remembering the trigonometric ratios, which is a content knowledge utterance."
+  },
+  {
+    "original_index": 74622,
+    "text": "Make sure you answer the questions at the end",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for mathematical answers or procedures by posing a question that requires students to solve a problem."
+  },
+  {
+    "original_index": 82585,
+    "text": NaN,
+    "gt_label": 3,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, as 'nan' is not a typical teacher utterance and does not provide any instructional or mathematical content."
+  },
+  {
+    "original_index": 53384,
+    "text": "Nora",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking students to connect two different methods, pushing them to think deeply and compare the representations."
+  },
+  {
+    "original_index": 39652,
+    "text": "Here we go",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, indicating the start of an activity or topic."
+  },
+  {
+    "original_index": 61510,
+    "text": "Weve used the tiling strategy where weve actually taken the tools and put them inside of the object",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is referring to a specific mathematical strategy (tiling) and asking students to recall and describe it, which falls under the category of Content Knowledge."
+  },
+  {
+    "original_index": 137368,
+    "text": "Excellent job",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 23914,
+    "text": "What do you think Jessica and Laura",
+    "gt_label": 1,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking students to think deeply and connect ideas by asking for their thoughts on a mathematical concept, encouraging them to engage in rigorous thinking."
+  },
+  {
+    "original_index": 105971,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 72625,
+    "text": "There you go",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 140729,
+    "text": "Okay",
+    "gt_label": 0,
+    "pred_label": 0,
+    "pred_cat": 0,
+    "pred_move": 0,
+    "reasoning": "Non-instructional, simple affirmation."
+  },
+  {
+    "original_index": 98602,
+    "text": "Okay so for everybody lets lets talk about the y intercept first",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking students to focus on a specific mathematical concept, the y-intercept, indicating a Content Knowledge category."
+  },
+  {
+    "original_index": 117868,
+    "text": "So I fold it like a burrito and as you can see if you look in the middle I have it evenly folded I have one two three",
+    "gt_label": 0,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is demonstrating a procedure (folding like a burrito) and counting the folds, which is a Content Knowledge utterance as it's requesting a mathematical observation."
+  },
+  {
+    "original_index": 77161,
+    "text": "Write the name on your dry erase boards what kind of angle is this and how do you know",
+    "gt_label": 6,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer (the type of angle) and a justification (how the student knows it)."
+  },
+  {
+    "original_index": 44516,
+    "text": "What is the red one",
+    "gt_label": 5,
+    "pred_label": 4,
+    "pred_cat": 2,
+    "pred_move": 4,
+    "reasoning": "The teacher is asking for a mathematical answer, specifically the value of the red number."
+  },
+  {
+    "original_index": 88578,
+    "text": "How come the dog gets more treats",
+    "gt_label": 6,
+    "pred_label": 6,
+    "pred_cat": 3,
+    "pred_move": 6,
+    "reasoning": "The teacher is asking for an explanation or reasoning behind a student's statement, pushing them to think deeply about their response."
+  }
+]

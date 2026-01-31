@@ -1,0 +1,2002 @@
+[
+  {
+    "original_index": 7040,
+    "utterance": "'oh yeah you''re right . it doesn''t say anything about consonants'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "Alpa is agreeing with Butt's reasoning and clarifying their position regarding the task.",
+    "reasoning_target": "Alpa explicitly agrees with Butt's interpretation."
+  },
+  {
+    "original_index": 6692,
+    "utterance": "i think we can eliminate flipping <CARD> and <CARD> due to that",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The statement is providing a rationale for eliminating certain actions based on the group's discussion, which is directly related to solving the task.",
+    "reasoning_target": "Hedg is suggesting to manage the group process by proposing to eliminate certain actions."
+  },
+  {
+    "original_index": 16546,
+    "utterance": "I selected the \" <CARD> \" and \" <CARD> \" card",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The statement provides specific information about the cards chosen, which is relevant to the task.",
+    "reasoning_target": "The statement is generic and does not provide a specific solution, reasoning, moderation, agreement, or disagreement."
+  },
+  {
+    "original_index": 3791,
+    "utterance": "ok ill choose <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement is providing a choice for the task, which is relevant to the ongoing discussion.",
+    "reasoning_target": "Guin is proposing a specific choice of cards, which aligns with the action of stating a solution."
+  },
+  {
+    "original_index": 12166,
+    "utterance": "exactly <MENTION> . I think either just the <CARD> , or all <CARD> . GP , what is your reasoning for choosing another in addition to <CARD> ?",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The current utterance is asking for reasoning behind a specific choice, which falls under probing.",
+    "reasoning_target": "Zebr is probing for reasoning behind choosing additional cards beyond the ones Zebr believes necessary, which involves evaluating the logic of the group's decision-making process."
+  },
+  {
+    "original_index": 16918,
+    "utterance": "What about Zebra ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'What about Zebra?' is a question aimed at understanding the relevance or impact of the 'Zebra' card in the context of the task.",
+    "reasoning_target": "The utterance 'What about Zebra?' is a probing question and does not clearly fit into any of the predefined categories such as proposing a solution, providing reasoning, managing the group process, explicitly agreeing or disagreeing."
+  },
+  {
+    "original_index": 9949,
+    "utterance": "TRUE",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'TRUE' does not fit into the categories of probing or non-probing deliberation as it lacks context and does not contribute to the discussion in a meaningful way.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 5963,
+    "utterance": "finale desicion isA",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'finale desicion isA' appears to express a position or decision regarding the task, which is relevant to the collaborative problem-solving process.",
+    "reasoning_target": "The utterance 'finale desicion isA' is unclear and does not clearly propose a solution, reasoning, moderation, agreement, disagreement, or any specific function."
+  },
+  {
+    "original_index": 11820,
+    "utterance": "<MENTION> ? Still there ?",
+    "gt_type": 0,
+    "pred_type": -1,
+    "gt_target": 3,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is a simple acknowledgment and not directly related to the task.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 14184,
+    "utterance": "With understanding the rule ; \" All \" should imply every single one , right ?",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Rave is asking a question to clarify the interpretation of the rule, specifically about the meaning of the word 'All'.",
+    "reasoning_target": "Rave is clarifying the meaning of the term 'All' in the context of the rule, which involves analyzing the logical implications of the rule."
+  },
+  {
+    "original_index": 4506,
+    "utterance": "<CARD> also",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement adds to the discussion about which cards to flip, contributing to the task.",
+    "reasoning_target": "Pand is proposing a specific set of cards to turn over as part of the solution."
+  },
+  {
+    "original_index": 5202,
+    "utterance": "thanks",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'thanks' is a social acknowledgment and not directly related to the task.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 370,
+    "utterance": "im good with that",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'im good with that' is a simple acknowledgment and does not contribute to the task-related discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 12283,
+    "utterance": "When I write Es they do normally look like backwards 3s now that you mention it lol",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement is more of a casual observation and does not contribute directly to solving the task at hand.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 3889,
+    "utterance": "Heyo",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Heyo' is a casual greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 11225,
+    "utterance": "I think <MENTION> has gone ?",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The statement is asking if someone has left the conversation, which is not directly related to the task at hand.",
+    "reasoning_target": "Bee is checking if someone has left the conversation, which relates to managing the group process."
+  },
+  {
+    "original_index": 1411,
+    "utterance": "<CARD> has a vowel also",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 1,
+    "reasoning_type": "The statement contributes directly to the task by providing information about the card having a vowel.",
+    "reasoning_target": "Emu is proposing a solution by stating that <CARD> also has a vowel."
+  },
+  {
+    "original_index": 4556,
+    "utterance": "good to do",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'good to do' does not contribute directly to the task and can be considered as a general agreement or acknowledgment.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 9914,
+    "utterance": "So I chose <CARD> to turn around",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The statement describes a specific action taken for the task, contributing directly to the discussion of solutions.",
+    "reasoning_target": "Leop is managing the group process by indicating their action and moving forward with the task."
+  },
+  {
+    "original_index": 10919,
+    "utterance": "okay",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'okay' is a simple acknowledgment and not task-related.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8496,
+    "utterance": "Me too . Goodbye",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'Me too. Goodbye' is not task-related and serves as a closing remark.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 2446,
+    "utterance": "7,8 , <CARD> ... OK",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The utterance '7,8 , <CARD> ... OK' does not contribute to the task discussion and seems to be a non-task related acknowledgment.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 17121,
+    "utterance": "I originally did <CARD> , <CARD> , and <CARD> and while I was waiting for you guys I was like ... shoot . That was wrong lol",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses Bat's initial incorrect submission and reflects on the mistake, providing insight into their thought process and the task.",
+    "reasoning_target": "Bat is explaining why their initial choice was incorrect, involving reasoning about the rules."
+  },
+  {
+    "original_index": 2781,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Hello' is a greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 671,
+    "utterance": "'Wait , it''s not <CARD> and <CARD> .'",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The utterance is asking for clarification or correction, which indicates a probing question to understand the current consensus or the correctness of the proposed solution.",
+    "reasoning_target": "Narw is explicitly disagreeing with the previously suggested cards."
+  },
+  {
+    "original_index": 13895,
+    "utterance": "we",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The statement is providing reasoning related to the task, discussing potential contents of the cards and their implications.",
+    "reasoning_target": "Tige is considering the possibility of what might be under certain cards, which involves reasoning about the rules provided."
+  },
+  {
+    "original_index": 14030,
+    "utterance": "Yeah me too .",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The response 'Yeah me too.' is a social acknowledgment and not task-related.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 15401,
+    "utterance": "okay sounds good =D",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The statement is a simple acknowledgment and does not contribute to the task.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 3925,
+    "utterance": "i think i disagree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The statement expresses a disagreement which is relevant to the ongoing discussion about which cards to flip.",
+    "reasoning_target": "Duck explicitly disagrees with the decision to flip certain cards."
+  },
+  {
+    "original_index": 4029,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The response '<CARD> and <CARD>' does not provide any meaningful content related to the task or probing question asked by Emu. It appears to be incomplete or irrelevant.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8560,
+    "utterance": "Agreed .",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Agreed.' is a simple acknowledgment and does not contribute new information or ask for clarification.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 6298,
+    "utterance": "'Why did you think it wasn''t <CARD> ?'",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The question aims to understand Gira's thought process regarding why they didn't consider <CARD> as an option.",
+    "reasoning_target": "Lion is asking for the reasoning behind Gira's choice, which falls under explaining why a particular card was not chosen."
+  },
+  {
+    "original_index": 150,
+    "utterance": "if so , then we know the rule is not true",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses a potential outcome and its implications for verifying the rule, contributing directly to the task.",
+    "reasoning_target": "Kiwi is explaining the reasoning behind testing the rule by flipping all cards."
+  },
+  {
+    "original_index": 8996,
+    "utterance": "Ok . Will pus the final decision button on my end .",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement is an acknowledgment and preparation action, not directly contributing to the task discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 3430,
+    "utterance": "Oh I see that makes sense . <CARD> and <CARD> I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses agreement and confirms a position related to the task.",
+    "reasoning_target": "Beav explicitly agrees with the suggestion made by others."
+  },
+  {
+    "original_index": 4315,
+    "utterance": "By turning the \" <CARD> \" we verify if the letter is a vowel , thereby verifying the rule .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning about how turning a card verifies if it has a vowel, which is directly related to the task.",
+    "reasoning_target": "Butt explains the reasoning behind verifying the rule by turning over cards to check for vowels, which aligns with the task of understanding why certain actions are necessary."
+  },
+  {
+    "original_index": 13132,
+    "utterance": "I think that is the best answer",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'I think that is the best answer' expresses a position regarding the task, indicating a preference for a specific approach.",
+    "reasoning_target": "Cat explicitly agrees with the idea that picking all four cards is the best approach."
+  },
+  {
+    "original_index": 1928,
+    "utterance": "All <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'All <CARD>' is providing information about the task, specifically regarding the cards, which is relevant to the ongoing discussion.",
+    "reasoning_target": "The statement 'All <CARD>' does not clearly indicate a specific function such as proposing a solution, providing reasoning, managing the group process, agreeing, or disagreeing."
+  },
+  {
+    "original_index": 2666,
+    "utterance": "oh . anyways here is my reasoning , give me a sec to type it up .",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "Narw is preparing to share their reasoning for their chosen cards, which is relevant to the task.",
+    "reasoning_target": "Narw is preparing to explain their reasoning behind their chosen cards."
+  },
+  {
+    "original_index": 15107,
+    "utterance": "I tink turn <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a solution or position related to the task.",
+    "reasoning_target": "Falc is proposing a solution by suggesting to turn the <CARD>."
+  },
+  {
+    "original_index": 3727,
+    "utterance": "So what is our concensus .",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "Unic is asking for a consensus, which indicates an attempt to understand the group's agreement or decision.",
+    "reasoning_target": "Unic is attempting to gather agreement or confirmation from the group about their consensus, which involves managing the group process."
+  },
+  {
+    "original_index": 2991,
+    "utterance": "we technically",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance starts to provide a clarification on the task instructions, indicating a move towards resolving the ambiguity regarding the selection criteria.",
+    "reasoning_target": "The current utterance 'we technically' is incomplete and does not provide enough context to determine if it is proposing a solution, reasoning, managing the group process, agreeing, disagreeing, or any other specific function."
+  },
+  {
+    "original_index": 17596,
+    "utterance": "Me too",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'Me too' indicates agreement with a previously stated solution or position, which is relevant to the task.",
+    "reasoning_target": "The current utterance 'Me too' is an explicit agreement with the previous statement made by Alpa."
+  },
+  {
+    "original_index": 15861,
+    "utterance": "'oh man .. it''s getting ccooler here and some guy was grilling burgers and bacon on his charcoal grill the other night'",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement is not related to the task and is more of a casual comment about the weather and someone grilling.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8856,
+    "utterance": "it is an even number",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement 'it is an even number' is providing information relevant to the task, discussing the properties of the cards.",
+    "reasoning_target": "Bat is explaining why a certain card does not verify the rule, which involves reasoning about the logic of the task."
+  },
+  {
+    "original_index": 15536,
+    "utterance": "'it''s not too obvious'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The statement provides a position on the selection of cards, contributing to the task discussion.",
+    "reasoning_target": "Leop explicitly disagrees with Emu's statement that selecting certain cards is too obvious."
+  },
+  {
+    "original_index": 4602,
+    "utterance": "Oh . I see now .",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The statement 'Oh. I see now.' indicates understanding but does not contribute new information or ask a probing question.",
+    "reasoning_target": "Duck's statement 'Oh. I see now.' indicates a moment of realization or understanding after being prompted by another player's clarification, which aligns with reasoning about the game's logic."
+  },
+  {
+    "original_index": 3029,
+    "utterance": "Do they have a number on all four or a letter on all four ? I believe we should turn <CARD> and <CARD> .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The user is providing a specific suggestion about which cards to flip, contributing directly to solving the task.",
+    "reasoning_target": "Hams is clarifying the nature of the cards and suggesting which ones to flip, involving reasoning about the task requirements."
+  },
+  {
+    "original_index": 4189,
+    "utterance": "could it be that consonants can use even numbers too ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement is offering a new perspective on the criteria for choosing cards, which is relevant to solving the task.",
+    "reasoning_target": "Guin is considering an alternative possibility that could affect the rule they are testing, indicating a form of reasoning."
+  },
+  {
+    "original_index": 5191,
+    "utterance": "<CARD> is not a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 5,
+    "reasoning_type": "Pand is providing a statement about a specific card, which is relevant to the task at hand.",
+    "reasoning_target": "Pand is explicitly disagreeing with the previous discussion about testing certain cards based on the presence of vowels."
+  },
+  {
+    "original_index": 14992,
+    "utterance": "I think <CARD> is definitely it",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a clear position on which card to flip, contributing directly to the task.",
+    "reasoning_target": "Bee is proposing a specific card to flip, which is a direct solution to the task at hand."
+  },
+  {
+    "original_index": 470,
+    "utterance": "yes it does <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'yes it does' is agreeing with a previous point made, which is task-related and contributes to the discussion.",
+    "reasoning_target": "Guin explicitly agrees with the reasoning provided by Emu and Duck."
+  },
+  {
+    "original_index": 14929,
+    "utterance": "'I''m choosing <CARD> and <CARD>'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement is providing a specific action related to the task, indicating which cards to choose for testing the given rule.",
+    "reasoning_target": "Narw is proposing specific cards to turn, which is a direct solution to the task at hand."
+  },
+  {
+    "original_index": 7727,
+    "utterance": "so I was worg",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 2,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'so I was worg' does not contribute to the task and seems to be a casual acknowledgment or correction of a previous thought.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 16519,
+    "utterance": "I think you have to turn all the cards .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a solution-oriented suggestion related to the task.",
+    "reasoning_target": "Pand is proposing a solution by suggesting what needs to be done with the cards."
+  },
+  {
+    "original_index": 3270,
+    "utterance": "you too !",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'you too!' is a social acknowledgment and not directly related to the task.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 13234,
+    "utterance": "Feels like it",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'Feels like it' does not contribute to the task and is more of an acknowledgment or agreement with a previous comment.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 13685,
+    "utterance": "okay",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'okay' is a simple acknowledgment and not task-related.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 5139,
+    "utterance": "Yeah I think so",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'Yeah I think so' is a response that aligns with previous agreement but does not provide new information or probe further into the task.",
+    "reasoning_target": "The utterance 'Yeah I think so' indicates agreement with a previously stated idea."
+  },
+  {
+    "original_index": 4932,
+    "utterance": "what is turning over the <CARD> proving ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The utterance is asking a question to understand the purpose of flipping a specific card, which falls under probing.",
+    "reasoning_target": "Duck is questioning the purpose of flipping a specific card, which involves analyzing the logic behind the action."
+  },
+  {
+    "original_index": 12936,
+    "utterance": "'but wouldn''t the reverse also be true ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement is contributing to the discussion by proposing a logical extension or counterpoint to the existing arguments about the rule.",
+    "reasoning_target": "Butt is questioning whether the reverse condition (if the card does not have a vowel on the other side) would also be significant in disproving the rule, which involves reasoning about the logic of the rule."
+  },
+  {
+    "original_index": 2878,
+    "utterance": "Ah ok",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Ah ok' is a simple acknowledgment and does not contribute to the task or discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 10508,
+    "utterance": "yes <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides specific information about which cards should be turned over to test the rule, contributing directly to the task.",
+    "reasoning_target": "Beav is proposing which cards should be turned over to test the rule, effectively stating a solution."
+  },
+  {
+    "original_index": 3937,
+    "utterance": "are we unanimous ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The utterance 'are we unanimous?' is a probing question aimed at understanding whether everyone agrees on the decision.",
+    "reasoning_target": "Duck is checking for agreement among the group members, which is related to managing the group process."
+  },
+  {
+    "original_index": 10487,
+    "utterance": "did we all select VOWEL cards as the one to turn over ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking for confirmation about a collective decision, which falls under probing to understand the group's actions.",
+    "reasoning_target": "Beav is checking the group's progress and ensuring alignment on the task."
+  },
+  {
+    "original_index": 7599,
+    "utterance": "I thought it was best to check all the cards since some showed vowels and others consonants and numbers . What did everyone else do ?",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking what others did, which is a probing question to understand others' approaches.",
+    "reasoning_target": "Bee is managing the group process by asking what others did, which helps in aligning the team's approach."
+  },
+  {
+    "original_index": 7250,
+    "utterance": "You too !",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 1,
+    "reasoning_type": "Encouraging the submission of the game with all selected, which is task-related and contributes to solving the problem.",
+    "reasoning_target": "Bee is proposing a solution by suggesting to select all cards for verification."
+  },
+  {
+    "original_index": 13849,
+    "utterance": "'But we don''t know if <CARD> has <CARD> number on the other side do we ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "Puff is raising a point about the necessity of verifying the number on the other side of the card, which is relevant to the task.",
+    "reasoning_target": "Puff is questioning whether they can confirm the rule based on the current information, which involves logical reasoning about the necessity of knowing the back of the card."
+  },
+  {
+    "original_index": 16472,
+    "utterance": "'I''m submitting with <CARD> , <CARD> and <CARD> . Thanks all good luck'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "This statement is task-related as Hedg is providing a final decision on which cards to submit, indicating a conclusion to their collaborative problem-solving.",
+    "reasoning_target": "Hedg is managing the group process by finalizing their choices and concluding the discussion."
+  },
+  {
+    "original_index": 7246,
+    "utterance": "submit *",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "Bee is suggesting to proceed with the action of submitting the game, which is directly related to the task.",
+    "reasoning_target": "Bee is suggesting the action of submitting the game, which is managing the group process or task flow."
+  },
+  {
+    "original_index": 11880,
+    "utterance": "I agree with <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "Chip is expressing agreement with a previous statement, contributing to the discussion by aligning with another participant's position.",
+    "reasoning_target": "Chip explicitly agrees with a previous idea mentioned."
+  },
+  {
+    "original_index": 7342,
+    "utterance": "But it says all carde with even # have a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 5,
+    "reasoning_type": "Emu is providing a statement that directly relates to the task, discussing the rule about cards with even numbers having vowels.",
+    "reasoning_target": "Emu is explicitly disagreeing with the previous statements about which cards need to be turned over."
+  },
+  {
+    "original_index": 9941,
+    "utterance": "<CARD> think it is <CARD> \" and \" <CARD> \"",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement discusses specific cards and their potential relevance to the task, contributing directly to the problem-solving process.",
+    "reasoning_target": "Cat is proposing a specific card as a solution."
+  },
+  {
+    "original_index": 7513,
+    "utterance": "That one is the one I think it should be",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'That one is the one I think it should be' is a clear expression of Emu's position regarding the correct choice of card, contributing directly to the task.",
+    "reasoning_target": "Emu explicitly agrees with the choice of the card."
+  },
+  {
+    "original_index": 641,
+    "utterance": "I am wondering if turning over the letter cards will show the answer",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The utterance is asking a question to understand if a specific action (turning over the letter cards) could reveal the answer, which falls under probing.",
+    "reasoning_target": "The statement is questioning whether flipping the letter cards would reveal the answer, which involves analyzing the potential outcome of an action."
+  },
+  {
+    "original_index": 8974,
+    "utterance": "it also says we have to talk for 5 mins",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The statement is asking about a procedural aspect of the task (talking for 5 minutes), which is not directly related to solving the problem but rather understanding the rules or constraints of their collaboration.",
+    "reasoning_target": "Llam is managing the group process by reminding them of the time constraint."
+  },
+  {
+    "original_index": 15240,
+    "utterance": "<CARD> <CARD> & <CARD> seems like a good idea <MENTION> , i agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 4,
+    "reasoning_type": "Lion is suggesting specific cards to test, which is directly contributing to the task of verifying the rule.",
+    "reasoning_target": "Lion explicitly agrees with the suggestion made by another participant."
+  },
+  {
+    "original_index": 10408,
+    "utterance": "No I think we need to test the even number the <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a specific suggestion for testing the rule, which is relevant to solving the task.",
+    "reasoning_target": "Leop is explaining why they believe an even number card should also be tested, which involves reasoning about the rule and its application."
+  },
+  {
+    "original_index": 13415,
+    "utterance": "Or see if <CARD> had a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a rationale related to the task, specifically about checking for vowels.",
+    "reasoning_target": "Kiwi is explaining their reasoning for considering a different card, specifically focusing on whether it contains a vowel."
+  },
+  {
+    "original_index": 10559,
+    "utterance": "The rule is that all cards with vowels must have even numbers .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a specific rule for the task, which is relevant and useful for solving the task.",
+    "reasoning_target": "The statement explains a rule about the relationship between vowels and even numbers on cards, which falls under reasoning."
+  },
+  {
+    "original_index": 9386,
+    "utterance": "Yes , <CARD> and <CARD> need to be turned .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a clear position regarding which cards should be turned, contributing directly to the task.",
+    "reasoning_target": "Falc is explicitly stating the solution by indicating which cards need to be turned."
+  },
+  {
+    "original_index": 16299,
+    "utterance": "Funny we all chose the same cards",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement is asking a question to understand why everyone chose the same cards, which falls under probing.",
+    "reasoning_target": "The statement 'Funny we all chose the same cards' does not propose a solution, reasoning, manage the group process, express agreement or disagreement, but rather comments on the coincidence of choices made by the group members."
+  },
+  {
+    "original_index": 10827,
+    "utterance": "somewhat compatible i guess",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The statement 'somewhat compatible i guess' is a probing question as it seeks clarification on Gira's choice, asking for more information about the compatibility of their choices.",
+    "reasoning_target": "Bee is probing Gira's reasoning for choosing a particular card, which is related to managing and clarifying the decision-making process."
+  },
+  {
+    "original_index": 4430,
+    "utterance": "Do we all agree ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking for agreement from the group, which is a probing question to understand if everyone is in consensus.",
+    "reasoning_target": "Ox is checking for agreement among the group members, which is a form of managing the group process."
+  },
+  {
+    "original_index": 16121,
+    "utterance": "'And it''s not <CARD> because <CARD> could have a consonant and the rule given would be true'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning related to the task, specifically about why a certain option should not be selected based on the rules provided.",
+    "reasoning_target": "Leop is explaining why a certain option is not chosen based on the rule provided."
+  },
+  {
+    "original_index": 12250,
+    "utterance": "<CARD> minutes",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The statement '<CARD> minutes' refers to the time remaining on the timer, which is relevant to the task at hand.",
+    "reasoning_target": "Chip is managing the group process by mentioning the time limit."
+  },
+  {
+    "original_index": 15365,
+    "utterance": "Wait for the rule we only care about the even card and vowels so why care about the <CARD> or <CARD> at all ?",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a rationale for focusing on specific cards based on the given rule, contributing directly to the task.",
+    "reasoning_target": "Duck is clarifying the rule and explaining why certain cards do not need to be turned over."
+  },
+  {
+    "original_index": 10920,
+    "utterance": "Except that they \u2019 re numbers on the vowel cards",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides information relevant to the task, discussing the characteristics of the cards.",
+    "reasoning_target": "Zebr is explaining why certain cards were chosen based on the presence of numbers and vowels."
+  },
+  {
+    "original_index": 3182,
+    "utterance": "do we have the same cards though ?",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is asking a question to clarify if everyone has the same set of cards, which is essential for understanding the task context.",
+    "reasoning_target": "The utterance is asking a question to clarify if everyone has the same set of cards, which does not fit into any of the predefined categories like proposing a solution, reasoning, moderating, agreeing, or disagreeing."
+  },
+  {
+    "original_index": 16185,
+    "utterance": "less than 2 minutes left",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The current utterance does not provide any specific information related to the task or further the discussion. It seems to be a time-related comment which is not directly task-oriented.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 5883,
+    "utterance": "we will get <CARD> <CARD> <CARD> <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 1,
+    "reasoning_type": "The statement discusses specific actions related to the task, indicating a position on which cards to turn.",
+    "reasoning_target": "Emu is proposing a specific outcome from turning certain cards."
+  },
+  {
+    "original_index": 10438,
+    "utterance": "Problem seems pretty obvious",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The statement 'Problem seems pretty obvious' is a position expression regarding the clarity of the task, which is relevant to the task at hand.",
+    "reasoning_target": "Leop's statement 'Problem seems pretty obvious' implies an analysis or evaluation of the current situation, suggesting that the problem or task at hand is clear and straightforward."
+  },
+  {
+    "original_index": 15035,
+    "utterance": "I think <CARD> & <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Leop is providing specific cards as part of the task discussion, contributing to the collaborative problem-solving process.",
+    "reasoning_target": "Leop is proposing a solution by suggesting specific cards."
+  },
+  {
+    "original_index": 10576,
+    "utterance": "Not necessarily",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The utterance 'Not necessarily' expresses a position regarding the necessity of the rule's reverse being true, contributing to the task discussion.",
+    "reasoning_target": "Llam explicitly disagrees with Unic's statement that the reverse has to be true."
+  },
+  {
+    "original_index": 9817,
+    "utterance": "Which card are we submitting ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking for clarification on the task at hand, specifically which card they should submit.",
+    "reasoning_target": "Hedg is asking about the group's decision on which card to submit, indicating a focus on managing the group process or task flow."
+  },
+  {
+    "original_index": 801,
+    "utterance": "Ok 2A it is .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Bee is confirming a decision (2A), which is a statement useful for the task.",
+    "reasoning_target": "Bee explicitly states 'Ok 2A it is', proposing a specific solution."
+  },
+  {
+    "original_index": 3217,
+    "utterance": "<CARD> and <CARD> I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "This statement expresses agreement with the proposed solution and is directly related to the task.",
+    "reasoning_target": "Dolp explicitly agrees with the proposed action to submit <CARD> and <CARD>."
+  },
+  {
+    "original_index": 13370,
+    "utterance": "I think I will stand with me decsion",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses Falc's position on the decision, contributing directly to the task discussion.",
+    "reasoning_target": "Falc explicitly agrees with their previous decision."
+  },
+  {
+    "original_index": 15692,
+    "utterance": "'That''s true <MENTION>'",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is a simple acknowledgment and does not contribute directly to the task discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 12129,
+    "utterance": "'And the rule doesn''t state that all cards with even numbers have vowels on the back , so <CARD> probably isn''t necessary'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses the rule and its implications for the task, providing reasoning relevant to solving the problem.",
+    "reasoning_target": "Llam is explaining why checking the card with an odd number is sufficient based on the rule interpretation."
+  },
+  {
+    "original_index": 10324,
+    "utterance": "are we good with the <CARD> and the <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The user is asking for confirmation on the group's decision, which is a probing question to ensure everyone agrees.",
+    "reasoning_target": "The user is checking if the group agrees on the decision, which involves managing the group process."
+  },
+  {
+    "original_index": 5654,
+    "utterance": "Did you flip <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The user is asking a question to clarify the current state of the game, which is related to understanding the task.",
+    "reasoning_target": "The utterance is asking a question to clarify information rather than proposing a solution, reasoning, managing the group process, explicitly agreeing or disagreeing."
+  },
+  {
+    "original_index": 9712,
+    "utterance": "i don ; t know if we met the 5 minute discussion rule yet",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The user is asking about whether they have met a specific time limit for their discussion, which is a question aimed at understanding the status of their task constraints.",
+    "reasoning_target": "Lobs is checking the time limit for their discussion, which is related to managing the group process or task flow."
+  },
+  {
+    "original_index": 11141,
+    "utterance": "'I don''t think it''s <CARD> and <CARD> , but we can go with that'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The statement provides a position on the proposed solution and suggests an alternative, contributing directly to the task.",
+    "reasoning_target": "Tige explicitly disagrees with the proposed cards, indicating disagreement."
+  },
+  {
+    "original_index": 10260,
+    "utterance": "'I guess I''m going with all <CARD>'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "Gira is stating their position on the solution, suggesting to turn over all cards.",
+    "reasoning_target": "Gira is suggesting a new approach to the task, indicating a shift in the group's strategy for solving the problem."
+  },
+  {
+    "original_index": 16461,
+    "utterance": "'But we don''t need to know what''s behind <CARD> , because theres no reason a consonant can''t be behind it .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Beav is providing a rationale for why certain cards do not need to be flipped, which is directly related to solving the task.",
+    "reasoning_target": "Beav is explaining why it's unnecessary to check the back of the <CARD> since the rule does not specify anything about consonants being paired with odd numbers."
+  },
+  {
+    "original_index": 1907,
+    "utterance": "any other thoughts any one else ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking for additional thoughts or ideas from others, which is a probing question to understand if there are more considerations or perspectives.",
+    "reasoning_target": "Falc is checking if there are any additional thoughts or ideas from others, which is managing the group process."
+  },
+  {
+    "original_index": 13793,
+    "utterance": "I picked \" <CARD> \" and \" <CARD> \" .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The statement provides specific information about the cards selected, which is relevant to the task at hand.",
+    "reasoning_target": "The statement is a generic action of sharing card selections without proposing a solution, reasoning, moderating, agreeing, or disagreeing."
+  },
+  {
+    "original_index": 3931,
+    "utterance": "i missed that <MENTION>",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'i missed that <MENTION>' is not task-related and does not contribute to the discussion of which cards to flip. It is more of a personal acknowledgment or social chat.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 9227,
+    "utterance": "'Yeah , I''m in for that'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses Narw's agreement with the proposed solution, contributing directly to the task.",
+    "reasoning_target": "Narw explicitly agrees with the proposed choice of cards."
+  },
+  {
+    "original_index": 13908,
+    "utterance": "OK",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'OK' is a simple acknowledgment and does not contribute to the task discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 6395,
+    "utterance": "'So if we select \" <CARD> \" and there isn''t a vowel on the other side , what have we learned ?'",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The utterance is asking a question to understand the implications of selecting a specific card and its relation to the presence of a vowel, which falls under probing.",
+    "reasoning_target": "Puff is prompting Hedg and Butt to analyze the implications of their selection, which involves reasoning about the rules and logic of the game."
+  },
+  {
+    "original_index": 4559,
+    "utterance": "easy",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'easy' does not contribute to the task at hand and lacks specific content related to solving the problem or understanding others' thoughts.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 11555,
+    "utterance": "'I''m fine with <CARD> only'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 4,
+    "reasoning_type": "The statement provides a position on the task, contributing to the discussion about which card to choose.",
+    "reasoning_target": "Duck explicitly agrees with the suggestion to focus on '<CARD> only'."
+  },
+  {
+    "original_index": 1899,
+    "utterance": "good point",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'good point' is a form of acknowledgment and does not contribute directly to the task or discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 2820,
+    "utterance": "I think you are right",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'I think you are right' expresses agreement with a previous position, which is useful for the task as it contributes to the group's deliberation.",
+    "reasoning_target": "Llam explicitly agrees with Kiwi's suggestion to flip all cards."
+  },
+  {
+    "original_index": 6680,
+    "utterance": "Yeah , I said <CARD> and <CARD> but now I agree with you",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement discusses specific actions taken ('said <CARD> and <CARD>') and aligns with a proposed solution, contributing directly to the task.",
+    "reasoning_target": "Hams explicitly agrees with Hedg's suggestion."
+  },
+  {
+    "original_index": 4242,
+    "utterance": "yes but if you flip it ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Leop is providing reasoning related to the task by questioning the implications of flipping the card, which is relevant to understanding the rule about vowels and even numbers.",
+    "reasoning_target": "Leop is questioning the necessity of flipping cards based on the rule, which involves reasoning about the rule's implications."
+  },
+  {
+    "original_index": 17194,
+    "utterance": "And <CARD> <CARD> xD",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The statement suggests specific actions for the task, indicating a position on which cards should be checked.",
+    "reasoning_target": "Zebr is explaining the reasoning behind checking certain cards based on the rule provided."
+  },
+  {
+    "original_index": 9069,
+    "utterance": "I chose <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement 'I chose <CARD>' is a direct contribution to the task, indicating a choice made, which is relevant to the collaborative problem-solving process.",
+    "reasoning_target": "Duck is proposing their choice, which can be seen as a solution or answer to a given task."
+  },
+  {
+    "original_index": 9631,
+    "utterance": "'That''s what I''m wondering .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 2,
+    "reasoning_type": "The statement expresses Narw's position on the ongoing discussion about which cards need to be flipped, contributing directly to the task at hand.",
+    "reasoning_target": "Narw is questioning whether additional cards need to be flipped to confirm the rule, indicating a deeper analysis of the logic involved."
+  },
+  {
+    "original_index": 17409,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Hello' is a greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 14793,
+    "utterance": "<CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a specific action related to the task, indicating which card should be flipped.",
+    "reasoning_target": "Llam specified a card to flip, which is proposing a solution based on the given rule."
+  },
+  {
+    "original_index": 11639,
+    "utterance": "Why is that ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The utterance 'Why is that?' is a question aimed at understanding the reasoning behind a previous statement, which fits the probing category.",
+    "reasoning_target": "Gira is asking for the reasoning behind Beav's proposed answer."
+  },
+  {
+    "original_index": 160,
+    "utterance": "So maybe <CARD> <CARD> and <CARD> ?",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Falc is proposing specific cards to turn over, which is directly related to the task of testing the rule.",
+    "reasoning_target": "Falc is proposing specific cards to turn over, which aligns with proposing a solution."
+  },
+  {
+    "original_index": 13186,
+    "utterance": "'I''m going with that .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses Falc's agreement with the proposed solution, contributing directly to the task.",
+    "reasoning_target": "Falc explicitly agrees with Bat's suggestion."
+  },
+  {
+    "original_index": 2705,
+    "utterance": "Hello",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Hello' is a greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 15463,
+    "utterance": "thanks",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'thanks' is a simple acknowledgment and not related to the task at hand.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 12108,
+    "utterance": "locking <CARD> and <CARD> as answer ...",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "Leop is confirming the chosen solution for the task, indicating agreement and finalizing the group's decision.",
+    "reasoning_target": "Leop is managing the group process by suggesting to lock the chosen cards as the answer."
+  },
+  {
+    "original_index": 2662,
+    "utterance": "<CARD> and <CARD> , I meant .",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is clarifying a previous statement rather than contributing to the task directly or asking a probing question.",
+    "reasoning_target": "The statement does not propose a solution, reasoning, manage the group process, explicitly agree or disagree. It seems to be a clarification of a previous action without providing additional value to the task."
+  },
+  {
+    "original_index": 14638,
+    "utterance": "I picked <CARD> and <CARD> because it would fully test both if an even number has a vowel and if a vowel has an even number",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a rationale for the choices made, contributing directly to the task.",
+    "reasoning_target": "The user explains their reasoning behind picking certain cards, specifically addressing the conditions related to even numbers and vowels."
+  },
+  {
+    "original_index": 5701,
+    "utterance": "Yes I guess that is probably right",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'Yes I guess that is probably right' expresses agreement with a proposed solution, which is relevant to the task.",
+    "reasoning_target": "The utterance 'Yes I guess that is probably right' is an explicit agreement with the previous statement."
+  },
+  {
+    "original_index": 12733,
+    "utterance": "Yes iam also going to submit the <CARD> and <CARD> as a final",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 3,
+    "reasoning_type": "The statement is task-related and involves expressing a position on the final decision.",
+    "reasoning_target": "Alpa is confirming their choice and indicating readiness to submit, which aligns with managing the group process towards completion."
+  },
+  {
+    "original_index": 2926,
+    "utterance": "'You can''t know if they all meet the rules unless you look at them all .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning about the necessity of examining all cards to ensure they meet the rules, which is relevant to the task.",
+    "reasoning_target": "Bat is explaining why it's not possible to know if all cards meet the rules without examining each one individually."
+  },
+  {
+    "original_index": 11440,
+    "utterance": "okay . im submitting cheers .",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'okay. im submitting cheers.' is not task-related and serves as a simple acknowledgment of the completion of the task.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8800,
+    "utterance": "you ?",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'you ?' is not task-related and does not contribute to understanding the task or discussing solutions.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 1447,
+    "utterance": "I agrre with <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses agreement with another participant's position, contributing to the task discussion.",
+    "reasoning_target": "Falc explicitly agrees with another participant's idea."
+  },
+  {
+    "original_index": 7284,
+    "utterance": "so it would be <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a solution relevant to verifying the rule, focusing on specific cards.",
+    "reasoning_target": "Llam is proposing a specific set of cards to verify the rule, which aligns with the task of identifying the necessary cards."
+  },
+  {
+    "original_index": 12486,
+    "utterance": "'<CARD> and <CARD> is what I thought at first , but the '' most people get this task wrong '' is throwing me off too .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses specific cards and reflects on the group's strategy, contributing to the task.",
+    "reasoning_target": "Dolp is reconsidering their initial choice due to the information that most people get the task wrong, which involves logical analysis."
+  },
+  {
+    "original_index": 1973,
+    "utterance": "im on board too",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses agreement with the proposed solution, contributing to the task.",
+    "reasoning_target": "Cat explicitly agrees with the idea of turning all cards over."
+  },
+  {
+    "original_index": 17001,
+    "utterance": "So I think <CARD> , <CARD> , and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a specific suggestion for which cards to test, contributing directly to the task.",
+    "reasoning_target": "Alpa is proposing specific cards to test, which aligns with proposing a solution."
+  },
+  {
+    "original_index": 11612,
+    "utterance": "'The rule doesn''t say all even numbers have <CARD> vowel on the back , instead the other way round'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Rave is clarifying the rule, which is essential for solving the task.",
+    "reasoning_target": "Rave clarifies the rule, explaining why certain cards do not need to be flipped based on the logical structure of the rule."
+  },
+  {
+    "original_index": 9739,
+    "utterance": "We should test <CARD> , indeed .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 3,
+    "reasoning_type": "The statement suggests a specific action (testing <CARD>) that is relevant to solving the task.",
+    "reasoning_target": "Emu suggests testing a specific card, which is managing the group process or task flow."
+  },
+  {
+    "original_index": 14049,
+    "utterance": "No need to be so hectic",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The statement 'No need to be so hectic' does not contribute to the task at hand and can be considered a social acknowledgment or calming remark.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 133,
+    "utterance": "yeah deffinately",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The response 'yeah deffinately' is an acknowledgment and agreement without providing new information or probing further, thus it aligns more closely with a confirmation rather than contributing to the task directly.",
+    "reasoning_target": "Kiwi explicitly agrees with Beav's suggestion to turn all the cards."
+  },
+  {
+    "original_index": 1865,
+    "utterance": "As many as it is required to test the rule",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning related to the task, explaining the necessity of selecting multiple cards to test the rule.",
+    "reasoning_target": "Gira explains the reasoning behind choosing multiple cards to test the rule."
+  },
+  {
+    "original_index": 8650,
+    "utterance": "hello",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'hello' is a greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8579,
+    "utterance": "I said <CARD> and <CARD> vowels and evens",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides specific information about the cards selected and includes criteria (vowels and evens), which is relevant to the task.",
+    "reasoning_target": "The user is providing their selection of cards which includes specifying criteria ('vowels and evens'), thus proposing a specific solution."
+  },
+  {
+    "original_index": 11728,
+    "utterance": "It just tells us it * can * have an even number , we needed the odd number to negate that .",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning about why a specific card is not necessary for testing the rule, contributing directly to the task.",
+    "reasoning_target": "Explaining why the odd number is necessary to negate the possibility of the rule being true."
+  },
+  {
+    "original_index": 1654,
+    "utterance": "Greetings everyone ! I am fairly confident the answer is <CARD> and <CARD> but no others",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a specific solution related to the task, indicating confidence in certain answers.",
+    "reasoning_target": "Koal explicitly states their answer, proposing a solution."
+  },
+  {
+    "original_index": 1199,
+    "utterance": "I have <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides specific information about the cards Guin has, which is relevant to solving the task.",
+    "reasoning_target": "Guin is proposing specific cards as part of their contribution."
+  },
+  {
+    "original_index": 2130,
+    "utterance": "Panda or Dolphin , any suggestions ?",
+    "gt_type": 0,
+    "pred_type": -1,
+    "gt_target": 3,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is not related to the task at hand and seems to be introducing an unrelated topic.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 7700,
+    "utterance": "card <CARD> and <CARD> for me",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Puff is providing specific information about their choice of cards, which is directly related to the task.",
+    "reasoning_target": "Puff is proposing a specific set of cards as the answer."
+  },
+  {
+    "original_index": 3834,
+    "utterance": "true but we dont need it because it might adhere to another rule that we dont know about",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Hams is providing a statement that contributes to the task by discussing the necessity of verifying certain conditions.",
+    "reasoning_target": "Hams is explaining why they believe certain cards do not need to be flipped, considering potential unknown rules."
+  },
+  {
+    "original_index": 2759,
+    "utterance": "'Well I''m glad everyone seems to agree , but does anyone what to try to argue for something else ? We''re supposed to do this for at least 5 minutes to satisfy the HIT .'",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The statement is asking if anyone wants to argue for a different solution, which is probing for further discussion or disagreement.",
+    "reasoning_target": "Alpa is managing the group process by checking if anyone wants to continue arguing for a different solution while ensuring they meet the time requirement."
+  },
+  {
+    "original_index": 15540,
+    "utterance": "I did the same <MENTION>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement discusses Emu's approach to the task, aligning with the task requirements and providing reasoning related to the task.",
+    "reasoning_target": "Emu explicitly agrees with Leop's suggestion to keep the selected cards as is."
+  },
+  {
+    "original_index": 8634,
+    "utterance": "to fit the rule *",
+    "gt_type": -1,
+    "pred_type": 1,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses the steps needed to confirm the rule, which is relevant to solving the task.",
+    "reasoning_target": "Alpa is discussing the logic behind choosing which card to flip in order to test their hypothesis about the rule."
+  },
+  {
+    "original_index": 11244,
+    "utterance": "final decision , it seems like we all agree",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The statement is asking for confirmation of agreement among group members, which is a probing question to understand the consensus.",
+    "reasoning_target": "The statement 'final decision, it seems like we all agree' is managing the group process towards making a decision."
+  },
+  {
+    "original_index": 1222,
+    "utterance": "yep youre right",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'yep youre right' is a simple acknowledgment and not task-related.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 7187,
+    "utterance": "What does everyone think ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 3,
+    "reasoning_type": "The utterance 'What does everyone think?' is a question aimed at understanding others' thoughts or opinions, which fits the definition of a probing statement.",
+    "reasoning_target": "The statement 'What does everyone think?' is a request for input from the group, which falls under managing the group process or task flow."
+  },
+  {
+    "original_index": 13341,
+    "utterance": "'i''m picking <CARD> and <CARD> for my answers'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement discusses specific actions related to the task, indicating a position on which cards to select.",
+    "reasoning_target": "Cat is proposing specific cards as the answer to the task."
+  },
+  {
+    "original_index": 655,
+    "utterance": "'But , wouldn''t we get the same result if we turned over the <CARD> and <CARD> ?'",
+    "gt_type": 0,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Tige is suggesting specific cards to turn over, which is directly related to the task and provides a solution.",
+    "reasoning_target": "Tige is questioning whether turning over different cards would yield the same result, which involves analyzing the logic behind selecting specific cards."
+  },
+  {
+    "original_index": 16817,
+    "utterance": "'i''ll go with this'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 1,
+    "reasoning_type": "The statement 'i'll go with this' indicates a decision or position taken for the task.",
+    "reasoning_target": "Duck is proposing a specific choice ('i'll go with this'), which indicates a solution."
+  },
+  {
+    "original_index": 15685,
+    "utterance": "is the <CARD> is turned over , there could be a vowel",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning related to the task, discussing the potential presence of a vowel on a card.",
+    "reasoning_target": "Alpa is providing reasoning about the potential outcome if a card is turned over."
+  },
+  {
+    "original_index": 12842,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "The statement discusses specific cards that do not need to be checked, which is relevant to the task.",
+    "reasoning_target": "Kiwi is proposing which cards to check or not, indicating a specific action or solution."
+  },
+  {
+    "original_index": 5794,
+    "utterance": "'Ok . Unless someone else thinks otherwise , I think I''m ready to submit U4'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 3,
+    "reasoning_type": "The statement discusses readiness to submit an answer, which is task-related and indicates a conclusion towards solving the task.",
+    "reasoning_target": "Rave is suggesting the group is ready to submit their answer unless there are objections, which is managing the group process."
+  },
+  {
+    "original_index": 7608,
+    "utterance": "in theory there could be a consenent behind <CARD> , but to check the statement , <CARD> needs to flip to confirm",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "Chip is providing a statement that discusses the necessity of flipping a specific card to confirm the rule, which is directly related to solving the task.",
+    "reasoning_target": "Chip is explaining why a certain card needs to be flipped to confirm the statement, which involves reasoning about the rule."
+  },
+  {
+    "original_index": 17225,
+    "utterance": "yea , I think the part Most people get this task wrong is just there to try and complicate this :D",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 2,
+    "reasoning_type": "The statement is asking for reflection on the nature of the task and hints at a common pitfall, which is more probing than contributing directly to the solution.",
+    "reasoning_target": "Lobs' statement is probing the complexity and common misconceptions of the task, which involves explaining the nature of the problem and potentially clarifying the logical reasoning behind the task."
+  },
+  {
+    "original_index": 11170,
+    "utterance": "same",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'same' is not task-related and does not provide any new information or ask a question to understand others' thinking.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 5068,
+    "utterance": "<CARD> dont think that is what the rule is saying",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "Leop is providing a statement about the interpretation of the rule, which is relevant to the task.",
+    "reasoning_target": "Leop explicitly disagrees with Bat's interpretation of the rule."
+  },
+  {
+    "original_index": 17043,
+    "utterance": "I have no idea . haha I think I flunked logic .",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance is not task-related; it expresses personal frustration without contributing to the task discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 11909,
+    "utterance": "I agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'I agree' expresses Kiwi's position on Llam's suggestion, contributing directly to the task of reaching a decision.",
+    "reasoning_target": "The utterance 'I agree' explicitly shows agreement with an idea."
+  },
+  {
+    "original_index": 13555,
+    "utterance": "'yes <MENTION> I''m going to go with your solution'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "This statement supports the task by agreeing with Gira's proposed solution.",
+    "reasoning_target": "Koal explicitly agrees with Gira's proposed solution."
+  },
+  {
+    "original_index": 13950,
+    "utterance": "'But it doesn''t show if the others are contradictory'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement discusses the necessity of checking for contradictions among the cards, which is relevant to solving the task.",
+    "reasoning_target": "Dolp is pointing out the limitation of testing only certain cards, indicating a concern about whether other cards might contradict the rule."
+  },
+  {
+    "original_index": 13817,
+    "utterance": "what rule are you testing ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 3,
+    "pred_target": 2,
+    "reasoning_type": "The user is asking a question to understand the context or rules being followed, which is characteristic of probing.",
+    "reasoning_target": "Narw is asking about the rule being tested, which indicates an attempt to understand the reasoning behind the current task."
+  },
+  {
+    "original_index": 8075,
+    "utterance": "oh . Ok . That makes sense",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 4,
+    "pred_target": 0,
+    "reasoning_type": "The response 'oh. Ok. That makes sense' is an acknowledgment and does not contribute to the task or discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 8333,
+    "utterance": "i agree i selected <CARD> <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 4,
+    "reasoning_type": "The statement provides specific information about the cards selected, contributing directly to the task discussion.",
+    "reasoning_target": "Guin explicitly agrees with Lion's approach to selecting cards."
+  },
+  {
+    "original_index": 1141,
+    "utterance": "Since the task states that each card has a number on one side and a letter on the other we can assume that to be true ( as part of the rules )",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides reasoning relevant to the task, clarifying assumptions based on given rules.",
+    "reasoning_target": "Explaining why the assumption about cards having a number on one side and a letter on the other is valid based on the given task rules."
+  },
+  {
+    "original_index": 11965,
+    "utterance": "i agree",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'i agree' expresses Butt's position on the proposed solution, contributing directly to the task.",
+    "reasoning_target": "Butt explicitly agrees with the proposed answer."
+  },
+  {
+    "original_index": 11833,
+    "utterance": "I said <CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 1,
+    "reasoning_type": "Leop is restating their proposed solutions, which is directly contributing to the task discussion.",
+    "reasoning_target": "Leop is proposing a solution by restating his card choices."
+  },
+  {
+    "original_index": 1674,
+    "utterance": "My vote is to leave it alone",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 1,
+    "reasoning_type": "Leop is providing a position regarding whether a specific card should be flipped or left alone, which is directly related to the task.",
+    "reasoning_target": "Leop is proposing a specific action regarding whether to flip or leave a card, which is a solution to the ongoing discussion."
+  },
+  {
+    "original_index": 2941,
+    "utterance": "'okay I agree now . I guess I wasn''t clear on the rule .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "The statement expresses agreement and clarifies a misunderstanding about the rule, contributing to the task.",
+    "reasoning_target": "Bat explicitly agrees with the understanding of the rule after clarification."
+  },
+  {
+    "original_index": 10722,
+    "utterance": "Exactly what <MENTION> said",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 4,
+    "reasoning_type": "The statement 'Exactly what <MENTION> said' is a reiteration of another participant's position, which is useful for the task as it expresses agreement and consolidates the group's deliberation.",
+    "reasoning_target": "Butt explicitly agrees with Leop's statement."
+  },
+  {
+    "original_index": 5439,
+    "utterance": "'I would say it''s just <CARD> then .'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides a clear position on which cards should be tested, contributing directly to the task.",
+    "reasoning_target": "Lobs is proposing a specific card to test, which can be seen as offering a solution."
+  },
+  {
+    "original_index": 2139,
+    "utterance": "Yes !",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 1,
+    "reasoning_type": "The statement 'Yes!' can be seen as agreeing with a previously discussed solution or position, which is task-related.",
+    "reasoning_target": "The utterance 'Yes!' can be seen as confirming a proposed solution or plan, which aligns more closely with proposing a solution rather than managing the discussion or explicitly agreeing."
+  },
+  {
+    "original_index": 8051,
+    "utterance": "'no , it doesn''t'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "Hams is providing a statement that directly contributes to the task by disagreeing with Bee's point about disproving the rule with the eight card.",
+    "reasoning_target": "Hams explicitly disagrees with the suggestion to flip all cards."
+  },
+  {
+    "original_index": 14808,
+    "utterance": "'We only need to know if the <CARD> ( vowel ) has an even number , and if the <CARD> ( even number ) has a vowel on their flip sides , the other two don''t matter for this questioncard'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides specific criteria for solving the task, focusing on what matters for determining the correct answer.",
+    "reasoning_target": "Explaining the criteria for determining the correct card based on the presence of vowels and even numbers."
+  },
+  {
+    "original_index": 7170,
+    "utterance": "lol",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'lol' is not task-related and does not contribute to the discussion.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 9859,
+    "utterance": "Hey",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The response 'Hey' is a casual greeting and not related to any task or problem-solving activity.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 2410,
+    "utterance": "Correct . So that means the <CARD> has a vowel on the other side . There are 2 cards that have an even number on one side and a vowel on the other . ee h d he",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 2,
+    "pred_target": 1,
+    "reasoning_type": "The statement provides reasoning related to the task and clarifies the implications of the rule discussed.",
+    "reasoning_target": "Hedg is confirming and specifying the solution that the card in question must have a vowel on the other side based on the given rule."
+  },
+  {
+    "original_index": 3396,
+    "utterance": "so do we select <CARD> and hit \" submit game \"",
+    "gt_type": -1,
+    "pred_type": 0,
+    "gt_target": 0,
+    "pred_target": 3,
+    "reasoning_type": "The utterance is asking for confirmation on the final decision, which is a probing question to ensure agreement before proceeding.",
+    "reasoning_target": "Zebr is managing the group process by confirming the final decision and suggesting the next step."
+  },
+  {
+    "original_index": 2411,
+    "utterance": "'Sorry about the typo''s . I am having trouble with my keyboard h g'",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The current utterance is an apology for typos and mentions technical difficulties, which does not contribute to the task at hand.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 14048,
+    "utterance": "Haha",
+    "gt_type": -1,
+    "pred_type": -1,
+    "gt_target": 0,
+    "pred_target": 0,
+    "reasoning_type": "The utterance 'Haha' is not task-related and does not contribute to the discussion or problem-solving process.",
+    "reasoning_target": ""
+  },
+  {
+    "original_index": 10972,
+    "utterance": "'I''ll go with that !'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 4,
+    "reasoning_type": "This statement expresses Chip's agreement with the proposed solution and indicates readiness to proceed, contributing directly to the task.",
+    "reasoning_target": "Chip explicitly agrees with the proposed solution."
+  },
+  {
+    "original_index": 3340,
+    "utterance": "yep , <CARD> or <CARD> could have no conclusion",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 4,
+    "pred_target": 3,
+    "reasoning_type": "The statement discusses specific cards and their potential outcomes, contributing directly to the task at hand.",
+    "reasoning_target": "Beav is managing the group process by clarifying the uncertainty about certain cards and their potential outcomes."
+  },
+  {
+    "original_index": 11453,
+    "utterance": "I think we need to turn <CARD> to test the theory",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 1,
+    "pred_target": 2,
+    "reasoning_type": "The statement provides a specific action (turning a card) to test a theory, which is relevant to solving the task.",
+    "reasoning_target": "Explaining why a specific action (turning the card) is needed to test a theory."
+  },
+  {
+    "original_index": 1701,
+    "utterance": "No .",
+    "gt_type": 1,
+    "pred_type": 0,
+    "gt_target": 5,
+    "pred_target": 3,
+    "reasoning_type": "The statement is asking for agreement among participants, which is a probing question to understand the group's consensus.",
+    "reasoning_target": "Leop is managing the group process by asking if unanimous agreement is required."
+  },
+  {
+    "original_index": 6437,
+    "utterance": "'No , the <CARD> doesn''t fit the rules'",
+    "gt_type": 1,
+    "pred_type": 1,
+    "gt_target": 5,
+    "pred_target": 5,
+    "reasoning_type": "The statement provides a position regarding the rules and how they apply to certain cards, contributing directly to the task.",
+    "reasoning_target": "Leop explicitly disagrees with the previous suggestion about the <CARD> fitting the rules."
+  },
+  {
+    "original_index": 6655,
+    "utterance": "Why <CARD> and <CARD> ?",
+    "gt_type": 0,
+    "pred_type": 0,
+    "gt_target": 2,
+    "pred_target": 2,
+    "reasoning_type": "The utterance is asking for clarification on choices made, which falls under probing to understand others' thinking.",
+    "reasoning_target": "Bat is asking for the reasoning behind Cat's choices."
+  },
+  {
+    "original_index": 5173,
+    "utterance": "<CARD> and <CARD>",
+    "gt_type": 1,
+    "pred_type": -1,
+    "gt_target": 1,
+    "pred_target": 0,
+    "reasoning_type": "The utterance does not provide any specific information or question that contributes to the task. It seems incomplete or not task-related.",
+    "reasoning_target": ""
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "model": "qwen-7b",
+  "timestamp": "2026-01-29T19:32:43.125015",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa": 0.048975744900051486,
+      "kappas_per_facet": {
+        "CSK": 0.12369496141625058,
+        "NC": -0.024011821204285244,
+        "MTF": 0.047244094488189115
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa": 0.0487778533008815,
+      "kappas_per_facet": {
+        "CSK": 0.16825361263582395,
+        "NC": -0.03684542586750794,
+        "MTF": 0.014925373134328512
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h3_coton": {
+      "history_window": 3,
+      "use_cot": true,
+      "kappa": 0.09520894858429345,
+      "kappas_per_facet": {
+        "CSK": 0.11782178217821782,
+        "NC": -0.004761308106753459,
+        "MTF": 0.17256637168141598
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h3_cotoff": {
+      "history_window": 3,
+      "use_cot": false,
+      "kappa": 0.089490240096834,
+      "kappas_per_facet": {
+        "CSK": 0.14141414141414144,
+        "NC": -0.019062142584826525,
+        "MTF": 0.1461187214611871
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h5_coton": {
+      "history_window": 5,
+      "use_cot": true,
+      "kappa": 0.04302455933312973,
+      "kappas_per_facet": {
+        "CSK": 0.08342266835591061,
+        "NC": -0.029570229294574535,
+        "MTF": 0.0752212389380531
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h5_cotoff": {
+      "history_window": 5,
+      "use_cot": false,
+      "kappa": 0.03456021578123036,
+      "kappas_per_facet": {
+        "CSK": 0.09409190371991238,
+        "NC": -0.02636631255599653,
+        "MTF": 0.035955056179775235
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h10_coton": {
+      "history_window": 10,
+      "use_cot": true,
+      "kappa": 0.06695678220333075,
+      "kappas_per_facet": {
+        "CSK": 0.07790008467400522,
+        "NC": -0.011861198738170264,
+        "MTF": 0.1348314606741573
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h10_cotoff": {
+      "history_window": 10,
+      "use_cot": false,
+      "kappa": 0.05173170536273464,
+      "kappas_per_facet": {
+        "CSK": 0.05331787887568806,
+        "NC": 0.03583950136345926,
+        "MTF": 0.06603773584905659
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h-1_coton": {
+      "history_window": -1,
+      "use_cot": true,
+      "kappa": 0.04737256239815849,
+      "kappas_per_facet": {
+        "CSK": 0.03594192634560911,
+        "NC": 0.12568795597081783,
+        "MTF": -0.01951219512195146
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h-1_cotoff": {
+      "history_window": -1,
+      "use_cot": false,
+      "kappa": 0.038736452466282066,
+      "kappas_per_facet": {
+        "CSK": 0.03594192634560911,
+        "NC": 0.09019298936589204,
+        "MTF": -0.009925558312654958
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    }
+  }
+}

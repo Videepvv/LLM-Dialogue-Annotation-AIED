@@ -1,0 +1,3368 @@
+[
+  {
+    "idx": 0,
+    "utterance": "I would say that's equal probably",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about equality in the task situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about equality in the task situation.\"}",
+    "match": false
+  },
+  {
+    "idx": 1,
+    "utterance": "If we decide to continue on the pattern",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Proposes a continuation of the current task pattern, indicating shared understanding about the situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Proposes a continuation of the current task pattern, indicating shared understanding about the situation.\"}",
+    "match": false
+  },
+  {
+    "idx": 2,
+    "utterance": "Oh gotcha",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to the task or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to the task or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 3,
+    "utterance": "There's no way that's eighty it feels way heavier but the pattern sticks",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding about the weight and its perceived heaviness while also coordinating with the ongoing pattern discussion.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding about the weight and its perceived heaviness while also coordinating with the ongoing pattern discussion.\"}",
+    "match": false
+  },
+  {
+    "idx": 4,
+    "utterance": "Probably not supposed to know ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance does not contribute to task understanding, coordination, or team dynamics; it appears to be a neutral statement.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance does not contribute to task understanding, coordination, or team dynamics; it appears to be a neutral statement.\"}",
+    "match": false
+  },
+  {
+    "idx": 5,
+    "utterance": "I was thinking one forty first as well but um",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares task understanding by suggesting a specific weight (one forty) in the context of their ongoing discussion.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares task understanding by suggesting a specific weight (one forty) in the context of their ongoing discussion.\"}",
+    "match": false
+  },
+  {
+    "idx": 6,
+    "utterance": "Fifty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 2 is providing a specific number, which suggests engagement with the ongoing discussion about weights, but does not clearly establish shared knowledge or maintain team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 2 is providing a specific number, which suggests engagement with the ongoing discussion about weights, but does not clearly establish shared knowledge or maintain team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 7,
+    "utterance": "Sixty and these two",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is contributing to the ongoing discussion about weights, indicating a negotiation or coordination with the previous statements.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is contributing to the ongoing discussion about weights, indicating a negotiation or coordination with the previous statements.\"}",
+    "match": true
+  },
+  {
+    "idx": 8,
+    "utterance": "Yes yes",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is an affirmation, likely supporting a previous statement or idea, which contributes to team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is an affirmation, likely supporting a previous statement or idea, which contributes to team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 9,
+    "utterance": "Because yeah green is twenty thirty and fifty right so",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by providing information about the values associated with the colors.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by providing information about the values associated with the colors.\"}",
+    "match": false
+  },
+  {
+    "idx": 10,
+    "utterance": "Yes  ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yes' is neutral and does not provide any information related to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yes' is neutral and does not provide any information related to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 11,
+    "utterance": "Oh yeah it does",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Acknowledges understanding of the ongoing task or discussion.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Acknowledges understanding of the ongoing task or discussion.\"}",
+    "match": false
+  },
+  {
+    "idx": 12,
+    "utterance": "So where is oh yellow is",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves questioning or coordinating about the task, specifically seeking clarification about the color yellow.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves questioning or coordinating about the task, specifically seeking clarification about the color yellow.\"}",
+    "match": true
+  },
+  {
+    "idx": 13,
+    "utterance": "The second mystery block could be lighter",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Suggests a possible characteristic of the mystery block, contributing to shared understanding of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Suggests a possible characteristic of the mystery block, contributing to shared understanding of the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 14,
+    "utterance": "It doesn'\u00adt feel correct",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance expresses uncertainty about the correctness of something discussed, which can prompt further questioning or reasoning from others.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance expresses uncertainty about the correctness of something discussed, which can prompt further questioning or reasoning from others.\"}",
+    "match": true
+  },
+  {
+    "idx": 15,
+    "utterance": "Maybe ninety to ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 proposes a specific number (ninety) that contributes to the shared task understanding.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 proposes a specific number (ninety) that contributes to the shared task understanding.\"}",
+    "match": false
+  },
+  {
+    "idx": 16,
+    "utterance": "True very true",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is a supportive comment, acknowledging a previous statement, which indicates maintaining team function.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is a supportive comment, acknowledging a previous statement, which indicates maintaining team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 17,
+    "utterance": "Yeah uh maybe not Difficult it is um",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is vague and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is vague and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 18,
+    "utterance": "It didn't seem like it took it much to get it to tip but also it's hard to like",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves questioning the process of getting something to tip, which indicates coordination and reasoning about the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves questioning the process of getting something to tip, which indicates coordination and reasoning about the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 19,
+    "utterance": "We have eighty we can make ninety we can make",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task (discussing numbers) and engages in negotiation about possible values.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task (discussing numbers) and engages in negotiation about possible values.\"}",
+    "match": false
+  },
+  {
+    "idx": 20,
+    "utterance": "These are the same this is a difference of ten is this a difference of fifty no it is these and this",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance indicates a shared understanding of the differences being discussed, which relates to the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance indicates a shared understanding of the differences being discussed, which relates to the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 21,
+    "utterance": "Yeah I guess so",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance indicates agreement or acknowledgment but does not contribute to shared knowledge or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance indicates agreement or acknowledgment but does not contribute to shared knowledge or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 22,
+    "utterance": "Yeah ok so now we know that this is also ten",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by confirming the measurement as ten.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by confirming the measurement as ten.\"}",
+    "match": false
+  },
+  {
+    "idx": 23,
+    "utterance": "Twenty Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Twenty Yeah' does not contribute to shared knowledge, negotiation, or team dynamics; it appears to be a neutral response.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Twenty Yeah' does not contribute to shared knowledge, negotiation, or team dynamics; it appears to be a neutral response.\"}",
+    "match": false
+  },
+  {
+    "idx": 24,
+    "utterance": "Is it",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance is a question that seeks clarification or confirmation, indicating engagement in the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance is a question that seeks clarification or confirmation, indicating engagement in the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 25,
+    "utterance": "Well on the first go through I noticed how it bounced twice and actually get some momentum ok so then",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares an observation about the task situation, noting how the object reacted (bounced) during the process.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares an observation about the task situation, noting how the object reacted (bounced) during the process.\"}",
+    "match": false
+  },
+  {
+    "idx": 26,
+    "utterance": "Ok cool no for sure",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is supportive in tone, indicating agreement or acknowledgment, which aligns with maintaining team function.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is supportive in tone, indicating agreement or acknowledgment, which aligns with maintaining team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 27,
+    "utterance": "This is eight RB I think that that is eighty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by stating a measurement related to the ongoing task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by stating a measurement related to the ongoing task.\"}",
+    "match": false
+  },
+  {
+    "idx": 28,
+    "utterance": "So this one yeah sounds good ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance expresses agreement and support for a previous statement, contributing to team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance expresses agreement and support for a previous statement, contributing to team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 29,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah' is neutral and does not contribute to constructing shared knowledge, negotiating, or maintaining team function.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah' is neutral and does not contribute to constructing shared knowledge, negotiating, or maintaining team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 30,
+    "utterance": "Okay yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is a casual affirmation or agreement, which supports team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is a casual affirmation or agreement, which supports team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 31,
+    "utterance": "TRUE",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'TRUE' does not provide any constructive knowledge, negotiation, or team maintenance, making it neutral.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'TRUE' does not provide any constructive knowledge, negotiation, or team maintenance, making it neutral.\"}",
+    "match": false
+  },
+  {
+    "idx": 32,
+    "utterance": "Oh no they don't have any hints here",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "Participant 3 expresses a concern about the lack of hints, which can be seen as maintaining team dynamics by sharing frustration or a minor complaint.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"Participant 3 expresses a concern about the lack of hints, which can be seen as maintaining team dynamics by sharing frustration or a minor complaint.\"}",
+    "match": false
+  },
+  {
+    "idx": 33,
+    "utterance": "This is heavier than this one so this is twenty this is heavier than this one",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the weight comparison in the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the weight comparison in the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 34,
+    "utterance": "Oh yeah much much more",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 35,
+    "utterance": "So even when they're equal it leans",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by indicating how the balance behaves even when weights are equal.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by indicating how the balance behaves even when weights are equal.\"}",
+    "match": false
+  },
+  {
+    "idx": 36,
+    "utterance": "Yeah I mean that makes sense it would move here",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of task situation by indicating that a certain movement makes sense.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of task situation by indicating that a certain movement makes sense.\"}",
+    "match": false
+  },
+  {
+    "idx": 37,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah' is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah' is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 38,
+    "utterance": "Yeah it should be same I guess",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by suggesting that the weights should be the same.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by suggesting that the weights should be the same.\"}",
+    "match": false
+  },
+  {
+    "idx": 39,
+    "utterance": "That would make sense to me",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance indicates understanding and agreement with the previous statements, contributing to shared knowledge about the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance indicates understanding and agreement with the previous statements, contributing to shared knowledge about the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 40,
+    "utterance": "The green is twenty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the weight of the green object in relation to the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the weight of the green object in relation to the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 41,
+    "utterance": "Cheating I think I don't know probably",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance seems to express a personal opinion about cheating, which is off-topic but still maintains team dynamics through casual commentary.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance seems to express a personal opinion about cheating, which is off-topic but still maintains team dynamics through casual commentary.\"}",
+    "match": false
+  },
+  {
+    "idx": 42,
+    "utterance": "Yeah the highest we can make is a one fifty we can make a one fifty even",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by proposing a maximum weight they can achieve.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by proposing a maximum weight they can achieve.\"}",
+    "match": false
+  },
+  {
+    "idx": 43,
+    "utterance": "Assuming that this was",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is incomplete and does not provide clear context or contribute to the task at hand.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is incomplete and does not provide clear context or contribute to the task at hand.\"}",
+    "match": false
+  },
+  {
+    "idx": 44,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah' is neutral and does not contribute to shared knowledge, negotiation, or team maintenance.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah' is neutral and does not contribute to shared knowledge, negotiation, or team maintenance.\"}",
+    "match": false
+  },
+  {
+    "idx": 45,
+    "utterance": "Yeah that 's good",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is a compliment or positive acknowledgment, which supports team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is a compliment or positive acknowledgment, which supports team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 46,
+    "utterance": "Probably thirty at this point",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves reasoning about the current situation, indicating a possible value but does not share task understanding or support team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves reasoning about the current situation, indicating a possible value but does not share task understanding or support team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 47,
+    "utterance": "So seventy yeah we could try eighty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "reasoning": "Participant 2 is suggesting a specific value (eighty) based on previous calculations, indicating shared understanding of the task. Additionally, the use of 'we could try' implies a supportive team dynamic.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 1], \"reasoning\": \"Participant 2 is suggesting a specific value (eighty) based on previous calculations, indicating shared understanding of the task. Additionally, the use of 'we could try' implies a supportive team dynamic.\"}",
+    "match": false
+  },
+  {
+    "idx": 48,
+    "utterance": "Kay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Kay' is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Kay' is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 49,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 50,
+    "utterance": "Over",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Over' does not contribute to shared knowledge, negotiation, or team maintenance; it is neutral and lacks context.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Over' does not contribute to shared knowledge, negotiation, or team maintenance; it is neutral and lacks context.\"}",
+    "match": true
+  },
+  {
+    "idx": 51,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Okay' is neutral and does not provide any constructive input, negotiation, or maintenance of team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Okay' is neutral and does not provide any constructive input, negotiation, or maintenance of team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 52,
+    "utterance": "All of the weights are in intervals of ten so you don't need to use the slider at all",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the weights being in intervals of ten, which is relevant to the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the weights being in intervals of ten, which is relevant to the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 53,
+    "utterance": "And",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'And' is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'And' is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 54,
+    "utterance": "Yeah I mean this could be",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is incomplete and does not provide specific information relevant to the task, nor does it engage in coordination or maintain team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is incomplete and does not provide specific information relevant to the task, nor does it engage in coordination or maintain team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 55,
+    "utterance": "Ok for the final part of the task read the scenario and estimate the weight of the missing second mystery",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance indicates a step in the task and directs the team to estimate a weight, showing understanding of the task situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance indicates a step in the task and directs the team to estimate a weight, showing understanding of the task situation.\"}",
+    "match": false
+  },
+  {
+    "idx": 56,
+    "utterance": "And you can now start the survey",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "Participant 4's utterance is a directive to start the survey, which supports team function by moving the task forward.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"Participant 4's utterance is a directive to start the survey, which supports team function by moving the task forward.\"}",
+    "match": false
+  },
+  {
+    "idx": 57,
+    "utterance": "Gonna callibrate my cameras",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 58,
+    "utterance": "So I suppose like",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is incomplete and does not provide any clear information about task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is incomplete and does not provide any clear information about task understanding, coordination, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 59,
+    "utterance": "In the first part you are going to work together to determine the weight of these five cubes",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares task understanding by explaining the collaborative task of determining the weight of the cubes.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares task understanding by explaining the collaborative task of determining the weight of the cubes.\"}",
+    "match": false
+  },
+  {
+    "idx": 60,
+    "utterance": "Big blue",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Big blue' does not provide any information relevant to the task or team dynamics, making it neutral/off-topic.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Big blue' does not provide any information relevant to the task or team dynamics, making it neutral/off-topic.\"}",
+    "match": true
+  },
+  {
+    "idx": 61,
+    "utterance": "So the task you are completing today is called the weights task in the first part you are going to work together to determine the weights of the cube",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task and clarifies the objective of the weights task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task and clarifies the objective of the weights task.\"}",
+    "match": false
+  },
+  {
+    "idx": 62,
+    "utterance": "For the final part of this task read the scenario and estimate the weight of the second mystery block",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by instructing participants to read the scenario and estimate the weight of the second mystery block.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by instructing participants to read the scenario and estimate the weight of the second mystery block.\"}",
+    "match": false
+  },
+  {
+    "idx": 63,
+    "utterance": "Yeah Okay so Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to the task, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to the task, coordination, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 64,
+    "utterance": "Roughly the same",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Roughly the same' is vague and does not provide any clear contribution to the task, making it neutral/off-topic.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Roughly the same' is vague and does not provide any clear contribution to the task, making it neutral/off-topic.\"}",
+    "match": true
+  },
+  {
+    "idx": 65,
+    "utterance": "I don't know I mean",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 1 expresses uncertainty, which invites further discussion or reasoning about the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 1 expresses uncertainty, which invites further discussion or reasoning about the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 66,
+    "utterance": "Oh let's try it out",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests trying something out, indicating an action or coordination within the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance suggests trying something out, indicating an action or coordination within the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 67,
+    "utterance": "I'm sorry I feel like this didn't catch up",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 4 is expressing a concern about the situation, which indicates a need for clarification or coordination in the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 4 is expressing a concern about the situation, which indicates a need for clarification or coordination in the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 68,
+    "utterance": "So I would guess the yellow one is gonna be",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance involves making a guess about the weight of a specific cube, which contributes to the task understanding.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance involves making a guess about the weight of a specific cube, which contributes to the task understanding.\"}",
+    "match": false
+  },
+  {
+    "idx": 69,
+    "utterance": "Ok I vote here's my vote alright",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is making a vote, which indicates coordination in the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is making a vote, which indicates coordination in the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 70,
+    "utterance": "The task that you are doing today is called the weights task",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares task understanding by explaining the task they are doing today.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares task understanding by explaining the task they are doing today.\"}",
+    "match": false
+  },
+  {
+    "idx": 71,
+    "utterance": "Makes sense if",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Makes sense if' is incomplete and does not provide clear information or engagement regarding the task, making it neutral/off-topic.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Makes sense if' is incomplete and does not provide clear information or engagement regarding the task, making it neutral/off-topic.\"}",
+    "match": true
+  },
+  {
+    "idx": 72,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Okay' is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Okay' is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 73,
+    "utterance": "Read the scenario that will come up for the next part of the survey and estimate the weight of the next block and you will again have two attempts to estimate and explain your answer",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares task understanding by explaining the next step in the survey.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares task understanding by explaining the next step in the survey.\"}",
+    "match": false
+  },
+  {
+    "idx": 74,
+    "utterance": "Ok a hundred ok ",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is a simple statement of an estimate without sharing understanding about the task, coordinating with others, or maintaining team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is a simple statement of an estimate without sharing understanding about the task, coordinating with others, or maintaining team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 75,
+    "utterance": "Wait wait wait a second",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance indicates a pause for clarification or to address something in the conversation, suggesting a need for coordination.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance indicates a pause for clarification or to address something in the conversation, suggesting a need for coordination.\"}",
+    "match": false
+  },
+  {
+    "idx": 76,
+    "utterance": "To clarify you don't need to use the slider at all they will all be in intervals of ten grams",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Clarifies the task instructions regarding the use of the slider and weight intervals, contributing to shared understanding.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Clarifies the task instructions regarding the use of the slider and weight intervals, contributing to shared understanding.\"}",
+    "match": false
+  },
+  {
+    "idx": 77,
+    "utterance": "Yeah thirty",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves Participant 2 providing an estimate, which is a response to the ongoing task discussion, indicating engagement with the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves Participant 2 providing an estimate, which is a response to the ongoing task discussion, indicating engagement with the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 78,
+    "utterance": "Ok",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Ok' is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Ok' is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 79,
+    "utterance": "It should be something like",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is incomplete and does not provide clear information or interaction relevant to the task.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is incomplete and does not provide clear information or interaction relevant to the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 80,
+    "utterance": "So that's the twenty and the thirty",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 is clarifying the weights being discussed, indicating an understanding of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 is clarifying the weights being discussed, indicating an understanding of the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 81,
+    "utterance": "Ok now you will determine the weight of this mystery block without using the scale you will have two attempts to get the right answer and you can now begin",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares task understanding by explaining the next steps for determining the weight of the mystery block.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares task understanding by explaining the next steps for determining the weight of the mystery block.\"}",
+    "match": false
+  },
+  {
+    "idx": 82,
+    "utterance": "Um",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Um' is neutral and does not provide any shared knowledge, negotiation, or team maintenance.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Um' is neutral and does not provide any shared knowledge, negotiation, or team maintenance.\"}",
+    "match": true
+  },
+  {
+    "idx": 83,
+    "utterance": "And you will also enter the weight into this survey here",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Provides clarification about the task and next steps.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Provides clarification about the task and next steps.\"}",
+    "match": false
+  },
+  {
+    "idx": 84,
+    "utterance": "What happened",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance asks for clarification about the situation, indicating a need for coordination but does not contribute to shared knowledge or maintain team function.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance asks for clarification about the situation, indicating a need for coordination but does not contribute to shared knowledge or maintain team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 85,
+    "utterance": "And then like this",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is vague and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is vague and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 86,
+    "utterance": "Minus one forty nine",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Minus one forty nine' does not provide any shared knowledge, negotiation, or team maintenance; it appears to be a response that lacks context.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Minus one forty nine' does not provide any shared knowledge, negotiation, or team maintenance; it appears to be a response that lacks context.\"}",
+    "match": true
+  },
+  {
+    "idx": 87,
+    "utterance": "Let's see",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Let's see' does not provide any constructive knowledge about the task, does not negotiate or coordinate with others, and does not contribute to team dynamics; it is neutral.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Let's see' does not provide any constructive knowledge about the task, does not negotiate or coordinate with others, and does not contribute to team dynamics; it is neutral.\"}",
+    "match": true
+  },
+  {
+    "idx": 88,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 89,
+    "utterance": "Dude what",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 90,
+    "utterance": "These two",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'These two' is vague and does not provide any clear indication of task understanding, coordination, or team maintenance.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'These two' is vague and does not provide any clear indication of task understanding, coordination, or team maintenance.\"}",
+    "match": true
+  },
+  {
+    "idx": 91,
+    "utterance": "So you have to place sorry please place the scales place the cubes on this worksheet where you prove that they weigh again yes",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "The utterance shares understanding of the task by instructing how to prove the weight and coordinates the next steps for the team.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"The utterance shares understanding of the task by instructing how to prove the weight and coordinates the next steps for the team.\"}",
+    "match": false
+  },
+  {
+    "idx": 92,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah' is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah' is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 93,
+    "utterance": "No pressure",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is a casual comment that adds a lighthearted tone to the conversation, supporting team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is a casual comment that adds a lighthearted tone to the conversation, supporting team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 94,
+    "utterance": "Ok yeah  ",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": true
+  },
+  {
+    "idx": 95,
+    "utterance": "Yeah cause",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah cause' does not provide any clear task-related information, reasoning, or support for team dynamics, making it neutral.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah cause' does not provide any clear task-related information, reasoning, or support for team dynamics, making it neutral.\"}",
+    "match": true
+  },
+  {
+    "idx": 96,
+    "utterance": "So that was the first mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance does not provide any shared knowledge, negotiation, or team maintenance; it is a neutral statement.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance does not provide any shared knowledge, negotiation, or team maintenance; it is a neutral statement.\"}",
+    "match": false
+  },
+  {
+    "idx": 97,
+    "utterance": "Alright ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Alright' is neutral and does not contribute to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Alright' is neutral and does not contribute to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 98,
+    "utterance": "Maybe ninety or a hundred",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves estimating a weight, which suggests reasoning and possibly responding to the task at hand, but does not share understanding or maintain team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves estimating a weight, which suggests reasoning and possibly responding to the task at hand, but does not share understanding or maintain team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 99,
+    "utterance": "It's not quite correct think about the relationship between weights of the prior blocks and use a pattern to determine the weight of the mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by suggesting a method to determine the weight and coordinates the reasoning process by prompting others to think about relationships and patterns.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task by suggesting a method to determine the weight and coordinates the reasoning process by prompting others to think about relationships and patterns.\"}",
+    "match": false
+  },
+  {
+    "idx": 100,
+    "utterance": "And red right yellow green",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance does not contribute to task understanding, negotiation, or team dynamics; it appears to be a list of colors without further context.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance does not contribute to task understanding, negotiation, or team dynamics; it appears to be a list of colors without further context.\"}",
+    "match": false
+  },
+  {
+    "idx": 101,
+    "utterance": "Fifty thirty eighty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance presents a numerical guess related to the task, which indicates coordination in the context of determining the weight of the mystery block.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance presents a numerical guess related to the task, which indicates coordination in the context of determining the weight of the mystery block.\"}",
+    "match": false
+  },
+  {
+    "idx": 102,
+    "utterance": "So this was thirty right Thirty this was twenty and these are tens",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the weights in the task context.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the weights in the task context.\"}",
+    "match": true
+  },
+  {
+    "idx": 103,
+    "utterance": "Or let's all like do what he's doing",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests a coordination effort to align with what another participant is doing, indicating a negotiating aspect.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance suggests a coordination effort to align with what another participant is doing, indicating a negotiating aspect.\"}",
+    "match": false
+  },
+  {
+    "idx": 104,
+    "utterance": "Is it though ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance questions the validity of a previous statement, indicating a negotiation or coordination of understanding.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance questions the validity of a previous statement, indicating a negotiation or coordination of understanding.\"}",
+    "match": false
+  },
+  {
+    "idx": 105,
+    "utterance": "This is a sensitive scale",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 106,
+    "utterance": "Green is twenty I mean we're we're right right I mean we're exactly right",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The speaker shares understanding about the task by confirming the weight of the green block.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The speaker shares understanding about the task by confirming the weight of the green block.\"}",
+    "match": true
+  },
+  {
+    "idx": 107,
+    "utterance": "Right my math is right right because thirty plus fifty is then eighty yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the math involved in determining the weights, confirming the correctness of the previous calculations.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the math involved in determining the weights, confirming the correctness of the previous calculations.\"}",
+    "match": true
+  },
+  {
+    "idx": 108,
+    "utterance": "So it must be a set so we should be able to make every possible weight here with these blocks they have one fifty two",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by proposing that the blocks can create every possible weight.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by proposing that the blocks can create every possible weight.\"}",
+    "match": true
+  },
+  {
+    "idx": 109,
+    "utterance": "Like ok that would be this and this right like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 3 is indicating understanding of the task by suggesting a relationship between weights and blocks.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 3 is indicating understanding of the task by suggesting a relationship between weights and blocks.\"}",
+    "match": true
+  },
+  {
+    "idx": 110,
+    "utterance": "Green is twenty ok green is twenty thirty yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance shares understanding about the task by confirming the value of 'green' as twenty and relating it to the ongoing calculations.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance shares understanding about the task by confirming the value of 'green' as twenty and relating it to the ongoing calculations.\"}",
+    "match": true
+  },
+  {
+    "idx": 111,
+    "utterance": "I feel like there's gotta be a clever way like an answer I don't know what it is",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The speaker is expressing a desire to find a clever solution to the task, which shows engagement with the task situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The speaker is expressing a desire to find a clever solution to the task, which shows engagement with the task situation.\"}",
+    "match": true
+  },
+  {
+    "idx": 112,
+    "utterance": "Which one is heavier",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance asks a question related to the task, seeking clarification on which object is heavier, indicating a negotiation and coordination aspect.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance asks a question related to the task, seeking clarification on which object is heavier, indicating a negotiation and coordination aspect.\"}",
+    "match": false
+  },
+  {
+    "idx": 113,
+    "utterance": "Ok so it might have to do with the numbers and stuff but",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "The speaker is reflecting on the task situation by mentioning 'it might have to do with the numbers,' which indicates a shared understanding of the task. This also involves negotiation as they are questioning and reasoning about the numbers involved.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"The speaker is reflecting on the task situation by mentioning 'it might have to do with the numbers,' which indicates a shared understanding of the task. This also involves negotiation as they are questioning and reasoning about the numbers involved.\"}",
+    "match": false
+  },
+  {
+    "idx": 114,
+    "utterance": "Um I'm going to see if there's a lighter one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves checking for a lighter weight, which implies an ongoing process of negotiation and coordination in the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves checking for a lighter weight, which implies an ongoing process of negotiation and coordination in the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 115,
+    "utterance": "So let's try this one too",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Suggests trying a different option related to the task at hand.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Suggests trying a different option related to the task at hand.\"}",
+    "match": true
+  },
+  {
+    "idx": 116,
+    "utterance": "Indicate the weight of the mystery block Whoa Where is the blue guy",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is off-topic as it questions the location of the blue block without contributing to the task at hand.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is off-topic as it questions the location of the blue block without contributing to the task at hand.\"}",
+    "match": false
+  },
+  {
+    "idx": 117,
+    "utterance": "Try what then",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 1 is questioning what action to take next, which indicates coordination and seeks clarification about the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 1 is questioning what action to take next, which indicates coordination and seeks clarification about the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 118,
+    "utterance": "Use the scale to determine the weights ok cool",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by suggesting the use of the scale to determine the weights.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by suggesting the use of the scale to determine the weights.\"}",
+    "match": true
+  },
+  {
+    "idx": 119,
+    "utterance": "This is hard to say",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance expresses difficulty but does not contribute to task understanding, negotiation, or team function.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance expresses difficulty but does not contribute to task understanding, negotiation, or team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 120,
+    "utterance": "Is it wrong",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance questions the correctness of something, indicating a need for clarification or coordination in the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance questions the correctness of something, indicating a need for clarification or coordination in the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 121,
+    "utterance": "Alright we all happy with that we happy with these solutions",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "reasoning": "Participant 3 is checking for agreement on the proposed solutions, which involves negotiation and coordination, while also maintaining team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 1], \"reasoning\": \"Participant 3 is checking for agreement on the proposed solutions, which involves negotiation and coordination, while also maintaining team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 122,
+    "utterance": "Are we supposed to write on the worksheet",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is questioning the task requirements, indicating a need for clarification and coordinating the team's approach.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is questioning the task requirements, indicating a need for clarification and coordinating the team's approach.\"}",
+    "match": false
+  },
+  {
+    "idx": 123,
+    "utterance": "Yeah we got the two tens",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 shares information about the weights, indicating an understanding of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 shares information about the weights, indicating an understanding of the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 124,
+    "utterance": "We've only got two choices above oh we have three choices above",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is coordinating by clarifying the number of choices available, which engages with the ongoing task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is coordinating by clarifying the number of choices available, which engages with the ongoing task.\"}",
+    "match": false
+  },
+  {
+    "idx": 125,
+    "utterance": "Perceptions of uh",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is vague and does not contribute to the task, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is vague and does not contribute to the task, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 126,
+    "utterance": "Is it ten and this was equal to this one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance indicates a consideration of the weights involved in the task and seeks clarification, showing shared understanding of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance indicates a consideration of the weights involved in the task and seeks clarification, showing shared understanding of the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 127,
+    "utterance": "Green is twenty right",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is confirming the weight of the green item, which shows understanding of the task (CSK), and is also coordinating with others by checking if they agree on the weight.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Participant 3 is confirming the weight of the green item, which shows understanding of the task (CSK), and is also coordinating with others by checking if they agree on the weight.\"}",
+    "match": false
+  },
+  {
+    "idx": 128,
+    "utterance": "Least heavy to most heavy or",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests a method for organizing weights, indicating understanding of the task (CSK), and it poses a question that invites further discussion or clarification (NC). It does not support team dynamics or interaction (MTF).",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"The utterance suggests a method for organizing weights, indicating understanding of the task (CSK), and it poses a question that invites further discussion or clarification (NC). It does not support team dynamics or interaction (MTF).\"}",
+    "match": false
+  },
+  {
+    "idx": 129,
+    "utterance": "Really",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Really' is neutral and does not provide any constructive input related to the task, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Really' is neutral and does not provide any constructive input related to the task, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 130,
+    "utterance": "In order to like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is incomplete and does not provide clear information or engagement related to the task.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is incomplete and does not provide clear information or engagement related to the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 131,
+    "utterance": "Thirty plus thirty plus  ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is a numerical statement without context or collaboration; it does not share knowledge, negotiate, or maintain team function.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is a numerical statement without context or collaboration; it does not share knowledge, negotiate, or maintain team function.\"}",
+    "match": false
+  },
+  {
+    "idx": 132,
+    "utterance": "Big blue was forty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task by providing information on the weight of the 'big blue' item.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task by providing information on the weight of the 'big blue' item.\"}",
+    "match": true
+  },
+  {
+    "idx": 133,
+    "utterance": "The factory that creates the wooden blocks did not send us the second mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance indicates a problem with the task (missing block) and implies a need for coordination to address it.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance indicates a problem with the task (missing block) and implies a need for coordination to address it.\"}",
+    "match": false
+  },
+  {
+    "idx": 134,
+    "utterance": "Makeshift our own sort of like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance suggests a makeshift solution, which supports team dynamics by implying a collaborative approach.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance suggests a makeshift solution, which supports team dynamics by implying a collaborative approach.\"}",
+    "match": false
+  },
+  {
+    "idx": 135,
+    "utterance": "Two attempts okay Wait this one is what again fifty This is this is",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding about the weight of an object and questions about the value, indicating coordination.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding about the weight of an object and questions about the value, indicating coordination.\"}",
+    "match": false
+  },
+  {
+    "idx": 136,
+    "utterance": "I just added one gram",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by indicating a specific measurement change.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by indicating a specific measurement change.\"}",
+    "match": true
+  },
+  {
+    "idx": 137,
+    "utterance": "One thirty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance 'One thirty' likely refers to a weight or measurement, prompting coordination and possibly responding to previous discussions about weights, thus fitting the negotiation and coordination category.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance 'One thirty' likely refers to a weight or measurement, prompting coordination and possibly responding to previous discussions about weights, thus fitting the negotiation and coordination category.\"}",
+    "match": false
+  },
+  {
+    "idx": 138,
+    "utterance": "It was not quite correct no alright alright",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves monitoring progress and indicates that something was incorrect, which is part of the negotiation and coordination process.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves monitoring progress and indicates that something was incorrect, which is part of the negotiation and coordination process.\"}",
+    "match": false
+  },
+  {
+    "idx": 139,
+    "utterance": "We can replace one of these with the twenty to get",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Proposes a solution by suggesting to replace a block, indicating understanding of the task situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Proposes a solution by suggesting to replace a block, indicating understanding of the task situation.\"}",
+    "match": true
+  },
+  {
+    "idx": 140,
+    "utterance": "Can we form something on one side like this place the other one So okay yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Proposes a solution for forming something on one side, while also coordinating with the team.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Proposes a solution for forming something on one side, while also coordinating with the team.\"}",
+    "match": false
+  },
+  {
+    "idx": 141,
+    "utterance": "Eighty there you go Yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 provides a solution related to the task by stating a numerical value, indicating progress in the calculation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 provides a solution related to the task by stating a numerical value, indicating progress in the calculation.\"}",
+    "match": true
+  },
+  {
+    "idx": 142,
+    "utterance": "Lets try this one oh gee louise this one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance expresses frustration or surprise but does not provide task-related information or coordinate with others, making it more of a casual comment.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance expresses frustration or surprise but does not provide task-related information or coordinate with others, making it more of a casual comment.\"}",
+    "match": false
+  },
+  {
+    "idx": 143,
+    "utterance": "Yeah that's what I think yeah that is how they are getting you incrementing",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the process of incrementing, indicating awareness of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the process of incrementing, indicating awareness of the task.\"}",
+    "match": true
+  },
+  {
+    "idx": 144,
+    "utterance": "I think it is between ninety to a hundred",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task situation by estimating a range (ninety to a hundred) related to their work.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task situation by estimating a range (ninety to a hundred) related to their work.\"}",
+    "match": false
+  },
+  {
+    "idx": 145,
+    "utterance": "Given the clue",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests a prompt for coordination, indicating the need for further discussion or clarification based on the clue provided.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance suggests a prompt for coordination, indicating the need for further discussion or clarification based on the clue provided.\"}",
+    "match": false
+  },
+  {
+    "idx": 146,
+    "utterance": "If anybody else wants to type",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "reasoning": "Participant 3 is inviting others to contribute, which facilitates coordination and supports team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 1], \"reasoning\": \"Participant 3 is inviting others to contribute, which facilitates coordination and supports team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 147,
+    "utterance": "Okay so like we can discuss it amongst ourselves",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "reasoning": "Encourages discussion and coordination among team members.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 1], \"reasoning\": \"Encourages discussion and coordination among team members.\"}",
+    "match": false
+  },
+  {
+    "idx": 148,
+    "utterance": "One twenty it's higher than one twenty at least so maybe",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by suggesting a numerical range related to the task at hand.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by suggesting a numerical range related to the task at hand.\"}",
+    "match": false
+  },
+  {
+    "idx": 149,
+    "utterance": "If you have any idea you can say it actually",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Encourages others to share their ideas, facilitating coordination.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Encourages others to share their ideas, facilitating coordination.\"}",
+    "match": false
+  },
+  {
+    "idx": 150,
+    "utterance": "Yeah that sounds right",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Affirms agreement with the previous statement, indicating shared understanding about the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Affirms agreement with the previous statement, indicating shared understanding about the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 151,
+    "utterance": "Let's try both the green ones now I mean both the big ones yeah",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Proposes a specific action related to the task by suggesting to try both green items.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Proposes a specific action related to the task by suggesting to try both green items.\"}",
+    "match": false
+  },
+  {
+    "idx": 152,
+    "utterance": "Sorry",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is an apology, which supports team dynamics but does not contribute to task understanding or coordination.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is an apology, which supports team dynamics but does not contribute to task understanding or coordination.\"}",
+    "match": true
+  },
+  {
+    "idx": 153,
+    "utterance": "Maybe um picking like this might also help",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Suggests a possible solution for the task at hand.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Suggests a possible solution for the task at hand.\"}",
+    "match": false
+  },
+  {
+    "idx": 154,
+    "utterance": "So we could put that there",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Suggests a placement related to the task, indicating shared understanding.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Suggests a placement related to the task, indicating shared understanding.\"}",
+    "match": false
+  },
+  {
+    "idx": 155,
+    "utterance": "Where should we put it then in forty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding about where to place an item and engages in coordination by asking for input on the placement.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding about where to place an item and engages in coordination by asking for input on the placement.\"}",
+    "match": false
+  },
+  {
+    "idx": 156,
+    "utterance": "My estimate was like we have two tens when we add two tens we get a twenty when you get twenty plus ten we get a thirty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by explaining the addition of numbers.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by explaining the addition of numbers.\"}",
+    "match": false
+  },
+  {
+    "idx": 157,
+    "utterance": "Sure put that in",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests coordination by agreeing to place an item, indicating a response to the ongoing discussion.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance suggests coordination by agreeing to place an item, indicating a response to the ongoing discussion.\"}",
+    "match": false
+  },
+  {
+    "idx": 158,
+    "utterance": "Okay okay uh you can put them down So we have like this is twenty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by confirming the value of twenty.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by confirming the value of twenty.\"}",
+    "match": false
+  },
+  {
+    "idx": 159,
+    "utterance": "But let's let him do hands and then we'll we'll play with that but I'm thinking",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of task and suggests a plan while also coordinating with others.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of task and suggests a plan while also coordinating with others.\"}",
+    "match": false
+  },
+  {
+    "idx": 160,
+    "utterance": "Okay how about now",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is checking in on the progress of the task, which involves coordination and prompting discussion.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is checking in on the progress of the task, which involves coordination and prompting discussion.\"}",
+    "match": false
+  },
+  {
+    "idx": 161,
+    "utterance": "Oh what should I index",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves a question regarding what to index, which indicates a need for clarification and coordination with team members.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves a question regarding what to index, which indicates a need for clarification and coordination with team members.\"}",
+    "match": false
+  },
+  {
+    "idx": 162,
+    "utterance": "Hey",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Hey' is neutral/off-topic and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Hey' is neutral/off-topic and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 163,
+    "utterance": "Each block is the sum of the heaviest two",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task by stating a principle related to the blocks.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task by stating a principle related to the blocks.\"}",
+    "match": false
+  },
+  {
+    "idx": 164,
+    "utterance": "Wow",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Wow' does not contribute to task understanding, negotiation, or team dynamics; it is neutral and off-topic.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Wow' does not contribute to task understanding, negotiation, or team dynamics; it is neutral and off-topic.\"}",
+    "match": false
+  },
+  {
+    "idx": 165,
+    "utterance": "That's where I thought was pretty good",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "Participant 2 makes a positive comment, which supports team dynamics, but does not contribute to task understanding or coordination.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"Participant 2 makes a positive comment, which supports team dynamics, but does not contribute to task understanding or coordination.\"}",
+    "match": true
+  },
+  {
+    "idx": 166,
+    "utterance": "Sort of can you put down the right side and pick it up again",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves a request for action (putting down and picking up) which suggests coordination and monitoring of progress.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves a request for action (putting down and picking up) which suggests coordination and monitoring of progress.\"}",
+    "match": false
+  },
+  {
+    "idx": 167,
+    "utterance": "So thirty this is also forty right so this if forty yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by confirming the values being discussed.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by confirming the values being discussed.\"}",
+    "match": false
+  },
+  {
+    "idx": 168,
+    "utterance": "And this is thirty right and this is ten so that would be forty so it's more than forty and less than sixty so it's gotta be fifty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "The speaker shares understanding of the task by calculating the sum and reasoning about the weights, while also coordinating with others by confirming the values.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"The speaker shares understanding of the task by calculating the sum and reasoning about the weights, while also coordinating with others by confirming the values.\"}",
+    "match": true
+  },
+  {
+    "idx": 169,
+    "utterance": "Fifty and the purple is",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 is sharing information about the task, specifically discussing the value related to the purple block, indicating a shared understanding of the task situation.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 is sharing information about the task, specifically discussing the value related to the purple block, indicating a shared understanding of the task situation.\"}",
+    "match": false
+  },
+  {
+    "idx": 170,
+    "utterance": "Cause yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Cause yeah' does not provide any shared knowledge, negotiation, or team function support; it is neutral and lacks specific context.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Cause yeah' does not provide any shared knowledge, negotiation, or team function support; it is neutral and lacks specific context.\"}",
+    "match": false
+  },
+  {
+    "idx": 171,
+    "utterance": "Eight That's the first one So eight plus five Thirteen Yeah there is one thirty Eight plus five",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by calculating a sum related to the blocks.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task by calculating a sum related to the blocks.\"}",
+    "match": false
+  },
+  {
+    "idx": 172,
+    "utterance": "Cause it's definitely not one fifty anyways so we might as well just",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves reasoning about the task and indicates a decision-making process, but it does not share knowledge or support team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves reasoning about the task and indicates a decision-making process, but it does not share knowledge or support team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 173,
+    "utterance": "Not fifty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 2 is responding to the previous calculations and clarifying that the value is not fifty, which involves reasoning and monitoring the group's progress.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 2 is responding to the previous calculations and clarifying that the value is not fifty, which involves reasoning and monitoring the group's progress.\"}",
+    "match": false
+  },
+  {
+    "idx": 174,
+    "utterance": "I would say yellow is like forty five but we could say fifty since we're",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by estimating a value and opens up for discussion by suggesting an alternative.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task by estimating a value and opens up for discussion by suggesting an alternative.\"}",
+    "match": true
+  },
+  {
+    "idx": 175,
+    "utterance": "Yeah I feel like oh we got all the way up to like one forty ok just kidding I thought it was just up to seventy I was like we'll just go with our maximum",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding of the task situation by discussing maximum values related to their calculations.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding of the task situation by discussing maximum values related to their calculations.\"}",
+    "match": false
+  },
+  {
+    "idx": 176,
+    "utterance": "Alright Well now let's do these two I can already tell this one's heavier yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is coordinating the next steps in the task by observing and commenting on the weights, indicating a level of reasoning and engagement with the task.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is coordinating the next steps in the task by observing and commenting on the weights, indicating a level of reasoning and engagement with the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 177,
+    "utterance": "Yeah it's too balanced",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Indicates understanding of the task situation by commenting on the balance.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Indicates understanding of the task situation by commenting on the balance.\"}",
+    "match": false
+  },
+  {
+    "idx": 178,
+    "utterance": "This or this cause we can't even make these weights so it could be above them I know but like if we are thinking it's so close to a hundred",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the weight limits and coordinates with others about the weights being discussed.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the weight limits and coordinates with others about the weights being discussed.\"}",
+    "match": true
+  },
+  {
+    "idx": 179,
+    "utterance": "No no no no So like they gave the weight of this one they gave the weight of the red one so that's why they didn't include this one they already gave us yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding about the weights provided and coordinates with others by clarifying the situation.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding about the weights provided and coordinates with others by clarifying the situation.\"}",
+    "match": true
+  },
+  {
+    "idx": 180,
+    "utterance": "Yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance 'Yeah' is neutral and does not contribute to shared knowledge, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance 'Yeah' is neutral and does not contribute to shared knowledge, negotiation, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 181,
+    "utterance": "This would be blue this would be purple yeah I thought they were both blue until",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral as it describes colors without contributing to task understanding, coordination, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral as it describes colors without contributing to task understanding, coordination, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 182,
+    "utterance": "Purple is thirty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the weight of the color purple in the context of their task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the weight of the color purple in the context of their task.\"}",
+    "match": false
+  },
+  {
+    "idx": 183,
+    "utterance": "That was twenty ten yep",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "Participant 3 is providing a specific weight measurement, which contributes to the ongoing negotiation and coordination of weights being discussed.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"Participant 3 is providing a specific weight measurement, which contributes to the ongoing negotiation and coordination of weights being discussed.\"}",
+    "match": false
+  },
+  {
+    "idx": 184,
+    "utterance": "What if I do this ok so less than forty likely thirty ok",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance suggests a potential solution regarding the weight estimation, indicating shared understanding of the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance suggests a potential solution regarding the weight estimation, indicating shared understanding of the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 185,
+    "utterance": "How about try doing it now",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "reasoning": "The utterance involves coordination, prompting action from others.",
+    "raw_output": "{\"CPS_Label\": [0, 1, 0], \"reasoning\": \"The utterance involves coordination, prompting action from others.\"}",
+    "match": false
+  },
+  {
+    "idx": 186,
+    "utterance": "Purple and then let's put green and a ten",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task by proposing a specific action with weights.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task by proposing a specific action with weights.\"}",
+    "match": false
+  },
+  {
+    "idx": 187,
+    "utterance": "Yeah One thirty that's it",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Participant 2 confirms a weight measurement, contributing to the shared knowledge about the task.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Participant 2 confirms a weight measurement, contributing to the shared knowledge about the task.\"}",
+    "match": false
+  },
+  {
+    "idx": 188,
+    "utterance": "Yeah it's maybe let's try it with the smaller one then",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by suggesting to try a smaller weight and coordinates with the team by proposing an action.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task by suggesting to try a smaller weight and coordinates with the team by proposing an action.\"}",
+    "match": false
+  },
+  {
+    "idx": 189,
+    "utterance": "Let's put two yeah Red one as well",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The utterance suggests a specific action related to the task, indicating a shared understanding of what needs to be done.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The utterance suggests a specific action related to the task, indicating a shared understanding of what needs to be done.\"}",
+    "match": false
+  },
+  {
+    "idx": 190,
+    "utterance": "Just a second just a sec",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      0
+    ],
+    "reasoning": "The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 0], \"reasoning\": \"The utterance is neutral and does not contribute to task understanding, negotiation, or team dynamics.\"}",
+    "match": false
+  },
+  {
+    "idx": 191,
+    "utterance": "You should be holding this We definitely know that it's",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "The speaker shares knowledge about the task by indicating that something should be held, suggesting they have a clear understanding of what needs to be done.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"The speaker shares knowledge about the task by indicating that something should be held, suggesting they have a clear understanding of what needs to be done.\"}",
+    "match": false
+  },
+  {
+    "idx": 192,
+    "utterance": "Here if anybody wants to yeah it's heavy",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "reasoning": "The utterance is a casual comment about the weight, which contributes to team dynamics but does not involve task-related knowledge sharing or coordination.",
+    "raw_output": "{\"CPS_Label\": [0, 0, 1], \"reasoning\": \"The utterance is a casual comment about the weight, which contributes to team dynamics but does not involve task-related knowledge sharing or coordination.\"}",
+    "match": false
+  },
+  {
+    "idx": 193,
+    "utterance": "It could be the same can you try it now or",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "The utterance suggests trying something out, which indicates shared understanding about the task (CSK) and also involves a request for action, contributing to coordination (NC). It does not support team dynamics or include off-topic chat (MTF).",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"The utterance suggests trying something out, which indicates shared understanding about the task (CSK) and also involves a request for action, contributing to coordination (NC). It does not support team dynamics or include off-topic chat (MTF).\"}",
+    "match": false
+  },
+  {
+    "idx": 194,
+    "utterance": "I said one thirty I feel like we can't overthink it",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "reasoning": "Shares understanding about the task and suggests not to overthink the solution.",
+    "raw_output": "{\"CPS_Label\": [1, 0, 0], \"reasoning\": \"Shares understanding about the task and suggests not to overthink the solution.\"}",
+    "match": false
+  },
+  {
+    "idx": 195,
+    "utterance": "So if you put the purple and just to verify that all of our weights are correct",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task and verifies the correctness of weights while coordinating with the team.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task and verifies the correctness of weights while coordinating with the team.\"}",
+    "match": false
+  },
+  {
+    "idx": 196,
+    "utterance": "I think that might be it should we do it again just to be sure",
+    "ground_truth": [
+      1,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding about the task and proposes to repeat the action for verification.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding about the task and proposes to repeat the action for verification.\"}",
+    "match": false
+  },
+  {
+    "idx": 197,
+    "utterance": "Well If we're going to put a hundred and ten What No that's what I said this is alone it's it's hundred but what do you want to do first I think we should go with a hundred and ten first Then if y'all agree we can go with a hundred next right",
+    "ground_truth": [
+      1,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "reasoning": "Shares understanding of the task by proposing to start with a hundred and ten and coordinates by seeking agreement from others.",
+    "raw_output": "{\"CPS_Label\": [1, 1, 0], \"reasoning\": \"Shares understanding of the task by proposing to start with a hundred and ten and coordinates by seeking agreement from others.\"}",
+    "match": false
+  }
+]

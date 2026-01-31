@@ -1,0 +1,3368 @@
+[
+  {
+    "original_index": 2062,
+    "utterance": "I would say that's equal probably",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is sharing their perspective on the scale's balance, contributing to Constructing Shared Knowledge (CSK) by providing information that aligns with P4's previous statement."
+  },
+  {
+    "original_index": 1032,
+    "utterance": "If we decide to continue on the pattern",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is suggesting to continue with the pattern they've established, which is a form of Constructing Shared Knowledge (CSK) as it builds on the shared understanding of the task at hand."
+  },
+  {
+    "original_index": 2005,
+    "utterance": "Oh gotcha",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Oh gotcha' indicates understanding and agreement with P1 and P2's shared knowledge, showing Constructing Shared Knowledge (CSK). There's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1225,
+    "utterance": "There's no way that's eighty it feels way heavier but the pattern sticks",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is questioning the result ('There's no way that's eighty') and expressing their feeling ('it feels way heavier'), which indicates Negotiation & Coordination (NC). They also acknowledge the pattern, but this is not a confirmation of shared knowledge (CSK) as they are still negotiating the result. There's no explicit support or suggestion, so Maintaining Team Function (MTF) is absent."
+  },
+  {
+    "original_index": 772,
+    "utterance": "Probably not supposed to know ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Probably not supposed to know' is a response to P3's question 'What is the type of feedback we get'. It's a negation of P3's inquiry, suggesting that they should not expect to know the type of feedback, which falls under the Negotiation & Coordination (NC) facet as it's a form of reasoning and strategizing. It doesn't involve sharing information (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 333,
+    "utterance": "I was thinking one forty first as well but um",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is sharing their thought process (CSK) and also negotiating the strategy (NC) by agreeing with P1's suggestion of starting with one forty, but no team function maintenance is present in this utterance."
+  },
+  {
+    "original_index": 1101,
+    "utterance": "Fifty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is providing a specific number (50) as a guess, which is a form of sharing information and confirming understanding, thus indicating Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 645,
+    "utterance": "Sixty and these two",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is simply stating a fact about the blocks they have, which is a form of Constructing Shared Knowledge (CSK). They are not Negotiating or Coordinating (NC) with others, nor are they Maintaining Team Function (MTF) with their utterance."
+  },
+  {
+    "original_index": 2163,
+    "utterance": "Yes yes",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Yes yes' is a simple agreement or affirmation, not providing new information (CSK: 0), not engaging in reasoning or questioning (NC: 0), but it does show support and engagement, maintaining team function (MTF: 1)."
+  },
+  {
+    "original_index": 504,
+    "utterance": "Because yeah green is twenty thirty and fifty right so",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is providing information (CSK) about the scale's markings to support their previous statement about the weight range (80-90 lbs). They are not negotiating, coordinating, or maintaining team function in this utterance."
+  },
+  {
+    "original_index": 2164,
+    "utterance": "Yes  ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yes' by P1 is a simple agreement or confirmation, which doesn't involve sharing new information (CSK), negotiating or coordinating (NC), but it does maintain team function by showing agreement and keeping the conversation flowing."
+  },
+  {
+    "original_index": 263,
+    "utterance": "Oh yeah it does",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Oh yeah it does' is simply agreeing with P2's previous statement, showing support and understanding, but it doesn't involve sharing new information (CSK), negotiating or coordinating (NC), so it's marked as present for MTF only."
+  },
+  {
+    "original_index": 1563,
+    "utterance": "So where is oh yellow is",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is asking for clarification on the color, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating a strategy (NC) nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 836,
+    "utterance": "The second mystery block could be lighter",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing new information ('The second mystery block could be lighter') which contributes to constructing shared knowledge (CSK=1). They are also reasoning and questioning the pattern, which falls under negotiation and coordination (NC=1). There's no suggestion, compliment, or support given, so maintaining team function (MTF=0) is not applicable here."
+  },
+  {
+    "original_index": 1653,
+    "utterance": "It doesn'\u00adt feel correct",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'It doesn't feel correct' is a statement of doubt or disagreement, which can be classified as Negotiation & Coordination (NC). It's not sharing information (CSK) nor providing support or suggestions (MTF)."
+  },
+  {
+    "original_index": 547,
+    "utterance": "Maybe ninety to ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is suggesting a specific range (ninety to hundred) which is a form of Constructing Shared Knowledge (CSK) as it contributes to the shared understanding of the problem. However, there's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 760,
+    "utterance": "True very true",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'True very true' is simply agreeing with P3's previous statement, showing support and maintaining team function, but it doesn't involve sharing information (CSK), negotiation, or coordination (NC)."
+  },
+  {
+    "original_index": 2320,
+    "utterance": "Yeah uh maybe not Difficult it is um",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Yeah uh maybe not Difficult it is um' is a response to P2's question, indicating uncertainty or disagreement, which falls under the Negotiation & Coordination (NC) facet. It's not sharing information (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 1953,
+    "utterance": "It didn't seem like it took it much to get it to tip but also it's hard to like",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is expressing uncertainty and providing additional information, which is a form of Negotiation & Coordination (NC), but not Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 646,
+    "utterance": "We have eighty we can make ninety we can make",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is summarizing the current total ('We have eighty') and then suggesting the next possible total ('we can make ninety'), which is a form of Constructing Shared Knowledge by updating the shared understanding of their progress."
+  },
+  {
+    "original_index": 1010,
+    "utterance": "These are the same this is a difference of ten is this a difference of fifty no it is these and this",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is clarifying the pattern in the weights, which is an act of Constructing Shared Knowledge (CSK), and they're also questioning the current understanding (NC) by asking 'is this a difference of fifty?', but there's no Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 814,
+    "utterance": "Yeah I guess so",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yeah I guess so' is a brief agreement with P3's conclusion, showing support (MTF), but it doesn't involve sharing information (CSK) or negotiation/coordination (NC)."
+  },
+  {
+    "original_index": 31,
+    "utterance": "Yeah ok so now we know that this is also ten",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is sharing information ('this is also ten') to build shared knowledge with the team, confirming their understanding of the current state. There's no negotiation or coordination (NC) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 2230,
+    "utterance": "Twenty Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is confirming P2's understanding of the numbers, contributing to Constructing Shared Knowledge (CSK). They are not Negotiating & Coordinating (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 699,
+    "utterance": "Is it",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Is it' is a question, which is a form of Negotiation & Coordination (NC), as they are seeking clarification or confirmation from the others. It's not an instance of Constructing Shared Knowledge (CSK) as it doesn't involve sharing information or confirming understanding, nor is it an example of Maintaining Team Function (MTF) as it doesn't provide support, suggestions, or compliments."
+  },
+  {
+    "original_index": 250,
+    "utterance": "Well on the first go through I noticed how it bounced twice and actually get some momentum ok so then",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is sharing new information ('bounced twice', 'got some momentum') and also reasoning about the situation ('on the first go through'), indicating Constructing Shared Knowledge (CSK) and Negotiation & Coordination (NC). There's no explicit Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 231,
+    "utterance": "Ok cool no for sure",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Ok cool no for sure' is a simple acknowledgment and agreement with P2's suggestion to start some tests. It doesn't involve sharing information (CSK), negotiating or coordinating (NC), but it does show support and agreement (MTF)."
+  },
+  {
+    "original_index": 2365,
+    "utterance": "This is eight RB I think that that is eighty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing information (CSK) by clarifying that 'RB' stands for 'eighty'."
+  },
+  {
+    "original_index": 1055,
+    "utterance": "So this one yeah sounds good ",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is acknowledging and agreeing with P3's explanation of the Fibonacci sequence pattern (CSK), but there's no negotiation or coordination (NC) happening here. They're also showing support and agreement with 'sounds good' (MTF)."
+  },
+  {
+    "original_index": 117,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yeah' by P3 is a brief agreement or confirmation, which is a form of maintaining team function. It shows support and alignment with the previous speaker's statement, but it does not involve constructing shared knowledge or negotiation and coordination."
+  },
+  {
+    "original_index": 1414,
+    "utterance": "Okay yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Okay yeah' is a simple acknowledgment and agreement with P2's suggestion. It doesn't involve sharing information (CSK), reasoning or questioning (NC), but it does show support and agreement, which is a form of maintaining team function (MTF)."
+  },
+  {
+    "original_index": 832,
+    "utterance": "TRUE",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'TRUE' is a simple confirmation of P3's previous statement, indicating that P1 agrees with P3's suggestion that the weight of the second mystery block might be a hundred and thirty based on the Fibonacci sequence. However, it does not involve sharing new information (CSK), negotiating or coordinating (NC), or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 2368,
+    "utterance": "Oh no they don't have any hints here",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Oh no they don't have any hints here' is not Constructing Shared Knowledge (CSK) as it doesn't share or confirm any information. It's not Negotiation & Coordination (NC) as it doesn't involve reasoning, questioning, or strategizing. However, it is Maintaining Team Function (MTF) as it shows support by acknowledging the difficulty of the task."
+  },
+  {
+    "original_index": 897,
+    "utterance": "This is heavier than this one so this is twenty this is heavier than this one",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is sharing information (CSK) by stating that the object is heavier than the other, which helps to confirm the weight of the objects they are discussing."
+  },
+  {
+    "original_index": 306,
+    "utterance": "Oh yeah much much more",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is agreeing with P2's statement, confirming their understanding of the situation, which is an example of Constructing Shared Knowledge (CSK). There's no negotiation or coordination (NC) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 1166,
+    "utterance": "So even when they're equal it leans",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'So even when they're equal it leans' is not sharing information or confirming understanding (CSK), nor is it providing suggestions, compliments, or support (MTF). However, it is an example of Negotiation & Coordination (NC) as it is reasoning about the current state of the task and suggesting a possible outcome."
+  },
+  {
+    "original_index": 1012,
+    "utterance": "Yeah I mean that makes sense it would move here",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is acknowledging and agreeing with P3's explanation (CSK), but there's no negotiation or coordination (NC) happening here. They're also showing support and understanding (MTF) by agreeing with P3's suggestion."
+  },
+  {
+    "original_index": 632,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yeah' is a simple agreement or confirmation, indicating that P1 is acknowledging P3's previous statement. It doesn't involve sharing new information (CSK), negotiating or coordinating (NC), but it does maintain team function by showing engagement and agreement (MTF)."
+  },
+  {
+    "original_index": 2065,
+    "utterance": "Yeah it should be same I guess",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is agreeing with P2 and P1, confirming their shared understanding that the task is equal, which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2194,
+    "utterance": "That would make sense to me",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'That would make sense to me' is a confirmation of understanding, indicating that they agree with P3's previous statement about the value of the two items being equal. This is an example of Constructing Shared Knowledge (CSK) as it helps to build a common understanding among the team members."
+  },
+  {
+    "original_index": 896,
+    "utterance": "The green is twenty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming the shared understanding about the green's value, which is a form of Constructing Shared Knowledge (CSK). There's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 775,
+    "utterance": "Cheating I think I don't know probably",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is questioning P3's suggestion to change the strategy, indicating Negotiation & Coordination (NC), but not Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 639,
+    "utterance": "Yeah the highest we can make is a one fifty we can make a one fifty even",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is confirming P2's understanding that the highest weight they can make is 150 grams, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating a strategy (NC) nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 63,
+    "utterance": "Assuming that this was",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'Assuming that this was' is a question that seeks clarification, which falls under the Negotiation & Coordination (NC) facet. It's not sharing information (CSK) nor providing support or suggestions (MTF)."
+  },
+  {
+    "original_index": 1663,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Yeah' is a simple agreement with P2's question, showing support and confirming understanding, but it doesn't involve sharing new information (CSK), reasoning (NC), or strategizing."
+  },
+  {
+    "original_index": 2066,
+    "utterance": "Yeah that 's good",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Yeah that's good' is a brief agreement and shows support for the shared understanding that the situation is equal, which falls under Maintaining Team Function (MTF). It doesn't involve Constructing Shared Knowledge (CSK) as no new information is shared, and it's not Negotiation & Coordination (NC) as there's no reasoning, questioning, or strategizing."
+  },
+  {
+    "original_index": 48,
+    "utterance": "Probably thirty at this point",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming the agreed-upon number (30), which is an example of Constructing Shared Knowledge (CSK). There's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1957,
+    "utterance": "So seventy yeah we could try eighty",
+    "ground_truth": [
+      0,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is building on P1's suggestion of 'eighty' and P3's initial estimate, indicating they are constructing shared knowledge (CSK) by integrating the information provided by both P1 and P3. They are also negotiating and coordinating (NC) by proposing a specific number ('seventy') and suggesting to try 'eighty'."
+  },
+  {
+    "original_index": 1399,
+    "utterance": "Kay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Kay' is a simple acknowledgment, indicating that P1 has understood P2's previous statement. It doesn't involve sharing new information (CSK), negotiating or coordinating (NC), but it does maintain team function by showing engagement and understanding."
+  },
+  {
+    "original_index": 1605,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Okay' by P3 is a simple acknowledgment, indicating they have understood P2's previous statement. It doesn't involve sharing new information (CSK), nor does it involve negotiation or coordination (NC). However, it does maintain team function by showing P3 is engaged and following the conversation (MTF)."
+  },
+  {
+    "original_index": 295,
+    "utterance": "Over",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Over' by P4 is not sharing information (CSK), nor is it negotiating or coordinating (NC). However, it is maintaining team function (MTF) as it signals that P4 is ready to move on, possibly indicating that they have understood the task or are ready to proceed, thus providing a sense of progress and direction for the team."
+  },
+  {
+    "original_index": 1589,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Okay' is a simple acknowledgment of P2's response, indicating they are actively listening and maintaining the flow of the conversation. It doesn't involve sharing information (CSK), negotiating or coordinating (NC), but it does show support and engagement (MTF)."
+  },
+  {
+    "original_index": 1064,
+    "utterance": "All of the weights are in intervals of ten so you don't need to use the slider at all",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing information about the weights of the cubes (CSK), stating that they are in intervals of ten, which helps P2 understand the task better. There's no negotiation or coordination (NC) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 1401,
+    "utterance": "And",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The word 'And' in this context is used to suggest that P3 wants P2 to continue with the task they were discussing, which is maintaining team function. It's not constructing shared knowledge or negotiating and coordinating."
+  },
+  {
+    "original_index": 364,
+    "utterance": "Yeah I mean this could be",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Yeah I mean this could be' is a continuation of the thought process started by P3, indicating a form of negotiation and coordination (NC) as they are exploring possible solutions together. It doesn't involve sharing new information (CSK) or maintaining team function (MTF) through suggestions, compliments, or support."
+  },
+  {
+    "original_index": 1983,
+    "utterance": "Ok for the final part of the task read the scenario and estimate the weight of the missing second mystery",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4's utterance 'Ok for the final part of the task read the scenario and estimate the weight of the missing second mystery' is purely a directive, guiding the team to the next step of the task. It does not involve sharing information (CSK), negotiating or coordinating (NC), or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 410,
+    "utterance": "And you can now start the survey",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'And you can now start the survey' is simply giving permission to begin the task, which is a form of maintaining team function by keeping the process moving. It does not involve sharing information (CSK), negotiating or coordinating (NC), so both are absent."
+  },
+  {
+    "original_index": 2051,
+    "utterance": "Gonna callibrate my cameras",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4's utterance 'Gonna calibrate my cameras' is not sharing information (CSK), nor is it negotiating or coordinating (NC) with the others' previous discussion. However, it is maintaining team function (MTF) by indicating their next action, keeping the team's progress moving forward."
+  },
+  {
+    "original_index": 2178,
+    "utterance": "So I suppose like",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance '[P1]: So I suppose like' is a pause or filler, indicating uncertainty or hesitation. It doesn't provide new information (CSK), ask a question (NC), or offer support (MTF). However, it could be seen as a tentative attempt to maintain team function by signaling that P1 is still engaged and thinking."
+  },
+  {
+    "original_index": 221,
+    "utterance": "In the first part you are going to work together to determine the weight of these five cubes",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing information about the task, specifically the first part of the 'weights task', which is to determine the weight of five cubes. This is an example of Constructing Shared Knowledge (CSK) as it helps the team understand the task at hand."
+  },
+  {
+    "original_index": 1115,
+    "utterance": "Big blue",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is providing information ('Big blue') to the team, which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 687,
+    "utterance": "So the task you are completing today is called the weights task in the first part you are going to work together to determine the weights of the cube",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing information about the task, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) nor maintaining team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1705,
+    "utterance": "For the final part of this task read the scenario and estimate the weight of the second mystery block",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4's utterance is a clear instruction, providing the next task and goal, which is a form of Constructing Shared Knowledge (CSK). It doesn't involve Negotiation & Coordination (NC) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 1626,
+    "utterance": "Yeah Okay so Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yeah Okay so Okay' is a brief acknowledgment and agreement with the previous speaker's statement, showing support and maintaining team function. It does not involve sharing information (CSK), reasoning or questioning (NC)."
+  },
+  {
+    "original_index": 1209,
+    "utterance": "Roughly the same",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Roughly the same' is a confirmation of P2's understanding, indicating that they are on the same page regarding the quantities of the colors. This is an example of Constructing Shared Knowledge (CSK) as it helps to build a common understanding between the participants."
+  },
+  {
+    "original_index": 348,
+    "utterance": "I don't know I mean",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'I don't know I mean' is not sharing information (CSK=0), not negotiating or coordinating (NC=0), but it does show hesitation and uncertainty, which can be seen as a form of seeking support or maintaining team function (MTF=1)."
+  },
+  {
+    "original_index": 2333,
+    "utterance": "Oh let's try it out",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Oh let's try it out' is a suggestion to move forward with P2's idea, indicating Negotiation & Coordination (NC) as it's a decision made together. It doesn't involve Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 683,
+    "utterance": "I'm sorry I feel like this didn't catch up",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4's utterance 'I'm sorry I feel like this didn't catch up' is not sharing information or negotiating, but it does show concern and apologies, which is a form of maintaining team function."
+  },
+  {
+    "original_index": 1099,
+    "utterance": "So I would guess the yellow one is gonna be",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is making a guess based on the information shared so far (CSK present), but they are not negotiating or coordinating with others (NC absent) nor are they maintaining team function (MTF absent)."
+  },
+  {
+    "original_index": 748,
+    "utterance": "Ok I vote here's my vote alright",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Ok I vote here's my vote alright' is a statement of intent and does not involve sharing information (CSK), nor does it provide suggestions or support (MTF). However, it does indicate a willingness to participate and contribute, which can be seen as a form of negotiation and coordination (NC)."
+  },
+  {
+    "original_index": 2,
+    "utterance": "The task that you are doing today is called the weights task",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing information to the team about the task at hand, which is a form of Constructing Shared Knowledge. There's no Negotiation & Coordination or Maintaining Team Function in this utterance."
+  },
+  {
+    "original_index": 2244,
+    "utterance": "Makes sense if",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Makes sense if' is a question that initiates negotiation and coordination (NC) by seeking clarification on the condition for being done, but it does not involve constructing shared knowledge (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 1312,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Okay' by P3 is a brief acknowledgment, indicating they have understood and accepted the previous discussion. It doesn't involve sharing new information (CSK), reasoning or questioning (NC), but it does maintain team function by showing they are following along and ready to proceed."
+  },
+  {
+    "original_index": 187,
+    "utterance": "Read the scenario that will come up for the next part of the survey and estimate the weight of the next block and you will again have two attempts to estimate and explain your answer",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is not sharing information or confirming understanding (CSK), but is providing instructions and clarifying the next task (NC). There's no suggestion, compliment, or support given to maintain team function (MTF)."
+  },
+  {
+    "original_index": 145,
+    "utterance": "Ok a hundred ok ",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is acknowledging P3's suggestion of setting the weight to 100, showing understanding and agreement, which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2386,
+    "utterance": "Wait wait wait a second",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is asking for clarification on which mystery block P2 is referring to, indicating Negotiation & Coordination (NC) as they are trying to align understanding. There's no evidence of Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1375,
+    "utterance": "To clarify you don't need to use the slider at all they will all be in intervals of ten grams",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing clear information to clarify the task, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) as they are not questioning or strategizing, nor are they maintaining team function (MTF) as they are not providing suggestions, compliments, or support."
+  },
+  {
+    "original_index": 46,
+    "utterance": "Yeah thirty",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming P1's suggestion to start at thirty, thereby constructing shared knowledge (CSK). There's no negotiation or coordination (NC) or maintenance of team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 533,
+    "utterance": "Ok",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Ok' is a simple acknowledgment, showing support for P1's action, which is a form of Maintaining Team Function (MTF). It doesn't involve Constructing Shared Knowledge (CSK) or Negotiation & Coordination (NC)."
+  },
+  {
+    "original_index": 1708,
+    "utterance": "It should be something like",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is providing a hint to P2 about the missing second block, which is a form of Constructing Shared Knowledge (CSK) as they are sharing information to help P2 understand the task."
+  },
+  {
+    "original_index": 272,
+    "utterance": "So that's the twenty and the thirty",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming and building upon P1's suggestion of using 20, indicating they understand and agree with the shared knowledge, hence CSK is present."
+  },
+  {
+    "original_index": 939,
+    "utterance": "Ok now you will determine the weight of this mystery block without using the scale you will have two attempts to get the right answer and you can now begin",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing instructions and information about the task, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) with others or maintaining team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 255,
+    "utterance": "Um",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Um' is a filler sound used to indicate hesitation or to buy time while thinking. It doesn't provide any new information (CSK), nor does it involve reasoning or questioning (NC). However, it can be considered as maintaining team function (MTF) as it signals that P2 is still engaged and thinking, thus keeping the conversation flowing."
+  },
+  {
+    "original_index": 1271,
+    "utterance": "And you will also enter the weight into this survey here",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing additional information about the task, which is a form of Constructing Shared Knowledge. They are not negotiating or coordinating with others, nor are they maintaining team function, as this utterance is purely informative."
+  },
+  {
+    "original_index": 1050,
+    "utterance": "What happened",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4's utterance 'What happened' is a question that seeks clarification on the situation, indicating Negotiation & Coordination (NC), as they are trying to understand the context. It does not involve Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 929,
+    "utterance": "And then like this",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is continuing to share information about the numbers they see, confirming their understanding of the quantities, which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1828,
+    "utterance": "Minus one forty nine",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is repeating the result 'minus one forty nine' that P1 just confirmed, thereby confirming shared understanding (CSK). There's no negotiation, coordination, or team function maintenance in this utterance."
+  },
+  {
+    "original_index": 2193,
+    "utterance": "Let's see",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "'Let's see' is a suggestion for P2 to take a closer look, which helps maintain team function by encouraging active engagement in the problem-solving process. It doesn't involve sharing information (CSK) or negotiation/coordination (NC)."
+  },
+  {
+    "original_index": 1408,
+    "utterance": "Okay",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Okay' by P3 is a simple acknowledgment of P4's instructions, indicating they are ready to proceed. It doesn't involve sharing information (CSK), negotiating or coordinating (NC), but it does maintain team function by showing P3 is engaged and following P4's lead."
+  },
+  {
+    "original_index": 755,
+    "utterance": "Dude what",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Dude what' is a question, which falls under the 'Negotiation & Coordination' (NC) facet. It's a way of asking for clarification or more information, which is a form of negotiation in this context. It's not sharing information (CSK) nor is it maintaining team function (MTF)."
+  },
+  {
+    "original_index": 663,
+    "utterance": "These two",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing information (CSK) about the two blocks they used for measurement, but there's no negotiation, coordination, or team function maintenance in this utterance."
+  },
+  {
+    "original_index": 10,
+    "utterance": "So you have to place sorry please place the scales place the cubes on this worksheet where you prove that they weigh again yes",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P4 is providing new information (CSK) about where to place the scales and cubes, and is also giving instructions (NC) on how to proceed with the task. There's no explicit MTF behavior in this utterance."
+  },
+  {
+    "original_index": 1712,
+    "utterance": "Yeah",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Yeah' is simply agreeing with P1's previous statement, showing understanding (NC), but it doesn't involve sharing new information (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 763,
+    "utterance": "No pressure",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'No pressure' is not sharing information (CSK), not negotiating or coordinating (NC), but it is maintaining team function (MTF) by reassuring the team and reducing tension."
+  },
+  {
+    "original_index": 6,
+    "utterance": "Ok yeah  ",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Ok yeah' is a simple acknowledgment, showing they understand the task as explained by P4. It doesn't involve sharing new information (CSK), negotiating or coordinating (NC), but it does maintain team function by indicating P1 is following along and engaged."
+  },
+  {
+    "original_index": 1979,
+    "utterance": "Yeah cause",
+    "ground_truth": [
+      0,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": ""
+  },
+  {
+    "original_index": 2387,
+    "utterance": "So that was the first mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is summarizing the information that P2 provided, confirming their understanding of the sequence, which is an example of Constructing Shared Knowledge (CSK). There's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1201,
+    "utterance": "Alright ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Alright' by P3 is a simple acknowledgment, indicating they are ready to proceed. It doesn't involve sharing information (CSK), asking questions or reasoning (NC), but it does maintain team function by showing they are engaged and ready to continue, hence MTF is present."
+  },
+  {
+    "original_index": 498,
+    "utterance": "Maybe ninety or a hundred",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is providing a specific numerical estimate (90 or 100) for the weight, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating a strategy (NC) nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 808,
+    "utterance": "It's not quite correct think about the relationship between weights of the prior blocks and use a pattern to determine the weight of the mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance is primarily Constructing Shared Knowledge (CSK) as they are providing new information and guiding the team's understanding by suggesting a pattern to determine the weight of the mystery block. It also involves Negotiation & Coordination (NC) as they are reasoning and strategizing about the problem. However, it does not involve Maintaining Team Function (MTF) as there are no suggestions, compliments, or support for the team's morale or process."
+  },
+  {
+    "original_index": 1948,
+    "utterance": "And red right yellow green",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is providing additional information about the colors of the weights, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating a strategy (NC) nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 1224,
+    "utterance": "Fifty thirty eighty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is simply stating the next number in the sequence, which is a continuation of the shared knowledge established by P1. They are not negotiating, coordinating, or maintaining team function in this utterance."
+  },
+  {
+    "original_index": 2247,
+    "utterance": "So this was thirty right Thirty this was twenty and these are tens",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is providing specific information about the weights of the objects, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating a strategy (NC) nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 1889,
+    "utterance": "Or let's all like do what he's doing",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Or let's all like do what he's doing' is a suggestion (MTF) to follow P1's actions, but it doesn't involve sharing information (CSK) or reasoning/questioning (NC)."
+  },
+  {
+    "original_index": 776,
+    "utterance": "Is it though ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Is it though' is questioning P2's previous statement, indicating a negotiation and coordination (NC) aspect. It's not constructing shared knowledge (CSK) as it's not providing new information, and it's not maintaining team function (MTF) as it's not offering support or suggestions."
+  },
+  {
+    "original_index": 1076,
+    "utterance": "This is a sensitive scale",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'This is a sensitive scale' is not sharing information (CSK), nor is it negotiating or coordinating (NC). However, it is maintaining team function (MTF) by providing a cautionary note, which helps the team proceed carefully and avoid potential issues."
+  },
+  {
+    "original_index": 2276,
+    "utterance": "Green is twenty I mean we're we're right right I mean we're exactly right",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is confirming the weight of the green object, which is a form of Constructing Shared Knowledge (CSK), and also expresses confidence in their team's understanding, which is a form of Maintaining Team Function (MTF). There's no Negotiation & Coordination (NC) in this utterance as it's not questioning, strategizing, or reasoning."
+  },
+  {
+    "original_index": 815,
+    "utterance": "Right my math is right right because thirty plus fifty is then eighty yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is confirming their understanding of the Fibonacci sequence by reciting the next numbers in the sequence, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating with others (NC) or maintaining team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 635,
+    "utterance": "So it must be a set so we should be able to make every possible weight here with these blocks they have one fifty two",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is sharing information (CSK) about the weights of the blocks they have, which is relevant to the task at hand. They are not negotiating or coordinating (NC) with others, nor are they maintaining team function (MTF) with suggestions, compliments, or support."
+  },
+  {
+    "original_index": 816,
+    "utterance": "Like ok that would be this and this right like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "This utterance is not Constructing Shared Knowledge (CSK) as it doesn't share or confirm information. It's Negotiation & Coordination (NC) as it's a continuation of P3's previous reasoning, reinforcing their understanding of the Fibonacci sequence. It's not Maintaining Team Function (MTF) as it doesn't provide suggestions, compliments, or support to the team."
+  },
+  {
+    "original_index": 1773,
+    "utterance": "Green is twenty ok green is twenty thirty yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 confirms the shared understanding that 'green' is twenty, which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 543,
+    "utterance": "I feel like there's gotta be a clever way like an answer I don't know what it is",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance is not sharing information or confirming understanding (CSK), nor is it providing suggestions, compliments, or support (MTF). However, it is a form of reasoning and questioning (NC) as P1 is expressing their thought process and uncertainty about the solution."
+  },
+  {
+    "original_index": 898,
+    "utterance": "Which one is heavier",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Which one is heavier' is a question that seeks clarification, indicating Negotiation & Coordination (NC). It's not sharing information (CSK) nor providing support or suggestions (MTF)."
+  },
+  {
+    "original_index": 1862,
+    "utterance": "Ok so it might have to do with the numbers and stuff but",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is sharing their initial thought process about the mystery block, suggesting they are trying to construct shared knowledge by relating it to 'numbers and stuff', but they are not negotiating or coordinating a strategy yet, nor are they maintaining team function."
+  },
+  {
+    "original_index": 428,
+    "utterance": "Um I'm going to see if there's a lighter one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": ""
+  },
+  {
+    "original_index": 1779,
+    "utterance": "So let's try this one too",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'So let's try this one too' is not constructing shared knowledge (CSK) as it's not sharing new information or confirming understanding. It's not engaging in negotiation and coordination (NC) as it's not reasoning, questioning, or strategizing. However, it is maintaining team function (MTF) as it's a suggestion that encourages further exploration and collaboration."
+  },
+  {
+    "original_index": 2281,
+    "utterance": "Indicate the weight of the mystery block Whoa Where is the blue guy",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing information (CSK) about the weights of the blocks, but not actively negotiating or coordinating (NC) with P2. They also express surprise ('Whoa') which can be seen as a form of support (MTF) for P2's confusion."
+  },
+  {
+    "original_index": 482,
+    "utterance": "Try what then",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Try what then' is a question that seeks clarification on what P2 suggested ('those things'), indicating Negotiation & Coordination (NC). It's not sharing information (CSK) nor maintaining team function (MTF)."
+  },
+  {
+    "original_index": 17,
+    "utterance": "Use the scale to determine the weights ok cool",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is now confirming their understanding of P4's previous instructions, specifically about using the scale to determine the weights. This is an example of Constructing Shared Knowledge (CSK) as P1 is ensuring they have understood the task correctly."
+  },
+  {
+    "original_index": 2305,
+    "utterance": "This is hard to say",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'This is hard to say' is not sharing information (CSK), nor is it negotiating or coordinating (NC). However, it does show a level of difficulty and effort, which can be considered as maintaining team function (MTF) by acknowledging the challenge of the task."
+  },
+  {
+    "original_index": 340,
+    "utterance": "Is it wrong",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'Is it wrong' is a question, which is a form of Negotiation & Coordination (NC), as they are seeking clarification or challenging the current consensus. It's not an instance of Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 733,
+    "utterance": "Alright we all happy with that we happy with these solutions",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Alright we all happy with that we happy with these solutions' is not sharing information or negotiating, but it is maintaining team function by checking in with the team to ensure everyone is content with the proposed solutions."
+  },
+  {
+    "original_index": 291,
+    "utterance": "Are we supposed to write on the worksheet",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance is a question asking for clarification on the task, which falls under the Negotiation & Coordination (NC) facet. It's not sharing information (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 318,
+    "utterance": "Yeah we got the two tens",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is confirming and building upon the shared knowledge established by P1, specifically acknowledging the two tens in the calculation. This utterance is purely about Constructing Shared Knowledge (CSK) and does not involve Negotiation & Coordination (NC) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 1177,
+    "utterance": "We've only got two choices above oh we have three choices above",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is providing new information (CSK) by stating that there are three choices above one twenty, not just two. This utterance does not involve negotiation or coordination (NC) or maintain team function (MTF)."
+  },
+  {
+    "original_index": 156,
+    "utterance": "Perceptions of uh",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Perceptions of uh' does not contain any information sharing or questioning, but it does serve to maintain team function by keeping the conversation going and showing P1 is still engaged and thinking, hence MTF is present."
+  },
+  {
+    "original_index": 702,
+    "utterance": "Is it ten and this was equal to this one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is verifying the information provided by P1 (CSK), and is also questioning to clarify (NC). There's no evidence of maintaining team function in this utterance."
+  },
+  {
+    "original_index": 444,
+    "utterance": "Green is twenty right",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is stating a fact about the color green, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating, coordinating, or maintaining team function in this utterance."
+  },
+  {
+    "original_index": 389,
+    "utterance": "Least heavy to most heavy or",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is asking a question to clarify the strategy, which falls under Negotiation & Coordination (NC). They are not sharing new information (CSK) or providing team support (MTF) in this utterance."
+  },
+  {
+    "original_index": 2295,
+    "utterance": "Really",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Really' is a brief acknowledgment of P2's confirmation, showing support and agreement, which falls under Maintaining Team Function (MTF). It doesn't involve Constructing Shared Knowledge (CSK) or Negotiation & Coordination (NC)."
+  },
+  {
+    "original_index": 388,
+    "utterance": "In order to like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is not providing any new information or questioning, nor is they suggesting a strategy or supporting P1. They are merely starting to speak, indicating they have something to contribute, which is a form of sharing information and confirming understanding, thus CSK is present."
+  },
+  {
+    "original_index": 1345,
+    "utterance": "Thirty plus thirty plus  ",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is not sharing information or negotiating, but they are maintaining team function by encouraging P3 to continue with the calculation."
+  },
+  {
+    "original_index": 1118,
+    "utterance": "Big blue was forty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is confirming and clarifying the shared knowledge about the 'big blue' item being forty, which is a direct response to P2's question. This utterance is purely about Constructing Shared Knowledge (CSK) and does not involve Negotiation & Coordination (NC) or Maintaining Team Function (MTF)."
+  },
+  {
+    "original_index": 1029,
+    "utterance": "The factory that creates the wooden blocks did not send us the second mystery block",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P3 is providing new information about the scenario, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) or maintaining team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1905,
+    "utterance": "Makeshift our own sort of like",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is suggesting a new approach ('Makeshift our own sort of like') but isn't sharing information, negotiating, or coordinating with the team yet, nor is he maintaining team function with this utterance."
+  },
+  {
+    "original_index": 2286,
+    "utterance": "Two attempts okay Wait this one is what again fifty This is this is",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming the number of attempts (CSK) and also questioning the weight of the block (NC), but there's no team function maintenance in this utterance."
+  },
+  {
+    "original_index": 1813,
+    "utterance": "I just added one gram",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is providing new information (CSK) by stating the action they took ('I just added one gram'), but they are not negotiating or coordinating (NC) with others, nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 2148,
+    "utterance": "One thirty",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is simply repeating the number P2 mentioned, not constructing shared knowledge, negotiating, or coordinating. However, it can be considered as maintaining team function by showing engagement and acknowledging P2's input."
+  },
+  {
+    "original_index": 1008,
+    "utterance": "It was not quite correct no alright alright",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'It was not quite correct no alright alright' is a negation of the previous consensus ('We're good', 'Cool'), indicating a disagreement and thus falls under the Negotiation & Coordination (NC) facet. It's not sharing new information (CSK), nor is it maintaining team function (MTF)."
+  },
+  {
+    "original_index": 58,
+    "utterance": "We can replace one of these with the twenty to get",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is suggesting a strategy (NC) by proposing to replace one of the items with the 20-pound one, which is a form of negotiation and coordination. However, there's no evidence of shared knowledge construction (CSK) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 2291,
+    "utterance": "Can we form something on one side like this place the other one So okay yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is suggesting a strategy (NC) for placing the numbers, but they are not sharing new information (CSK) or providing team support (MTF)."
+  },
+  {
+    "original_index": 2374,
+    "utterance": "Eighty there you go Yeah",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is simply acknowledging and agreeing with the decision made by the team to go with eighty grams, showing support and maintaining team function. There's no new information shared (CSK), no negotiation or coordination (NC) happening in this utterance."
+  },
+  {
+    "original_index": 38,
+    "utterance": "Lets try this one oh gee louise this one",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Lets try this one oh gee louise this one' is a suggestion, indicating that P1 is maintaining team function by proposing an action. There's no evidence of constructing shared knowledge (CSK) or negotiation and coordination (NC) in this utterance."
+  },
+  {
+    "original_index": 2006,
+    "utterance": "Yeah that's what I think yeah that is how they are getting you incrementing",
+    "ground_truth": [
+      1,
+      0,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is confirming their understanding and sharing their thought process, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) with others, nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 502,
+    "utterance": "I think it is between ninety to a hundred",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing their estimate of the weight, which is an example of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating with others (NC), nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 1256,
+    "utterance": "Given the clue",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Given the clue' is a request for information or clarification, which falls under the Negotiation & Coordination (NC) facet. It's not sharing information (CSK) nor providing support or suggestions (MTF)."
+  },
+  {
+    "original_index": 1725,
+    "utterance": "If anybody else wants to type",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing information or confirming understanding (CSK: 0), but they are coordinating the task by asking if anyone else wants to type (NC: 1). They are also maintaining team function by inviting others to participate (MTF: 1)."
+  },
+  {
+    "original_index": 1425,
+    "utterance": "Okay so like we can discuss it amongst ourselves",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Okay so like we can discuss it amongst ourselves' is primarily a suggestion for coordination and negotiation (NC=1) as it encourages discussion among team members. It's not explicitly sharing information (CSK=0) or maintaining team function through support or compliments (MTF=0)."
+  },
+  {
+    "original_index": 2109,
+    "utterance": "One twenty it's higher than one twenty at least so maybe",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is sharing new information ('One twenty it's higher than one twenty at least') and also questioning their previous understanding ('maybe'), which falls under Constructing Shared Knowledge (CSK) and Negotiation & Coordination (NC). There's no explicit Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2012,
+    "utterance": "If you have any idea you can say it actually",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "This utterance is not primarily about sharing information or confirming understanding (CSK), but it is an example of Negotiation & Coordination (NC) as P1 is encouraging P3 to contribute their idea. It also shows Maintaining Team Function (MTF) as P1 is supporting P3 by inviting them to share their thoughts."
+  },
+  {
+    "original_index": 1045,
+    "utterance": "Yeah that sounds right",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is acknowledging P2's explanation, indicating understanding and agreement, which is a form of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1759,
+    "utterance": "Let's try both the green ones now I mean both the big ones yeah",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is suggesting a new action ('Let's try both the green ones now') and specifying which items to use ('both the big ones'), indicating Negotiation & Coordination (NC). There's no evidence of Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2167,
+    "utterance": "Sorry",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'Sorry' by P3 is not an instance of Constructing Shared Knowledge (CSK) or Negotiation & Coordination (NC). However, it is an example of Maintaining Team Function (MTF) as it shows consideration and respect for P4's actions, acknowledging their need to calibrate their cameras."
+  },
+  {
+    "original_index": 1436,
+    "utterance": "Maybe um picking like this might also help",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Maybe um picking like this might also help' is a suggestion for a different approach, which falls under the category of Negotiation & Coordination (NC). It's not sharing information (CSK) or maintaining team function (MTF) in this context."
+  },
+  {
+    "original_index": 879,
+    "utterance": "So we could put that there",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is suggesting a course of action based on the shared understanding that the object is heavy, which is a statement of shared knowledge."
+  },
+  {
+    "original_index": 1819,
+    "utterance": "Where should we put it then in forty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming the shared understanding of the number 'forty one', which is a form of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2001,
+    "utterance": "My estimate was like we have two tens when we add two tens we get a twenty when you get twenty plus ten we get a thirty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is providing their estimate (CSK) and explaining their reasoning (NC) by breaking down the calculation into simpler parts, but there's no explicit team function maintenance in this utterance."
+  },
+  {
+    "original_index": 1056,
+    "utterance": "Sure put that in",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is acknowledging and agreeing with P3's explanation (CSK), but not actively engaging in negotiation or coordination (NC). They are also showing support by encouraging P3 to proceed (MTF)."
+  },
+  {
+    "original_index": 1681,
+    "utterance": "Okay okay uh you can put them down So we have like this is twenty",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing new information (CSK=0), but they are coordinating by suggesting to put the objects down (NC=1). They also show support by acknowledging the count (MTF=1)."
+  },
+  {
+    "original_index": 1153,
+    "utterance": "But let's let him do hands and then we'll we'll play with that but I'm thinking",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is sharing their thought process ('I'm thinking') and suggesting a course of action ('let's let him do hands and then we'll play with that'), which is an example of Maintaining Team Function (MTF). There's no evidence of Constructing Shared Knowledge (CSK) or Negotiation & Coordination (NC) in this utterance."
+  },
+  {
+    "original_index": 1679,
+    "utterance": "Okay how about now",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3's utterance 'Okay how about now' is a question that seeks to clarify P1's previous statement, indicating Negotiation & Coordination (NC). It's not sharing information (CSK) nor providing support or suggestions (MTF)."
+  },
+  {
+    "original_index": 677,
+    "utterance": "Oh what should I index",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Oh what should I index' is a question that indicates P3 is seeking clarification or guidance, which falls under the Negotiation & Coordination (NC) facet. It's not sharing information (CSK) or maintaining team function (MTF)."
+  },
+  {
+    "original_index": 1737,
+    "utterance": "Hey",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'Hey' is a greeting and does not contain any information sharing, reasoning, or strategizing. However, it does serve to maintain team function by acknowledging the presence of the other team members and encouraging further conversation."
+  },
+  {
+    "original_index": 2018,
+    "utterance": "Each block is the sum of the heaviest two",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is providing a summary of the pattern they've observed, which is a form of Constructing Shared Knowledge (CSK). They are not negotiating or coordinating (NC) with others, nor are they maintaining team function (MTF) with this utterance."
+  },
+  {
+    "original_index": 550,
+    "utterance": "Wow",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "The utterance 'Wow' is an expression of surprise or amazement, but it does not involve sharing information (CSK), reasoning or questioning (NC), or providing suggestions, compliments, or support (MTF). It is more of an emotional response, so it's marked as absent for CSK and NC, and present for MTF as it could be interpreted as a positive reaction to something previously said, maintaining team function in a broader sense."
+  },
+  {
+    "original_index": 798,
+    "utterance": "That's where I thought was pretty good",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is agreeing with the previous decision made ('That's where I thought was pretty good'), which is an example of Constructing Shared Knowledge (CSK) as they are confirming their understanding and agreement with the group's decision."
+  },
+  {
+    "original_index": 1616,
+    "utterance": "Sort of can you put down the right side and pick it up again",
+    "ground_truth": [
+      0,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is not sharing new information or confirming understanding (CSK), but is giving a suggestion on how to proceed with the task, which is a form of negotiation and coordination (NC). There's no maintenance of team function (MTF) in this utterance."
+  },
+  {
+    "original_index": 76,
+    "utterance": "So thirty this is also forty right so this if forty yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is confirming their understanding of the numbers they've been discussing (30, 40, 50), which is an example of Constructing Shared Knowledge. There's no evidence of Negotiation & Coordination or Maintaining Team Function in this utterance."
+  },
+  {
+    "original_index": 918,
+    "utterance": "And this is thirty right and this is ten so that would be forty so it's more than forty and less than sixty so it's gotta be fifty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is providing additional information ('this is thirty', 'this is ten') and clarifying the range ('more than forty and less than sixty'), which helps in constructing shared knowledge (CSK). They are also reasoning (NC) to determine the correct option based on the given numbers."
+  },
+  {
+    "original_index": 1323,
+    "utterance": "Fifty and the purple is",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is providing information (CSK) by suggesting 'fifty' and then specifying 'and the purple is', but there's no negotiation, coordination, or team function maintenance in this utterance."
+  },
+  {
+    "original_index": 1747,
+    "utterance": "Cause yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Cause yeah' by P3 is a simple agreement or confirmation, indicating that they are open to P1's suggestion. It doesn't involve sharing new information (CSK), nor does it engage in negotiation or coordination (NC). However, it does maintain team function by showing support and agreement with P1's idea."
+  },
+  {
+    "original_index": 2383,
+    "utterance": "Eight That's the first one So eight plus five Thirteen Yeah there is one thirty Eight plus five",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is providing their estimate (CSK) and explaining their reasoning (NC) by adding the two known weights (8 and 5) to get the estimated weight of the second block (13). They are not providing any suggestions, compliments, or support, so MTF is absent."
+  },
+  {
+    "original_index": 1228,
+    "utterance": "Cause it's definitely not one fifty anyways so we might as well just",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing information or confirming understanding (CSK: 0), but they are reasoning (NC: 1) by agreeing with P2's pattern and eliminating a possibility. They also provide support (MTF: 1) by agreeing with P2's idea."
+  },
+  {
+    "original_index": 724,
+    "utterance": "Not fifty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Not fifty' is a negation, which is a form of negotiation and coordination (NC) as it challenges P1's previous statement. It's not an act of constructing shared knowledge (CSK) as it doesn't provide new information, nor is it maintaining team function (MTF) as it doesn't offer support or suggestions."
+  },
+  {
+    "original_index": 1119,
+    "utterance": "I would say yellow is like forty five but we could say fifty since we're",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P2 is sharing information (CSK) about their understanding of the pattern ('I would say yellow is like forty five') and also questioning (NC) the team's approach ('we could say fifty since we're'). They are not providing any suggestions, compliments, or support, so MTF is absent."
+  },
+  {
+    "original_index": 2107,
+    "utterance": "Yeah I feel like oh we got all the way up to like one forty ok just kidding I thought it was just up to seventy I was like we'll just go with our maximum",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is correcting their previous statement, which is a form of Negotiation & Coordination (NC), as they're adjusting their understanding of the weight limit. There's no evidence of Constructing Shared Knowledge (CSK) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2200,
+    "utterance": "Alright Well now let's do these two I can already tell this one's heavier yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing information or confirming understanding (CSK), but is making a statement that suggests reasoning and strategizing (NC) about the next steps, indicating they are heavier. There's no suggestion, compliment, or support given, so MTF is absent."
+  },
+  {
+    "original_index": 612,
+    "utterance": "Yeah it's too balanced",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'Yeah it's too balanced' is not sharing information (CSK=0), nor is it negotiating or coordinating (NC=0). However, it is maintaining team function (MTF=1) as it acknowledges P3's confusion and validates their perspective, encouraging further discussion."
+  },
+  {
+    "original_index": 164,
+    "utterance": "This or this cause we can't even make these weights so it could be above them I know but like if we are thinking it's so close to a hundred",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is sharing their thought process (CSK) by explaining their reasoning for choosing between two options. They are also negotiating and coordinating (NC) with the team by presenting their reasoning and inviting others to consider it."
+  },
+  {
+    "original_index": 2271,
+    "utterance": "No no no no So like they gave the weight of this one they gave the weight of the red one so that's why they didn't include this one they already gave us yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is providing additional information about the weight of the red object, which helps to clarify the situation and build shared knowledge among the team members. There's no negotiation or coordination happening in this utterance, nor is there any explicit maintenance of team function."
+  },
+  {
+    "original_index": 265,
+    "utterance": "Yeah",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Yeah' is simply acknowledging P1's previous statement, showing agreement and support, which falls under Maintaining Team Function (MTF). It doesn't involve sharing new information (CSK), nor does it engage in negotiation or coordination (NC)."
+  },
+  {
+    "original_index": 288,
+    "utterance": "This would be blue this would be purple yeah I thought they were both blue until",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming their understanding of the colors (CSK) by stating 'This would be blue this would be purple', and also shows support (MTF) by acknowledging P1's input ('yeah I thought they were both blue until'). There's no negotiation or coordination (NC) in this utterance."
+  },
+  {
+    "original_index": 456,
+    "utterance": "Purple is thirty",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is providing information to clarify the weight of the purple item, which is a form of Constructing Shared Knowledge (CSK). They are not Negotiating or Coordinating (NC) nor Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 2076,
+    "utterance": "That was twenty ten yep",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is confirming the shared understanding of the numbers used in the problem, which is a form of Constructing Shared Knowledge (CSK). There's no Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 907,
+    "utterance": "What if I do this ok so less than forty likely thirty ok",
+    "ground_truth": [
+      1,
+      1,
+      0
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": true,
+    "parse_success": true,
+    "reasoning": "P1 is confirming P2's understanding (CSK) and also questioning (NC) to explore other possibilities, but there's no team function maintenance in this utterance."
+  },
+  {
+    "original_index": 1570,
+    "utterance": "How about try doing it now",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "The utterance 'How about try doing it now' is a suggestion for immediate action, which falls under the category of Negotiation & Coordination (NC). It's not sharing information (CSK) nor providing support or suggestions to maintain team function (MTF)."
+  },
+  {
+    "original_index": 1169,
+    "utterance": "Purple and then let's put green and a ten",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is suggesting to use purple and then green with a weight of 10, which is a piece of information shared to construct shared knowledge. There's no negotiation or coordination (NC) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 2393,
+    "utterance": "Yeah One thirty that's it",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming their understanding of the calculation (8+5=13) and the result, which is a form of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 603,
+    "utterance": "Yeah it's maybe let's try it with the smaller one then",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing new information or confirming understanding (CSK=0), but they are suggesting a new approach (NC=1) to rule out the size of the block as a factor. They are not providing support or making suggestions to maintain team function (MTF=0)."
+  },
+  {
+    "original_index": 2180,
+    "utterance": "Let's put two yeah Red one as well",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is not sharing new information or confirming understanding (CSK=0), but they are continuing the discussion and making a suggestion (NC=1), which is a form of coordination. They are not providing support or making suggestions to maintain team function (MTF=0)."
+  },
+  {
+    "original_index": 2213,
+    "utterance": "Just a second just a sec",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2's utterance 'Just a second just a sec' is a brief pause or delay signal, indicating they need a moment to perform an action or think. It doesn't involve sharing information (CSK), negotiating or coordinating (NC), but it does maintain team function by signaling that they're still engaged and will continue shortly (MTF)."
+  },
+  {
+    "original_index": 1576,
+    "utterance": "You should be holding this We definitely know that it's",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      1,
+      0,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is confirming the shared understanding about the 'mystery block', which is an example of Constructing Shared Knowledge (CSK). There's no evidence of Negotiation & Coordination (NC) or Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 1193,
+    "utterance": "Here if anybody wants to yeah it's heavy",
+    "ground_truth": [
+      1,
+      0,
+      1
+    ],
+    "predicted": [
+      0,
+      0,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing new information or negotiating, but they are maintaining team function by offering the heavy object to others, showing consideration for the team's workload."
+  },
+  {
+    "original_index": 1505,
+    "utterance": "It could be the same can you try it now or",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P2 is suggesting a possible solution ('It could be the same') and asking P3 to verify it ('can you try it now'), which falls under Constructing Shared Knowledge (CSK) and Negotiation & Coordination (NC). There's no explicit Maintaining Team Function (MTF) in this utterance."
+  },
+  {
+    "original_index": 840,
+    "utterance": "I said one thirty I feel like we can't overthink it",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1's utterance 'I said one thirty I feel like we can't overthink it' is primarily a Negotiation & Coordination (NC) move. They are expressing their perspective ('I said one thirty') and also suggesting a strategy ('we can't overthink it'). It doesn't seem to be Constructing Shared Knowledge (CSK) as it's not sharing new information or confirming understanding, nor is it Maintaining Team Function (MTF) as it's not providing support, suggestions, or compliments."
+  },
+  {
+    "original_index": 469,
+    "utterance": "So if you put the purple and just to verify that all of our weights are correct",
+    "ground_truth": [
+      0,
+      1,
+      1
+    ],
+    "predicted": [
+      1,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P1 is verifying the weights by adding the purple and green, which is a form of Constructing Shared Knowledge (CSK) by confirming understanding. They are also Negotiating & Coordinating (NC) by asking others to verify their calculation."
+  },
+  {
+    "original_index": 1927,
+    "utterance": "I think that might be it should we do it again just to be sure",
+    "ground_truth": [
+      1,
+      1,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      0
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is expressing uncertainty and suggesting a repetition of the action to confirm, which falls under Negotiation & Coordination (NC). There's no explicit sharing of information (CSK) or team function maintenance (MTF) in this utterance."
+  },
+  {
+    "original_index": 2342,
+    "utterance": "Well If we're going to put a hundred and ten What No that's what I said this is alone it's it's hundred but what do you want to do first I think we should go with a hundred and ten first Then if y'all agree we can go with a hundred next right",
+    "ground_truth": [
+      1,
+      1,
+      1
+    ],
+    "predicted": [
+      0,
+      1,
+      1
+    ],
+    "match": false,
+    "parse_success": true,
+    "reasoning": "P3 is not sharing new information (CSK=0), but they are negotiating the next step by asking for agreement (NC=1) and suggesting a course of action (MTF=1). They are also maintaining team function by considering others' opinions ('if y'all agree')."
+  }
+]

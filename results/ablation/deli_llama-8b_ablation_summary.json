@@ -1,0 +1,75 @@
+{
+  "model": "llama-8b",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa_type": 0.45124341274334745,
+      "kappa_target": 0.38003719776813394,
+      "parse_failure_rate": 0.0
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa_type": 0.4767704104645918,
+      "kappa_target": 0.4480962420935135,
+      "parse_failure_rate": 0.0
+    },
+    "h3_coton": {
+      "history_window": 3,
+      "use_cot": true,
+      "kappa_type": 0.5783753396420875,
+      "kappa_target": 0.4601973071911646,
+      "parse_failure_rate": 0.0
+    },
+    "h3_cotoff": {
+      "history_window": 3,
+      "use_cot": false,
+      "kappa_type": 0.561873689116756,
+      "kappa_target": 0.43790728558633674,
+      "parse_failure_rate": 0.0
+    },
+    "h5_coton": {
+      "history_window": 5,
+      "use_cot": true,
+      "kappa_type": 0.5728570041743519,
+      "kappa_target": 0.4446329949708433,
+      "parse_failure_rate": 0.0
+    },
+    "h5_cotoff": {
+      "history_window": 5,
+      "use_cot": false,
+      "kappa_type": 0.5658465991316932,
+      "kappa_target": 0.46777237986199205,
+      "parse_failure_rate": 0.0
+    },
+    "h10_coton": {
+      "history_window": 10,
+      "use_cot": true,
+      "kappa_type": 0.6177032789295691,
+      "kappa_target": 0.3981323488350449,
+      "parse_failure_rate": 0.0
+    },
+    "h10_cotoff": {
+      "history_window": 10,
+      "use_cot": false,
+      "kappa_type": 0.5593236576136418,
+      "kappa_target": 0.44504393402189,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_coton": {
+      "history_window": -1,
+      "use_cot": true,
+      "kappa_type": 0.5865583385414163,
+      "kappa_target": 0.3839260711285355,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_cotoff": {
+      "history_window": -1,
+      "use_cot": false,
+      "kappa_type": 0.5635517191212841,
+      "kappa_target": 0.4227367244964464,
+      "parse_failure_rate": 0.0
+    }
+  }
+}

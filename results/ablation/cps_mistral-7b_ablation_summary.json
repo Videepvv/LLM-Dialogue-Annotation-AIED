@@ -1,0 +1,126 @@
+{
+  "model": "mistral-7b",
+  "timestamp": "2026-01-30T02:50:06.031415",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa": 0.04458666230220243,
+      "kappas_per_facet": {
+        "CSK": 0.05659276546091008,
+        "NC": 0.02137323002938829,
+        "MTF": 0.05579399141630892
+      },
+      "parse_failure_rate": 0.015151515151515152,
+      "total_samples": 198
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa": 0.013731699032778563,
+      "kappas_per_facet": {
+        "CSK": 0.06412630347919301,
+        "NC": -0.022931206380857327,
+        "MTF": 0.0
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h3_coton": {
+      "history_window": 3,
+      "use_cot": true,
+      "kappa": 0.12575808802116553,
+      "kappas_per_facet": {
+        "CSK": 0.0673444641358083,
+        "NC": 0.05106455170073798,
+        "MTF": 0.25886524822695034
+      },
+      "parse_failure_rate": 0.020202020202020204,
+      "total_samples": 198
+    },
+    "h3_cotoff": {
+      "history_window": 3,
+      "use_cot": false,
+      "kappa": 0.09858687463171796,
+      "kappas_per_facet": {
+        "CSK": 0.05200901239203892,
+        "NC": 0.03430602628750934,
+        "MTF": 0.20944558521560563
+      },
+      "parse_failure_rate": 0.0,
+      "total_samples": 198
+    },
+    "h5_coton": {
+      "history_window": 5,
+      "use_cot": true,
+      "kappa": 0.09288598045460628,
+      "kappas_per_facet": {
+        "CSK": 0.07855547282204012,
+        "NC": -0.0005895729807126049,
+        "MTF": 0.20069204152249132
+      },
+      "parse_failure_rate": 0.03535353535353535,
+      "total_samples": 198
+    },
+    "h5_cotoff": {
+      "history_window": 5,
+      "use_cot": false,
+      "kappa": 0.046497702420724964,
+      "kappas_per_facet": {
+        "CSK": 0.028610729023383796,
+        "NC": 0.0015706373481029212,
+        "MTF": 0.10931174089068818
+      },
+      "parse_failure_rate": 0.005050505050505051,
+      "total_samples": 198
+    },
+    "h10_coton": {
+      "history_window": 10,
+      "use_cot": true,
+      "kappa": 0.11807736375156459,
+      "kappas_per_facet": {
+        "CSK": 0.13372645995815113,
+        "NC": -0.010118187228977282,
+        "MTF": 0.23062381852551994
+      },
+      "parse_failure_rate": 0.13131313131313133,
+      "total_samples": 198
+    },
+    "h10_cotoff": {
+      "history_window": 10,
+      "use_cot": false,
+      "kappa": 0.05184304456318045,
+      "kappas_per_facet": {
+        "CSK": 0.03269107844032504,
+        "NC": 0.029814799435262773,
+        "MTF": 0.09302325581395354
+      },
+      "parse_failure_rate": 0.06060606060606061,
+      "total_samples": 198
+    },
+    "h-1_coton": {
+      "history_window": -1,
+      "use_cot": true,
+      "kappa": -0.023681938528121504,
+      "kappas_per_facet": {
+        "CSK": -0.020088319335007432,
+        "NC": -0.055597867479055596,
+        "MTF": 0.0046403712296985145
+      },
+      "parse_failure_rate": 0.08585858585858586,
+      "total_samples": 198
+    },
+    "h-1_cotoff": {
+      "history_window": -1,
+      "use_cot": false,
+      "kappa": 0.009399780738705102,
+      "kappas_per_facet": {
+        "CSK": 0.1270152311392181,
+        "NC": -0.07003891050583655,
+        "MTF": -0.02877697841726623
+      },
+      "parse_failure_rate": 0.16161616161616163,
+      "total_samples": 198
+    }
+  }
+}

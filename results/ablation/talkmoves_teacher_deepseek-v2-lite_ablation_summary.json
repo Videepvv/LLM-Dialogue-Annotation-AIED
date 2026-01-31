@@ -1,0 +1,29 @@
+{
+  "model": "deepseek-v2-lite",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa": 0.049429657794676674,
+      "parse_failure_rate": 0.02
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa": 0.05264352167007025,
+      "parse_failure_rate": 0.0
+    },
+    "h1_coton": {
+      "history_window": 1,
+      "use_cot": true,
+      "kappa": 0.06992766104030312,
+      "parse_failure_rate": 0.023333333333333334
+    },
+    "h1_cotoff": {
+      "history_window": 1,
+      "use_cot": false,
+      "kappa": 0.061976549413735316,
+      "parse_failure_rate": 0.0
+    }
+  }
+}

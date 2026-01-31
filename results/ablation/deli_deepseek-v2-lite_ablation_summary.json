@@ -1,0 +1,75 @@
+{
+  "model": "deepseek-v2-lite",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa_type": 0.008068694944111332,
+      "kappa_target": 0.09691985163683281,
+      "parse_failure_rate": 0.0
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa_type": 0.03908210828253844,
+      "kappa_target": 0.059451558577738206,
+      "parse_failure_rate": 0.0
+    },
+    "h3_coton": {
+      "history_window": 3,
+      "use_cot": true,
+      "kappa_type": 0.023821665331099418,
+      "kappa_target": 0.06725888324873097,
+      "parse_failure_rate": 0.0
+    },
+    "h3_cotoff": {
+      "history_window": 3,
+      "use_cot": false,
+      "kappa_type": 0.06109865470851994,
+      "kappa_target": 0.06250983106301322,
+      "parse_failure_rate": 0.0
+    },
+    "h5_coton": {
+      "history_window": 5,
+      "use_cot": true,
+      "kappa_type": 0.023821665331099418,
+      "kappa_target": 0.047258502113697864,
+      "parse_failure_rate": 0.0
+    },
+    "h5_cotoff": {
+      "history_window": 5,
+      "use_cot": false,
+      "kappa_type": 0.046534794364593846,
+      "kappa_target": 0.02457325079722361,
+      "parse_failure_rate": 0.0
+    },
+    "h10_coton": {
+      "history_window": 10,
+      "use_cot": true,
+      "kappa_type": 0.017056952876553844,
+      "kappa_target": 0.03564337713907517,
+      "parse_failure_rate": 0.0
+    },
+    "h10_cotoff": {
+      "history_window": 10,
+      "use_cot": false,
+      "kappa_type": 0.024740050197203267,
+      "kappa_target": 0.04243334585054437,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_coton": {
+      "history_window": -1,
+      "use_cot": true,
+      "kappa_type": 0.023821665331099418,
+      "kappa_target": 0.02332133354202537,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_cotoff": {
+      "history_window": -1,
+      "use_cot": false,
+      "kappa_type": 0.031511997687192705,
+      "kappa_target": 0.04836437627171697,
+      "parse_failure_rate": 0.0
+    }
+  }
+}

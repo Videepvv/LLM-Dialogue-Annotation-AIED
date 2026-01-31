@@ -1,0 +1,75 @@
+{
+  "model": "mistral-7b",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa_type": 0.5263112565670485,
+      "kappa_target": 0.4785199900670475,
+      "parse_failure_rate": 0.0
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa_type": 0.5281456953642384,
+      "kappa_target": 0.49922720247295205,
+      "parse_failure_rate": 0.0
+    },
+    "h3_coton": {
+      "history_window": 3,
+      "use_cot": true,
+      "kappa_type": 0.5911692559280457,
+      "kappa_target": 0.5055546862775779,
+      "parse_failure_rate": 0.0
+    },
+    "h3_cotoff": {
+      "history_window": 3,
+      "use_cot": false,
+      "kappa_type": 0.536917931566761,
+      "kappa_target": 0.5335820895522387,
+      "parse_failure_rate": 0.0
+    },
+    "h5_coton": {
+      "history_window": 5,
+      "use_cot": true,
+      "kappa_type": 0.6176082305276096,
+      "kappa_target": 0.49598655964159044,
+      "parse_failure_rate": 0.0
+    },
+    "h5_cotoff": {
+      "history_window": 5,
+      "use_cot": false,
+      "kappa_type": 0.55788652420788,
+      "kappa_target": 0.5296884185773075,
+      "parse_failure_rate": 0.0
+    },
+    "h10_coton": {
+      "history_window": 10,
+      "use_cot": true,
+      "kappa_type": 0.5104253180049831,
+      "kappa_target": 0.4834292827135521,
+      "parse_failure_rate": 0.0
+    },
+    "h10_cotoff": {
+      "history_window": 10,
+      "use_cot": false,
+      "kappa_type": 0.48298512522778325,
+      "kappa_target": 0.5001851166234728,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_coton": {
+      "history_window": -1,
+      "use_cot": true,
+      "kappa_type": 0.5061292882970279,
+      "kappa_target": 0.4222525936509909,
+      "parse_failure_rate": 0.0
+    },
+    "h-1_cotoff": {
+      "history_window": -1,
+      "use_cot": false,
+      "kappa_type": 0.4661469367002796,
+      "kappa_target": 0.4890821726172374,
+      "parse_failure_rate": 0.0
+    }
+  }
+}

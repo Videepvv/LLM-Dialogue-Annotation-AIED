@@ -1,0 +1,29 @@
+{
+  "model": "qwen-14b",
+  "configs": {
+    "h0_coton": {
+      "history_window": 0,
+      "use_cot": true,
+      "kappa": 0.19788377847939242,
+      "parse_failure_rate": 0.0
+    },
+    "h0_cotoff": {
+      "history_window": 0,
+      "use_cot": false,
+      "kappa": 0.1821024777483763,
+      "parse_failure_rate": 0.0
+    },
+    "h1_coton": {
+      "history_window": 1,
+      "use_cot": true,
+      "kappa": 0.2080033347228012,
+      "parse_failure_rate": 0.0
+    },
+    "h1_cotoff": {
+      "history_window": 1,
+      "use_cot": false,
+      "kappa": 0.18309637891760266,
+      "parse_failure_rate": 0.0
+    }
+  }
+}
