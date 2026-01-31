@@ -101,7 +101,8 @@ Output: {"CPS_Label": [CSK, NC, MTF], "reasoning": "brief explanation"}"""
 
 
 def get_conversation_history(df: pd.DataFrame, current_idx: int, window: int = 5) -> str:
-    start_idx = max(0, current_idx - window)
+    # -1 means use all available history
+    start_idx = 0 if window == -1 else max(0, current_idx - window)
     history = []
     for i in range(start_idx, current_idx):
         row = df.iloc[i]

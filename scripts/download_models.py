@@ -15,11 +15,19 @@ import os
 MODELS = {
     "llama-8b": "meta-llama/Llama-3.1-8B-Instruct",
     "llama-70b": "meta-llama/Llama-3.1-70B-Instruct",
+    "llama-3.2-11b": "meta-llama/Llama-3.2-11B-Vision-Instruct",
     "qwen-7b": "Qwen/Qwen2.5-7B-Instruct",
     "qwen-14b": "Qwen/Qwen2.5-14B-Instruct",
+    "qwen-32b": "Qwen/Qwen2.5-32B-Instruct",
+    "qwen-72b": "Qwen/Qwen2.5-72B-Instruct",
     "gemma-9b": "google/gemma-2-9b-it",
+    "gemma-27b": "google/gemma-2-27b-it",
     "mistral-7b": "mistralai/Mistral-7B-Instruct-v0.3",
+    "mistral-nemo": "mistralai/Mistral-Nemo-Instruct-2407",
+    "mixtral-8x7b": "mistralai/Mixtral-8x7B-Instruct-v0.1",
     "phi-3.5": "microsoft/Phi-3.5-mini-instruct",
+    "deepseek-r1-70b": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+    "deepseek-v2-lite": "deepseek-ai/DeepSeek-V2-Lite-Chat",
 }
 
 

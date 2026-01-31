@@ -24,19 +24,26 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # Configuration
 # ============================================================================
 
-ABLATION_DATA_PATH = Path("/s/babbage/h/nobackup/nblancha/public-datasets/ilideep/LLM-Dialogue-Annotation-AIED/data/ablation/cps_ablation_198.csv")
-FULL_DATA_PATH = Path("/s/babbage/h/nobackup/nblancha/public-datasets/ilideep/AutomaticAnnotations/Data/WTD/OOCPS_aied.csv")
-RESULTS_DIR = Path("/s/babbage/h/nobackup/nblancha/public-datasets/ilideep/LLM-Dialogue-Annotation-AIED/results/ablation")
-MODELS_DIR = Path("/s/babbage/h/nobackup/nblancha/public-datasets/openWeightLLMs")
+# Use paths relative to this script's location
+SCRIPT_DIR = Path(__file__).parent.parent.resolve()
+ABLATION_DATA_PATH = SCRIPT_DIR / "data/ablation/cps_ablation_198.csv"
+FULL_DATA_PATH = SCRIPT_DIR / "data/GoldenData/WTD/OOCPS_aied.csv"
+RESULTS_DIR = SCRIPT_DIR / "results/ablation"
+MODELS_DIR = Path("/data/open-weight-llms/models")
 
 MODELS = {
-    "llama-3b": "meta-llama_Llama-3.2-3B-Instruct-HF",
-    "llama-1b": "meta-llama_Llama-3.2-1B-Instruct-HF",
-    "llama-8b": "meta-llama_Llama-3.1-8B-Instruct-HF",
-    "qwen-3b": "Qwen_Qwen2.5-3B-Instruct",
-    "qwen-7b": "Qwen_Qwen2.5-7B-Instruct",
-    "gemma-2b": "google_gemma-2-2b-it",
-    "phi-3.5": "microsoft_Phi-3.5-mini-instruct",
+    "llama-8b": "llama-8b",
+    "llama-70b": "llama-70b",
+    "llama-3.2-11b": "llama-3.2-11b",
+    "qwen-7b": "qwen-7b",
+    "qwen-14b": "qwen-14b",
+    "qwen-32b": "qwen-32b",
+    "qwen-72b": "qwen-72b",
+    "gemma-9b": "gemma-9b",
+    "mistral-7b": "mistral-7b",
+    "mistral-nemo": "mistral-nemo",
+    "mixtral-8x7b": "mixtral-8x7b",
+    "deepseek-v2-lite": "deepseek-v2-lite",
 }
 
 # Ablation configurations
@@ -274,7 +281,7 @@ def run_ablation_config(model, tokenizer, ablation_df, full_df, history_window: 
 
 def main():
     parser = argparse.ArgumentParser(description="CPS Ablation Testing")
-    parser.add_argument("--model", type=str, default="llama-3b", choices=list(MODELS.keys()))
+    parser.add_argument("--model", type=str, default="llama-8b", choices=list(MODELS.keys()))
     parser.add_argument("--history_window", type=int, default=None, help="Specific history window (0, 3, 5, 10)")
     parser.add_argument("--cot", type=str, default=None, choices=["on", "off"], help="Specific CoT setting")
     parser.add_argument("--config", type=str, default="single", choices=["single", "all"], 
